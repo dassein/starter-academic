@@ -100,7 +100,7 @@ address = {street = "2200 169th St, Purdue University Northwest", city = "Hammon
 coordinates = {latitude = "41.57986258539474", longitude = "-87.47394200032014"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = false # "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -113,7 +113,6 @@ appointment_url = "https://zhankunluo.com"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "github", icon_pack = "fab", name = "Code", link = "https://github.com/dassein"},
-  {icon = "email", icon_pack = "fab", name = "Email Me", link = "luo333@pnw.edu"},
   {icon = "blog", icon_pack = "fas", name = "Blog", link = "https://dassein.github.io/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
