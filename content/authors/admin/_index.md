@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zhankun Luo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assistant from Purdue University Northwest
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -40,15 +40,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: email
-  icon_pack: fas
-  link: luo333@pnw.edu
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: blog
   icon_pack: fas
-  link: https://github.com/dassein
+  link: https://dassein.github.io
 - icon: github
   icon_pack: fab
   link: https://github.com/dassein
@@ -70,8 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zhankun received the BS degree in Telecommunication Engineering from Beijing Institute of Technology in 2019. He is a Master student with the Department of Electrical and Computer Engineering. His research interest includes computer vision, image processing, and deep learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
