@@ -10,15 +10,15 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Purdue University Northwest
+  url: https://www.pnw.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer vision, image processing and meachine learning.
 
 # Interests to show in About widget
 interests:
-- Computational Vision
+- Computater Vision
 - Image Processing
 - Machine Learning
 
@@ -41,13 +41,13 @@ social:
   icon_pack: fas
   link: '/#contact'
 - icon: email
-  icon_pack: fab
+  icon_pack: fas
   link: luo333@pnw.edu
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: blog
-  icon_pack: fab
+  icon_pack: fas
   link: https://github.com/dassein
 - icon: github
   icon_pack: fab
