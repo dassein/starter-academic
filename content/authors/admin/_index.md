@@ -6,7 +6,7 @@ title: Zhankun Luo
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant from Purdue University Northwest
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
