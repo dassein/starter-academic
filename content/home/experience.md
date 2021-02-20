@@ -22,24 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Research Assistant
+    company: Center for Innovation through Visualization and Simulation, Purdue University Northwest
+    company_url: 'https://www.pnw.edu/civs/'
+    location: Hammond, IN
+    date_start: '2020-02-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Developed a machine learning application using DNN and LightGBM to provide steel casting temperature predictions
+        * Collaborated the application with SQL database and GUI using Unity to display predictions and parameters
+        * Published the paper that was selected for the AIST 2021 Digitalization Applications Technology Best Paper Award
+        * Mentored three students and taught the models for sequential predictions
 ---
