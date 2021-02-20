@@ -18,7 +18,7 @@ bio: My research interests include computer vision, image processing and meachin
 
 # Interests to show in About widget
 interests:
-- Computater Vision
+- Computer Vision
 - Image Processing
 - Machine Learning
 
@@ -69,4 +69,4 @@ highlight_name: false
 
 Zhankun received the BS degree in Telecommunication Engineering from Beijing Institute of Technology in 2019. He is a Master student with the Department of Electrical and Computer Engineering. His research interest includes computer vision, image processing, and deep learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv/Zhankun_s_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
