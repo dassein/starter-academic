@@ -1,21 +1,23 @@
 ---
-title: "Multi-level Random Sample Consensus Method for Improving Structured Light Vision Systems"
+title: "Computer Vision Techniques for Improving Structured Light Vision Systems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zhankun Luo
 - Yaan Zhang
+- Zhankun Luo
+- Jintao Hou
 - Lizhe Tan
+- Xinnian Guo
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-10-18T00:00:00Z"
-doi: "https://doi.org/10.1109/UEMCON51285.2020.9298161"
+date: "2020-07-31T00:00:00Z"
+doi: "https://doi.org/10.1109/EIT48999.2020.9208332"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -27,13 +29,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2020 11th IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)*
-publication_short: In *IEEE UEMCON 2020*
+publication: In *2020 IEEE International Conference on Electro Information Technology (EIT)*
+publication_short: In *IEEE EIT 2020*
 
-abstract: The paper proposes a structured light vision system equipped with multi-cameras and multi-laser emitters for object height measurement or 3D reconstruction. The proposed method offers a better accuracy performance over a single camera system. To tackle the intersections produced by laser emitters in the projected image plane, we propose a multi-level random sample consensus (MLRANSAC) algorithm to separate the intersection points instead of using the traditional methods such as time division and color division techniques. Our experiments demonstrate that the MLRANSAC algorithm can perform effectively.
+abstract: In this paper, we propose computer vision techniques for 3D reconstruction and object height measurement using a single camera and multi-laser emitters which have an intersection on the projected image plane. Time-division and color division methods are first investigated. Although the color division method offers better accuracy for height measurement, it requires the laser emitters equipped with different color light, and the color division method is also sensitive to light exposure in the measurement environment. Next, a new multi-level random sample consensus (MLRANSAC) algorithm has been developed. The proposed MLRANSAC method not only offers high accuracy for height measurement but also eliminates the requirement for the laser emitters with different colors. Our experiment results have validated the effectiveness of the MLRANSAC algorithm.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Compared the proposed MLRANSAC method with time-division and color division methods, the experiment results validated the effectiveness of the MLRANSAC algorithm.
 
 tags: []
 
@@ -45,19 +47,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './publication/multi_ransac1/Structured_Light_Luo_revision_final+.pdf'
+url_pdf: 'publication/multi_ransac2/Zhankun_eit2020.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'publication/multi_ransac1/Zhankun_UEMCON2020.pdf'
+url_slides: 'publication/multi_ransac2/EIT_conference_oral.pdf'
 url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
+  caption:  '' # 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
   focal_point: ""
   preview_only: false
 
