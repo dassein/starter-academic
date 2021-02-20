@@ -46,7 +46,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: './publication/multi_ransac1/Structured_Light_Luo_revision_final+.pdf'
-url_code: ''
+url_code: 'https://drive.google.com/file/d/1Ta8uroiXqhtwg31-QfZsV4oiUcoLBNFk/view?usp=sharing'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
+  caption: '[](publication/multi_ransac1/featured.png)'
   focal_point: ""
   preview_only: false
 

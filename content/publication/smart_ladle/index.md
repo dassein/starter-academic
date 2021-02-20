@@ -52,7 +52,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: 'https://www.pnw.edu/civs/2020/12/01/civs-paper-selected-for-2021-aistech-best-paper-award/'
-url_slides: ''
+url_slides: 'publication/smart_ladle/intro_senior_design.pdf'
 url_source: ''
 url_video: ''
 
