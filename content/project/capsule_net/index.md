@@ -18,9 +18,9 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: "https://drive.google.com/file/d/1_ia49WrUeH92haC-u4Tufcsr30OsgAvq/view?usp=sharing"
-url_pdf: "project/capsule_net/IntroVis_FinalReport.pdf"
+url_pdf: "project/capsule_net/U_Net.pdf"
 url_dataset: "https://drive.grand-challenge.org/"
-url_slides: ""
+url_slides: "project/capsule_net/IntroVis_FinalReport.pdf"
 url_video: "https://drive.google.com/file/d/1QLBoun9Vz_kfzMkKhZPs-vQn5x0e6Daw/view?usp=sharing"
 
 # Slides (optional).
