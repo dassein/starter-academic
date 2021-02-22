@@ -1,5 +1,5 @@
 ---
-title: FIR, IIR and RLS filter
+title: Image processing methods
 subtitle: 
 
 # Summary for listings and search engines
