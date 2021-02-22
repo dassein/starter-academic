@@ -3,8 +3,8 @@ title: Image processing methods
 subtitle: 
 
 # Summary for listings and search engines
-summary: We implemented the image processing method both in spatial domain and frequency domain.
-For instance, we developed the codes not only for auto-contrast, histogram match, spatial filters such as Guass, Laplace, LOG, weighted median in spatial domain; but also for 2d DFT, 2d DCT based on fft, filters in frequency domain.
+summary: We implemented the image processing method both in the spatial domain and frequency domain.
+For instance, we developed the codes not only for auto-contrast, histogram matching, spatial filters such as Gauss, Laplace, LoG, the weighted median in the spatial domain; but also for 2d DFT, 2d DCT based on FFT, filters in the frequency domain
 
 # Link this post with a project
 projects: []
