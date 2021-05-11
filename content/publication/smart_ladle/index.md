@@ -50,7 +50,7 @@ featured: true
 url_pdf: 'publication/smart_ladle/AISTECH_2020_SmartLadle_Submitted.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
 url_project: 'https://www.pnw.edu/civs/2020/12/01/civs-paper-selected-for-2021-aistech-best-paper-award/'
 url_slides: 'publication/smart_ladle/intro_senior_design.pdf'
 url_source: ''
@@ -77,4 +77,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
