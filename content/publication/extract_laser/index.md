@@ -1,5 +1,5 @@
 ---
-title: “Structured Light Vision Systems Using a Robust Laser Stripe Segmentation Method“
+title: "Structured Light Vision Systems Using a Robust Laser Stripe Segmentation Method""
 authors:
 - Zhankun Luo
 
@@ -56,7 +56,4 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-
 ---
-
-
