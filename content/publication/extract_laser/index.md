@@ -1,5 +1,5 @@
 ---
-title: "Structured Light Vision Systems Using a Robust Laser Stripe Segmentation Method""
+title: "Structured Light Vision Systems Using a Robust Laser Stripe Segmentation Method"
 authors:
 - Zhankun Luo
 
