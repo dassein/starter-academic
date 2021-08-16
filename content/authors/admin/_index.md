@@ -14,7 +14,7 @@ organizations:
   url: https://engineering.purdue.edu/ECE/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer machine learning, computer vision and image processing.
+bio: My research interests include machine learning, computer vision and image processing.
 
 # Interests to show in About widget
 interests:
@@ -68,6 +68,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Zhankun received the BS degree in Telecommunication Engineering from Beijing Institute of Technology in 2019. He is a Master student with the Department of Electrical and Computer Engineering. His research interest includes computer vision, image processing, and deep learning.
+I joined the Elmore Family School of Electrical and Computer Engineering at Purdue University West Lafayette as a Ph.D. student in Fall 2021. I obtained my MS degree in the Department of Electrical and Computer Engineering at PNW in 2021.  Before that I received my BS degree in Telecommunication Engineering from Beijing Institute of Technology in 2019. My research interests include machine learning, computer vision and image processing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv/Zhankun_s_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

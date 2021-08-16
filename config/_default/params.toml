@@ -88,16 +88,16 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "luo333@pnw.edu"
+email = "luo333@purdue.edu"
 phone = "2192387103"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2200 169th St, Purdue University Northwest", city = "Hammond", region = "IN", postcode = "46323", country = "United States", country_code = "US"}
+address = {street = "610 Purdue Mall, Purdue University West Lafayette", city = "West Lafayette", region = "IN", postcode = "46323", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.57986258539474", longitude = "-87.47394200032014"}
+coordinates = {latitude = "40.428165", longitude = "-86.914429"}
 
 # Directions for visitors to locate you.
 directions = false # "Enter Building 1 and take the stairs to Office 200 on Floor 2"
