@@ -6,25 +6,27 @@ title: Zhankun Luo
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Purdue University Northwest
-  url: https://www.pnw.edu/
+- name: Elmore Family School of Electrical and Computer Engineering, Purdue University
+  url: https://engineering.purdue.edu/ECE/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision, image processing and meachine learning.
+bio: My research interests include computer machine learning, computer vision and image processing.
 
 # Interests to show in About widget
 interests:
+- Machine Learning
 - Computer Vision
 - Image Processing
-- Machine Learning
 
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. student in Electrical and Computer Engineering (Present)
+    institution: Purdue University West Lafayette
   - course: Ms in Electrical and Computer Engineering
     institution: Purdue University Northwest
     year: 2021
@@ -66,7 +68,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
 Zhankun received the BS degree in Telecommunication Engineering from Beijing Institute of Technology in 2019. He is a Master student with the Department of Electrical and Computer Engineering. His research interest includes computer vision, image processing, and deep learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv/Zhankun_s_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
