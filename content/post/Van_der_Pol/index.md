@@ -32,7 +32,7 @@ authors:
 - Zhankun Luo
 
 tags:
-- deep learning
+- math
 
 categories: []
 
