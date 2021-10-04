@@ -27,7 +27,7 @@ experience:
     company_url: 'https://engineering.purdue.edu/~ips/'
     location: West Lafayette, IN
     date_start: '2021-08-23'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Responsibilities include:
   
