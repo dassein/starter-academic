@@ -28,9 +28,7 @@ experience:
     location: Hammond, IN
     date_start: '2020-08-23'
     date_end: 'Present'
-    description: |2-
-        Responsibilities include:
-  
+    description: |2-  
         * Investigated reliable and effective methods for Fine-Grained Visual Classification (FGVC)
 	* Involved in developing an ios application for Technology Assisted Dietary Assessment ([TADA](http://tadaproject.org/))
 
@@ -41,9 +39,7 @@ experience:
     location: Hammond, IN
     date_start: '2020-02-01'
     date_end: '2021-05-01'
-    description: |2-
-        Responsibilities include:
-  
+    description: |2-  
         * Developed a machine learning application using DNN and LightGBM to provide steel casting temperature predictions
         * Collaborated the application with SQL database and GUI using Unity to display predictions and parameters
         * Published the paper that was selected for the AIST 2021 Digitalization Applications Technology Best Paper Award
