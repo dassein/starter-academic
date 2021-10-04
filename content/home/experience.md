@@ -22,14 +22,26 @@ date_format: Jan 2021
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: Video and Image Processing Laboratory (VIPER), Purdue University West Lafayette
-    company_url: 'https://engineering.purdue.edu/~ips/'
-    location: West Lafayette, IN
-    date_start: '2020-08-23'
-    date_end: 'Present'
-    description: |2-  
-
-        * Investigated reliable and effective methods for Fine-Grained Visual Classification (FGVC)
-	* Involved in developing an ios application for Technology Assisted Dietary Assessment (TADA)
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+    
+        * Analysing
+        * Modelling
+        * Deploying
+    
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 ---
