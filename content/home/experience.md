@@ -33,7 +33,6 @@ experience:
         * Investigated reliable and effective methods for Fine-Grained Visual Classification (FGVC)
 	* Involved in developing an ios application for Technology Assisted Dietary Assessment ([TADA](http://tadaproject.org/))
 
-experience:
   - title: Research Assistant
     company: Center for Innovation through Visualization and Simulation (CIVS), Purdue University Northwest
     company_url: 'https://www.pnw.edu/civs/'
