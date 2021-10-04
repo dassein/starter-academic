@@ -23,9 +23,9 @@ date_format: Jan 2021
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Center for Innovation through Visualization and Simulation, Purdue University Northwest
-    company_url: 'https://www.pnw.edu/civs/'
-    location: Hammond, IN
+    company: Video and Image Processing Laboratory (VIPER), Purdue University West Lafayette
+    company_url: 'https://engineering.purdue.edu/~ips/'
+    location: West Lafayette, IN
     date_start: '2020-08-23'
     date_end: 'Present'
     description: |2-  
@@ -34,7 +34,7 @@ experience:
 
 experience:
   - title: Research Assistant
-    company: Center for Innovation through Visualization and Simulation, Purdue University Northwest
+    company: Center for Innovation through Visualization and Simulation (CIVS), Purdue University Northwest
     company_url: 'https://www.pnw.edu/civs/'
     location: Hammond, IN
     date_start: '2020-02-01'
