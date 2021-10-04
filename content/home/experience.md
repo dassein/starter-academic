@@ -32,17 +32,4 @@ experience:
 
         * Investigated reliable and effective methods for Fine-Grained Visual Classification (FGVC)
 	* Involved in developing an ios application for Technology Assisted Dietary Assessment ([TADA](http://tadaproject.org/))
-
-  - title: Research Assistant
-    company: Center for Innovation through Visualization and Simulation (CIVS), Purdue University Northwest
-    company_url: 'https://www.pnw.edu/civs/'
-    location: Hammond, IN
-    date_start: '2020-02-01'
-    date_end: '2021-05-01'
-    description: |2-  
-
-        * Developed a machine learning application using DNN and LightGBM to provide steel casting temperature predictions
-        * Collaborated the application with SQL database and GUI using Unity to display predictions and parameters
-        * Published the paper that was selected for the AIST 2021 Digitalization Applications Technology Best Paper Award
-        * Mentored three students and taught the models for sequential predictions
 ---
