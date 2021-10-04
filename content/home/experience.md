@@ -31,5 +31,5 @@ experience:
     description: |2-  
 
         * Investigated reliable and effective methods for Fine-Grained Visual Classification (FGVC)
-	* Involved in developing an ios application for Technology Assisted Dietary Assessment ([TADA](http://tadaproject.org/))
+	* Involved in developing an ios application for Technology Assisted Dietary Assessment (TADA)
 ---
