@@ -26,20 +26,20 @@ experience:
     company: Video and Image Processing Laboratory (VIPER), Purdue University West Lafayette
     company_url: 'https://engineering.purdue.edu/~ips/'
     location: West Lafayette, IN
-    date_start: '2021-08-23'
+    date_start: 'Aug 2021'
     date_end: ''
     description: |2-
         Responsibilities include:
   
         * Investigated reliable and effective methods for Fine-Grained Visual Classification (FGVC)
-        * Involved in developing an ios application for Technology Assisted Dietary Assessment ([TADA]http://tadaproject.org/))
+        * Involved in developing an ios application for Technology Assisted Dietary Assessment (TADA)
   
   - title: Research Assistant
     company: Center for Innovation through Visualization and Simulation (CIVS), Purdue University Northwest
     company_url: 'https://www.pnw.edu/civs/'
     location: Hammond, IN
-    date_start: '2020-02-01'
-    date_end: '2020-05-01'
+    date_start: 'Feb 2020'
+    date_end: 'May 2021'
     description: |2-
         Responsibilities include:
   
