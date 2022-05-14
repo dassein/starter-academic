@@ -14,11 +14,12 @@ organizations:
   url: https://engineering.purdue.edu/ECE/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, computer vision and image processing.
+bio: My research interests include machine learning, deep learning and applications in image processing and computer vision.
 
 # Interests to show in About widget
 interests:
 - Machine Learning
+- Deep Learning
 - Computer Vision
 - Image Processing
 
@@ -42,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: blog
-  icon_pack: fas
-  link: https://dassein.github.io
+# - icon: blog
+#   icon_pack: fas
+#   link: https://dassein.github.io
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ciMjrQ0AAAAJ&hl=en
