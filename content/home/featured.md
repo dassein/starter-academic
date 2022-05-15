@@ -32,6 +32,13 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  
+  # view: 3 # original setting with only one column and a big featured.png
+
+  # begin current setting ( copied from projects.md )
+  columns: '2'
+  view : 2
+  flip_alt_rows: false
+  # end current setting ( copied from projects.md )
 ---
 
