@@ -64,7 +64,7 @@ image:
   caption: '[](publication/panicle/featured.png)' # 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
   # focal_point: "" # put png on top
   focal_point: Smart # put png on right
-  # preview_only: false
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

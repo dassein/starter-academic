@@ -12,6 +12,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: Smart
+  preview_only: false
 
 url_code: ""
 url_pdf: "project/underwater_laser/underwater_combine.pdf"

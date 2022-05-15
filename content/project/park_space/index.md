@@ -12,6 +12,8 @@ external_link: ""
 image:
   caption: ""
   focal_point: Smart
+  preview_only: false
+
 
 # links:
 # - icon: twitter
