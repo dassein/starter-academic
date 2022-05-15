@@ -18,7 +18,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-06-01T00:00:00Z"
-# preprint: https://arxiv.org/pdf/2205.03947.pdf
+preprint: https://arxiv.org/pdf/2205.03947.pdf
 doi: "https://doi.org/10.48550/arXiv.2205.03947"
 
 # Schedule page publish date (NOT publication's date).
