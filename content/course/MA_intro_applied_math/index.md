@@ -39,6 +39,7 @@ tags:
 categories: []
 
 # url_pdf: "files/post/Van_der_Pol.pdf"
-
+# (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
-[homework01]("course/MA_intro_applied_math/Zhankun Luo_homework01.pdf")
+Course Description: 
+[homework01](Zhankun%20Luo_homework01.pdf)
