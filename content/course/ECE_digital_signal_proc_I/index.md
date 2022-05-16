@@ -43,6 +43,8 @@ categories: []
 ---
 Course Description: [ECE 53800 Digital Signal Processing I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=108.0)
 
+Textbook: [Digital Signal Processing: Fundamentals and Applications, 3rd Edition](https://www.elsevier.com/books/digital-signal-processing/tan/978-0-12-815071-9), [pdf](https://www-elec.inaoep.mx/~jmram/Digital_Signal_Processing__LI_TAN.pdf)
+
 Homeworks:
 * [homework 1](ZhankunLuo_hw1.pdf)
 * [homework 2](ZhankunLuo_hw2.pdf)
