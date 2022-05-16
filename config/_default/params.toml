@@ -107,13 +107,13 @@ directions = false # "Enter Building 1 and take the stairs to Office 200 on Floo
 office_hours = [] # ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://zhankunluo.com"
+# appointment_url = "https://zhankunluo.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "github", icon_pack = "fab", name = "Code", link = "https://github.com/dassein"},
-  {icon = "blog", icon_pack = "fas", name = "Blog", link = "https://dassein.github.io/"},
+  # {icon = "github", icon_pack = "fab", name = "Code", link = "https://github.com/dassein"},
+  # {icon = "blog", icon_pack = "fas", name = "Blog", link = "https://dassein.github.io/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
