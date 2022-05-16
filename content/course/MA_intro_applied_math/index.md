@@ -41,5 +41,24 @@ categories: []
 # url_pdf: "files/post/Van_der_Pol.pdf"
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
-Course Description: 
-[homework01](Zhankun%20Luo_homework01.pdf)
+Course Description: [MA 58800 Introduction to Applied Mathematics](https://catalog.pnw.edu/preview_course_nopop.php?catoid=4&coid=13793)
+
+Homeworks:
+* [homework 01](Zhankun%20Luo_homework01.pdf)
+* [homework 02](Zhankun%20Luo_homework02.pdf)
+* [homework 03](Zhankun%20Luo_homework03.pdf)
+* [homework 04](Zhankun%20Luo_homework04.pdf)
+* [homework 05](Zhankun%20Luo_homework05.pdf)
+* [homework 06](Zhankun%20Luo_homework06.pdf)
+* [homework 07](Zhankun%20Luo_homework07.pdf)
+* [homework 08](Zhankun%20Luo_homework08.pdf)
+* [homework 09](Zhankun%20Luo_homework09.pdf)
+* [homework 10](Zhankun%20Luo_homework10.pdf)
+* [homework 11](Zhankun%20Luo_homework11.pdf)
+* [homework 12](Zhankun%20Luo_homework12.pdf)
+
+Slides: [dimension analysis](slide01.pdf)
+
+Projects:
+* [project 1](Zhankun%20Luo_project01.pdf)
+* [project 2](Zhankun%20Luo_project01.pdf)
