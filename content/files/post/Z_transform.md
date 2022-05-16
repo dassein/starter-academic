@@ -54,7 +54,10 @@ f_T(t) = f^{*}_T(t) = \sum_{k=0}^{\infty} f(kT) \delta(t-kT)\\
 F_T(s) = \sum_{k=0}^{\infty} f(kT) [e^{-Ts}]^k
 $$
 
+
+
 ## Keep the signal
+
 $\hat{f}_T(t)=f(kT)$ keep the signal for $t \in [kT, (k+1)T)$
 
 then, we have
@@ -88,6 +91,8 @@ F(s) &= \lim_{T\to 0} \hat{F}_T(s)
 &\equiv \int_{0_{-}}^{\infty} f(t) e^{-st} dt \quad [T=dt, kT=t]
 \end{aligned}
 $$
+
+
 
 ## Z transform and Fourier transform 
 
@@ -147,9 +152,9 @@ F_z(s) &= \mathbf{L}(f_z(t)) = \mathbf{F}(f_z(t)e^{-\beta t})\\
 \frac{T}{2\pi j}\int^{+\infty}_{-\infty} \frac{e^{j\frac{\pi}{T}x} - e^{-j\frac{\pi}{T}x}}{x} e^{j\omega x} dx\\
 &= [\sum_{n=0}^{\infty} f(nT) e^{-(\beta+j\omega) nT}] \cdot
 T[u(\omega+\frac{\pi}{T}) - u(\omega-\frac{\pi}{T})]\\
-&= [\sum^\infty_{n=0} f(nT) e^{-snT}] \cdot T [u(\text{Im}(s)+\frac{\pi}{T}) - u(\text{Im}(s)-\frac{\pi}{T})]
-\end{aligned}\\
-[\quad \int^{+\infty}_{-\infty} \frac{e^{j(\omega+a)x} - e^{j(\omega-a)x}}{x} dx = 2\pi j [u(\omega+a)-u(\omega-a)]\quad, a=\frac{\pi}{T} ]
+&= [\sum^\infty_{n=0} f(nT) e^{-snT}] \cdot T [u(\text{Im}(s)+\frac{\pi}{T}) - u(\text{Im}(s)-\frac{\pi}{T})]\\
+[\int^{+\infty}_{-\infty} &\frac{e^{j(\omega+a)x} - e^{j(\omega-a)x}}{x} dx = 2\pi j [u(\omega+a)-u(\omega-a)], \quad a=\frac{\pi}{T} ]
+\end{aligned}\\
 $$
 
 The reason is

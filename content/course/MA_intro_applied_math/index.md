@@ -60,6 +60,14 @@ Homeworks:
 
 Slides: [dimension analysis](slide01.pdf)
 
+Summary: [methods to solve ODEs](ODE.pdf)
+
 Projects:
 * [project 1](Zhankun%20Luo_project01.pdf)
 * [project 2](Zhankun%20Luo_project01.pdf)
+
+Problems:
+* [how long will it take to roast a turkey?](time_cook_turkey.pdf)
+* [estimate the age of the earth](age_earth.pdf)
+* [Van der Pol oscillator](Van_der_Pol.pdf)
+* [analysis of epidemic dynamics by SIR model](Zhankun%20Luo_project01.pdf)
