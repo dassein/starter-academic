@@ -1,9 +1,9 @@
 ---
-title: Analyze Van der Pol equation
+title: MA 58800 Intrduction to Applied Mathematics
 subtitle: 
 
 # Summary for listings and search engines
-summary: That is a part of my homework in the Applied Math course. I constructed a contour to show there is a limit cycle in the vector field of our Van der Pol system. 
+summary: An introduction to the basic ideas and methods of applied mathematics. Topics taken from elementary partial differential equations, separation of variables and Fourier series, Fourier transforms, calculus of variations, applied linear algebra, numerical methods, modeling.
 
 # Link this post with a project
 projects: []
@@ -36,5 +36,6 @@ tags:
 
 categories: []
 
-url_pdf: "files/post/Van_der_Pol.pdf"
+# url_pdf: "files/post/Van_der_Pol.pdf"
+[homework01]("course/MA_intro_applied_math/Zhankun Luo_homework01.pdf")
 ---
