@@ -59,3 +59,22 @@ Homeworks:
 Exams:
 * [midterm exam 2](ZhankunLuo_Exam2.pdf)
 * [final exam](ZhankunLuo_FinalExam.pdf)
+
+Projects:
+* [speech enhancement with FIR filter](FIR_speech_enhance.pdf): input [nspeech.wav](nspeech.wav), ouput [nspeech_filtered.wav](nspeech_filtered.wav)
+* [digital speech and audio equalizer](speech_equalize.pdf): input [No9seg.wav](No9seg.wav), output [no equalization](No9seg_no%20equal.wav), [low-pass filtered](No9seg_low%20pass.wav), [band-pass filtered](No9seg_band%20pass.wav), [high-pass filtered](No9seg_high%20pass.wav)
+* [adaptive filters: LMS and RLS](adaptive_filter.pdf)
+* [downsampling and upsampling](downup_sample.pdf)
+
+Codes: [implementation of DFT & FFT, FIR & IIR filters, adaptive LMS & RLS filters ](https://github.com/dassein/DSP_method)
+
+Topics:
+* [FT, DTFT and DFT](DTFT_DFT.pdf)
+* [DFT and DCT](DCT.pdf)
+* [Least Mean Squares and Recursive Least
+Squares](LMS.pdf)
+
+References:
+* [Lecture Notes for EE 261: The Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
+* [Fourier Analysis and Its Applications](https://link.springer.com/book/10.1007/b97452), [pdf](https://iujfk.files.wordpress.com/2013/04/fourier-analysis-and-its-applications.pdf)
+* [Adaptive Filters: Theory and Applications, 2nd Edition](https://www.wiley.com/en-us/Adaptive+Filters%3A+Theory+and+Applications%2C+2nd+Edition-p-9781119979548), [pdf](https://abrarhashmi.files.wordpress.com/2016/02/behrouz-farhang-boroujeny-adaptive-filters_-theory-and-applications-wiley-2013.pdf)

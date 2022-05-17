@@ -86,8 +86,9 @@ X(e^{jw}) \equiv \hat{X}(f) = \sum_n x(nT) [e^{j\omega}]^{-n}\\
 x(nT)=  \int_{-0.5}^{0.5} \hat{X}(f) e^{j2\pi (f/f_s)n} d(f/f_s) = \frac{1}{2\pi} \int_{2\pi} X(e^{jw}) [e^{j\omega}]^{n} d\omega
 $$
 
+<div STYLE="page-break-after: always;"></div>
 
-## Formula
+## Formula for Comb function and Rectangular signal 
 
 $$
 \text{FT}[\delta(t)] = \int\delta(t) e^{-j2\pi ft} dt = \int\delta(t) e^{-j2\pi f0} dt = 1\cdot \int\delta(t) dt=1(f)\\
@@ -108,11 +109,9 @@ $$
 \sum_n \delta(t'-n) &= \sum_k e^{j2\pi k t'}
 \end{aligned}
 $$
-Here we have:
+Here we notice: the Fourier transform (FT) of a rectangular pulse is the sinc function
 
-The Fourier transform of a rectangular pulse is the sinc function
-
-The discrete Fourier transform of a rectangular signal after pulse discrete sampling is the Dirichlet function
+The Fourier transform (DFT) of a rectangular signal after pulse discrete sampling is the Dirichlet function
 $$
 \begin{aligned}
 \sum_{k=-A}^{A}e^{j2\pi kt'} &= 1+ 2 \sum_{k=1}^A \cos(2\pi t' k)\\
@@ -145,6 +144,7 @@ $$
 T\sum_n \delta(t-nT) =  \sum_n \delta(t/T-n) = \sum_k e^{j2\pi k(\frac{t}{T})}
 $$
 
+<div STYLE="page-break-after: always;"></div>
 
 ## DFT
 
@@ -189,3 +189,4 @@ x(nT) &= \int_{-\infty}^{\infty} \tilde{x}^*(t) \frac{\sin(\pi(t-nT))}{\pi(t-nT)
 &= \frac{1}{N} \sum_{k=0}^{N-1}  \left\{  \sum_{n=0}^{N-1} x(nT)  e^{-j2\pi (\frac{k}{N}) n}  \right\} e^{j2\pi (\frac{k}{N})n}
 \end{aligned}
 $$
+To sum up, the Fourier transform (FT) of a rectangular pulse is the sinc function. The Fourier transform (FT) of a rectangular signal after pulse discrete sampling is the Dirichlet function. That is,  DTFT is equivalent to FT first, then convolve with the sinc function; DFT is equivalent to FT first, then convolve with the Dirichlet function.

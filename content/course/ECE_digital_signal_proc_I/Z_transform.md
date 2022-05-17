@@ -54,7 +54,7 @@ f_T(t) = f^{*}_T(t) = \sum_{k=0}^{\infty} f(kT) \delta(t-kT)\\
 F_T(s) = \sum_{k=0}^{\infty} f(kT) [e^{-Ts}]^k
 $$
 
-
+<div STYLE="page-break-after: always;"></div>
 
 ## Keep the signal
 
@@ -92,7 +92,7 @@ F(s) &= \lim_{T\to 0} \hat{F}_T(s)
 \end{aligned}
 $$
 
-
+<div STYLE="page-break-after: always;"></div>
 
 ## Z transform and Fourier transform 
 
@@ -154,7 +154,7 @@ F_z(s) &= \mathbf{L}(f_z(t)) = \mathbf{F}(f_z(t)e^{-\beta t})\\
 T[u(\omega+\frac{\pi}{T}) - u(\omega-\frac{\pi}{T})]\\
 &= [\sum^\infty_{n=0} f(nT) e^{-snT}] \cdot T [u(\text{Im}(s)+\frac{\pi}{T}) - u(\text{Im}(s)-\frac{\pi}{T})]\\
 [\int^{+\infty}_{-\infty} &\frac{e^{j(\omega+a)x} - e^{j(\omega-a)x}}{x} dx = 2\pi j [u(\omega+a)-u(\omega-a)], \quad a=\frac{\pi}{T} ]
-\end{aligned}\\
+\end{aligned}\\
 $$
 
 The reason is
@@ -190,6 +190,7 @@ f_z^{*}(nT) &= f(nT)
 \end{aligned}
 $$
 
+<div STYLE="page-break-after: always;"></div>
 
 ## Z transform and Laplace transform
 
@@ -211,7 +212,10 @@ x(n) &\equiv f_z(t)|_{t=nT} = \mathbf{L^{-1}}[F_z(s)]|_{t=nT}\\
 \end{aligned}
 $$
 
+<div STYLE="page-break-after: always;"></div>
+
 ## Z transform and DTFT
+
 when $n \in (\infty, +\infty), \beta = 0$
 
 $$
