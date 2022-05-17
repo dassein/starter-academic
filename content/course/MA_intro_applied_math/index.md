@@ -45,6 +45,19 @@ Course Description: [MA 59800 Introduction to Applied Mathematics](https://catal
 
 Textbook: [Applied Mathematics, 4th Edition](https://www.wiley.com/en-us/Applied+Mathematics%2C+4th+Edition-p-9781118475805), [pdf](https://eduguidehome.files.wordpress.com/2019/03/applied-mathematics-by-david-logan-4th-edition.pdf)
 
+Slides: [dimension analysis](slide01.pdf)
+
+Summary: [methods to solve ODEs](ODE.pdf)
+
+Problems:
+* [how long will it take to roast a turkey?](time_cook_turkey.pdf)
+* [estimate the age of the earth](age_earth.pdf)
+* [Van der Pol oscillator](Van_der_Pol.pdf)
+
+Projects:
+* [project 1: analysis of epidemic dynamics by SIR model](Zhankun%20Luo_project01.pdf)
+* [project 2](Zhankun%20Luo_project02.pdf)
+
 Homeworks:
 * [homework 01](Zhankun%20Luo_homework01.pdf)
 * [homework 02](Zhankun%20Luo_homework02.pdf)
@@ -57,16 +70,3 @@ Homeworks:
 * [homework 09](Zhankun%20Luo_homework09.pdf)
 * [homework 10](Zhankun%20Luo_homework10.pdf)
 * [homework 11](Zhankun%20Luo_homework11.pdf)
-
-Slides: [dimension analysis](slide01.pdf)
-
-Summary: [methods to solve ODEs](ODE.pdf)
-
-Projects:
-* [project 1: analysis of epidemic dynamics by SIR model](Zhankun%20Luo_project01.pdf)
-* [project 2](Zhankun%20Luo_project01.pdf)
-
-Problems:
-* [how long will it take to roast a turkey?](time_cook_turkey.pdf)
-* [estimate the age of the earth](age_earth.pdf)
-* [Van der Pol oscillator](Van_der_Pol.pdf)
