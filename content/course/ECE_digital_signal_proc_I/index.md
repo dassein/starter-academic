@@ -66,11 +66,12 @@ Projects:
 * [adaptive filters: LMS and RLS](adaptive_filter.pdf)
 * [downsampling and upsampling](downup_sample.pdf)
 
-Codes: [implementation of DFT & FFT, FIR & IIR filters, adaptive LMS & RLS filters ](https://github.com/dassein/DSP_method)
+Codes: [DSP_method](https://github.com/dassein/DSP_method) (implementation of DFT & FFT, conversion between Laplace transforma and Z-transform, FIR & IIR filters, adaptive LMS & RLS filters)
 
 Topics:
 * [FT, DTFT and DFT](DTFT_DFT.pdf)
 * [DFT and DCT](DCT.pdf)
+* [Laplace transform and Z-transform](Z_transform.pdf)
 * [Least Mean Squares and Recursive Least
 Squares](LMS.pdf)
 
