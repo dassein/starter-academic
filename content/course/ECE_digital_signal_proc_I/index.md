@@ -65,11 +65,6 @@ Topics:
 * [Least Mean Squares and Recursive Least
 Squares](LMS.pdf)
 
-References:
-* [Lecture Notes for EE 261: The Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
-* [Fourier Analysis and Its Applications](https://link.springer.com/book/10.1007/b97452), [pdf](https://iujfk.files.wordpress.com/2013/04/fourier-analysis-and-its-applications.pdf)
-* [Adaptive Filters: Theory and Applications, 2nd Edition](https://www.wiley.com/en-us/Adaptive+Filters%3A+Theory+and+Applications%2C+2nd+Edition-p-9781119979548), [pdf](https://abrarhashmi.files.wordpress.com/2016/02/behrouz-farhang-boroujeny-adaptive-filters_-theory-and-applications-wiley-2013.pdf)
-
 Homeworks:
 * [homework 1](ZhankunLuo_hw1.pdf)
 * [homework 2](ZhankunLuo_hw2.pdf)
@@ -84,3 +79,8 @@ Homeworks:
 Exams:
 * [midterm exam 2](ZhankunLuo_Exam2.pdf)
 * [final exam](ZhankunLuo_FinalExam.pdf)
+
+References:
+* [Lecture Notes for EE 261: The Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
+* [Fourier Analysis and Its Applications](https://link.springer.com/book/10.1007/b97452), [pdf](https://iujfk.files.wordpress.com/2013/04/fourier-analysis-and-its-applications.pdf)
+* [Adaptive Filters: Theory and Applications, 2nd Edition](https://www.wiley.com/en-us/Adaptive+Filters%3A+Theory+and+Applications%2C+2nd+Edition-p-9781119979548), [pdf](https://abrarhashmi.files.wordpress.com/2016/02/behrouz-farhang-boroujeny-adaptive-filters_-theory-and-applications-wiley-2013.pdf)
