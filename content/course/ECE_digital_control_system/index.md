@@ -53,7 +53,7 @@ Topics:
 * [linearization](Lecture%2013-Linearization.pdf)
 * [appendix: peak time, settling time and overshoot](Appendix-T_s%20and%20T_p.pdf)
 * [appendix: Routh-Hurwitz criterion](Appendix-Routh-Hurwitz%20Criterion.pdf)
-* [appendix: Jury's criterion](Appendix-Jury's%20Criterion.pdf)
+* [appendix: Jury's criterion](https://en.wikibooks.org/wiki/Control_Systems/Jurys_Test), [pdf](Appendix-Jury's%20Criterion.pdf)
 
 Homeworks: [problem numbers in textbook](Digital%20Control%20System%20Fall-2019-%20Homework.pdf)
 
