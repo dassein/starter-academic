@@ -55,6 +55,3 @@ Labs: [instruction](https://cabouman.github.io/grad_labs/)
 * [image restoration](ECE637_Zhankun_Luo_lab7.pdf)
 * [image halftoning](ECE637_Zhankun_Luo_lab8.pdf)
 * [deep learning and CNNs](DL_Lab_Exercises.pdf)
-
-Codes: [source code](https://github.com/dassein/image_processing_algo)
-We implemented the image processing method both in the spatial domain and frequency domain. For instance, we developed the codes not only for auto-contrast, histogram matching, spatial filters such as Gauss, Laplace, LoG, the weighted median in the spatial domain; but also for 2d DFT, 2d DCT based on FFT, filters in the frequency domain. We also applied morphological operations, Ostu, watershed, Hough transform for line detection, Canny edge detection, Harris corner dectcttion, and scale-invariant feature transform (SIFT) methods in Python and C++ for image processing.
