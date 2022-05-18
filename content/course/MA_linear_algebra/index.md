@@ -54,4 +54,4 @@ Notes:
 References: 
 * [Linear Algebra Done Right, 3rd Edition](https://linear.axler.net/), [pdf](http://ce.sharif.edu/courses/97-98/1/ce425-1/resources/root/Books/Linear%20Algebra%20Done%20Right.pdf)
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-* [Lecture Notes of Matrix Computations](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/mc.pdf)
+* [lecture notes of Matrix Computations](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/mc.pdf)
