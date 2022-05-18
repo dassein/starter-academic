@@ -1,5 +1,5 @@
 ---
-title: ECE 53800 Digital Signal Processing I 
+title: ECE 48300 Digital Control Systems Analysis and Design 
 subtitle: 
 
 # Summary for listings and search engines
@@ -57,5 +57,4 @@ Topics:
 
 Homeworks: [problem numbers in textbook](Digital%20Control%20System%20Fall-2019-%20Homework.pdf)
 
-References:
-* [Modern Control Theory, Prentice Hall, 3rd Edition](https://www.pearson.com/us/higher-education/program/Brogan-Modern-Control-Theory-3rd-Edition/PGM135781.html), [pdf](http://docs.znu.ac.ir/members/pirmohamadi_ali/Control/Brogan(BookZZ.org).pdf)
+References: [Modern Control Theory, Prentice Hall, 3rd Edition](https://www.pearson.com/us/higher-education/program/Brogan-Modern-Control-Theory-3rd-Edition/PGM135781.html), [pdf](http://docs.znu.ac.ir/members/pirmohamadi_ali/Control/Brogan(BookZZ.org).pdf)
