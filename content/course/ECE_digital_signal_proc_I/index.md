@@ -56,7 +56,7 @@ Projects:
 * [downsampling and upsampling](downup_sample.pdf)
 
 Codes: [DSP_method](https://github.com/dassein/DSP_method) 
-* implementation of DFT & FFT, conversion between Laplace transforma and Z-transform, FIR & IIR filters, adaptive LMS & RLS filters
+* implementation of DFT & FFT, conversion between Laplace transform and Z-transform, FIR & IIR filters, adaptive LMS & RLS filters
 
 Topics:
 * [FT, DTFT and DFT](DTFT_DFT.pdf)
@@ -81,6 +81,7 @@ Exams:
 * [final exam](ZhankunLuo_FinalExam.pdf)
 
 References:
+* [Digital Signal Processing: print version of slides](https://www.cl.cam.ac.uk/teaching/2122/DSP/dsp-slides-4up.pdf)
 * [Lecture Notes for EE 261: The Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
 * [Fourier Analysis and Its Applications](https://link.springer.com/book/10.1007/b97452), [pdf](https://iujfk.files.wordpress.com/2013/04/fourier-analysis-and-its-applications.pdf)
 * [Adaptive Filters: Theory and Applications, 2nd Edition](https://www.wiley.com/en-us/Adaptive+Filters%3A+Theory+and+Applications%2C+2nd+Edition-p-9781119979548), [pdf](https://abrarhashmi.files.wordpress.com/2016/02/behrouz-farhang-boroujeny-adaptive-filters_-theory-and-applications-wiley-2013.pdf)
