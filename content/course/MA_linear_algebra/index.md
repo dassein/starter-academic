@@ -57,8 +57,11 @@ References:
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [lecture notes of Matrix Computations](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/mc.pdf)
 * [numberical analysis](https://math.ecnu.edu.cn/~jypan/Teaching/NA/)
+* [Matrix Computations, 4th edition](https://my.siam.org/Store/Product/viewproduct/?ProductId=23915573), [website](https://www.cs.cornell.edu/cv/cvl_home/books/)
+* [Tensor Decompositions and Applications](https://www.kolda.net/publication/TensorReview.pdf)
 
 Blogs:
 * [LU](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_02A_LU.pdf), [Cholesky](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_02B_MD.pdf), [QR](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03B_QR.pdf), [SVD decompositions](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03C_SVD.pdf), [Python implementation](https://zhuanlan.zhihu.com/p/462433659)
 * [Jocobi, Gauss-Seidel, Successive Over Relaxation (SOR), Conjugate Gradient methods to solve a system of linear equations](https://math.ecnu.edu.cn/~jypan/Teaching/MNA/slides_ch06_iter.pdf), [Python implementation](https://zhuanlan.zhihu.com/p/462428215)
 * [Householder, Givens transform](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03A_Transformation.pdf)
+* [tensor decomposition/factorization 1](https://zhuanlan.zhihu.com/p/24798389), [tensor decomposition/factorization 2](https://zhuanlan.zhihu.com/p/24824550), [tensor CP decomposition](https://zhuanlan.zhihu.com/p/383058483)
