@@ -61,3 +61,8 @@ Blogs:
 * [statistical distance: f-divergence and KL, reverse KL, Pearson, reverse Pearson, Jensen-Shannon divergences, Hellinger, total variation distances](https://www.zhihu.com/question/39872326/answer/92491155)
 * [Bregman divergence, Bregman distance](https://www.zhihu.com/question/22426561/answer/209594421), [paper1](https://ieeexplore.ieee.org/document/1459065), [paper2](https://www.jmlr.org/papers/volume6/banerjee05b/banerjee05b.pdf)
 * [concentration inequalities: Chernoff bound, Hoeffding's, Pinsker's inequality, Azuma's and McDiarmid's inequality](https://zhuanlan.zhihu.com/p/424198728)
+
+References:
+* [The Elements of Statistical Learning, 2nd Edition](https://hastie.su.domains/Papers/ESLII.pdf)
+* [Stochastic Processes: Theory for application, by R.G. Gallager](https://www.cambridge.org/td/titles/stochastic-processes-theory-applications), [pdf](http://ce.sharif.edu/courses/97-98/1/ce695-1/resources/root/Resources/Gallager_R.G._Stochastic_Processes_Theory_for_Applications.pdf)
+* [R.G. Gallager’s lecture notes Chap3: detection, decisions, and hypothesis testing](http://web.mit.edu/gallager/www/papers/chap3.pdf)
