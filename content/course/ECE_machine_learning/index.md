@@ -41,6 +41,7 @@ categories: []
 # url_pdf: "files/post/Van_der_Pol.pdf"
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
+<!--more-->
 Course Description: [ECE 59500 Machine Learning](https://engineering.purdue.edu/ECE/Academics/Online/Courses/machine-learning)
 
 Textbook: 

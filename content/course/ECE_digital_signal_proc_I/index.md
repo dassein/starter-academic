@@ -41,6 +41,7 @@ categories: []
 # url_pdf: "files/post/Van_der_Pol.pdf"
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
+<!--more-->
 Course Description: [ECE 53800 Digital Signal Processing I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=108.0)
 
 Textbook: [Digital Signal Processing: Fundamentals and Applications, 3rd Edition](https://www.elsevier.com/books/digital-signal-processing/tan/978-0-12-815071-9), [pdf](https://www-elec.inaoep.mx/~jmram/Digital_Signal_Processing__LI_TAN.pdf)

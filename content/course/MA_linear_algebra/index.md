@@ -41,6 +41,7 @@ categories: []
 # url_pdf: "files/post/Van_der_Pol.pdf"
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
+<!--more-->
 Course Description: [MA 51100 Linear Algebra With Applications](https://www.math.purdue.edu/academic/courses/coursepage?subject=MA&course=51100)
 
 
@@ -55,3 +56,9 @@ References:
 * [Linear Algebra Done Right, 3rd Edition](https://linear.axler.net/), [pdf](http://ce.sharif.edu/courses/97-98/1/ce425-1/resources/root/Books/Linear%20Algebra%20Done%20Right.pdf)
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [lecture notes of Matrix Computations](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/mc.pdf)
+* [numberical analysis](https://math.ecnu.edu.cn/~jypan/Teaching/NA/)
+
+Blogs:
+* [LU](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_02A_LU.pdf), [Cholesky](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_02B_MD.pdf), [QR](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03B_QR.pdf), [SVD decompositions](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03C_SVD.pdf), [Python implementation](https://zhuanlan.zhihu.com/p/462433659)
+* [Jocobi, Gauss-Seidel, Successive Over Relaxation (SOR), Conjugate Gradient methods to solve a system of linear equations](https://math.ecnu.edu.cn/~jypan/Teaching/MNA/slides_ch06_iter.pdf), [Python implementation](https://zhuanlan.zhihu.com/p/462428215)
+* [Householder, Givens transform](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03A_Transformation.pdf)

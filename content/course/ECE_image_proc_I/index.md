@@ -41,6 +41,8 @@ categories: []
 # url_pdf: "files/post/Van_der_Pol.pdf"
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
+<!--more-->
+
 Course Description: [ECE 63700 Digital Image Processing I](https://engineering.purdue.edu/~bouman/ece637/)
 
 Notes: [course notes](https://engineering.purdue.edu/~bouman/ece637/notes/)

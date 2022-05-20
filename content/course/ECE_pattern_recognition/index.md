@@ -1,5 +1,5 @@
 ---
-title: ECE 64100 Model-Based Image and Signal Processing
+title: ECE 66200 Pattern Recognition and Decision Making
 subtitle: 
 
 # Summary for listings and search engines
@@ -42,7 +42,7 @@ categories: []
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
 <!--more-->
-Course Description: [ECE 64100 Model-Based Image and Signal Processing](https://engineering.purdue.edu/~bouman/ece641/)
+Course Description: [ECE 66200 Pattern Recognition and Decision Making](https://engineering.purdue.edu/~bouman/ece641/)
 
 Textbook: [Model Based Imaging](https://engineering.purdue.edu/~bouman/publications/pdf/MBIP-book.pdf)
 Notes: [course notes](https://engineering.purdue.edu/~bouman/ece641/notes/)
@@ -66,10 +66,7 @@ Topics:
 * [MCMC - CMU slides](http://www.cs.cmu.edu/~epxing/Class/10708-16/slide/lecture16-MCMC.pdf), 
 
 Blogs:
-* [an ADMM based framework for AutoML pipeline configuration](https://arxiv.org/pdf/1905.00424.pdf), [blog](https://www.zhihu.com/question/510170303/answer/2300184152)
-* [applications of ADMM](https://zhuanlan.zhihu.com/p/86826985), [ADMM explanation](https://zhuanlan.zhihu.com/p/448289351), [introduction to ADMM](https://zhuanlan.zhihu.com/p/21112618)
-* [MCMC: Metropolis Hastings, Hamiltonian Monte Carlo](https://zhuanlan.zhihu.com/p/463673039), [MCMC explanation](https://zhuanlan.zhihu.com/p/376074545), [MCMC](https://zhuanlan.zhihu.com/p/21112618). [MCMC methods](https://zhuanlan.zhihu.com/p/109978580)
-
-
-References:
-* [Convex Optimization: CMU Fall 2019](https://www.stat.cmu.edu/~ryantibs/convexopt/)
+* [distances and metrics](https://zhuanlan.zhihu.com/p/101277851)
+* [statistical distance: f-divergence and KL, reverse KL, Pearson, reverse Pearson, Jensen-Shannon divergences, Hellinger, total variation distances](https://www.zhihu.com/question/39872326/answer/92491155)
+* [Bregman divergence, Bregman distance](https://www.zhihu.com/question/22426561/answer/209594421), [paper1](https://ieeexplore.ieee.org/document/1459065), [paper2](https://www.jmlr.org/papers/volume6/banerjee05b/banerjee05b.pdf)
+* [concentration inequalities: Chernoff bound, Hoeffding's, Pinsker's inequality, Azuma's and McDiarmid's inequality]

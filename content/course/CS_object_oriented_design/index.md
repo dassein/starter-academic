@@ -41,6 +41,7 @@ categories: []
 # url_pdf: "files/post/Van_der_Pol.pdf"
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
+<!--more-->
 Course Description: [CS 51540 Object-Oriented Design, Analysis And Programming](https://catalog.pnw.edu/preview_course_nopop.php?catoid=7&coid=31423)
 
 Textbook: [Programming with Objects: A Comparative Presentation of Object-Oriented Programming with C++ and Java](https://www.wiley.com/en-us/Programming+with+Objects%3A+A+Comparative+Presentation+of+Object+Oriented+Programming+With+C%2B%2B+and+Java+-p-9780471268529)

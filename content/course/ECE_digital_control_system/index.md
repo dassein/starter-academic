@@ -41,6 +41,7 @@ categories: []
 # url_pdf: "files/post/Van_der_Pol.pdf"
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
+<!--more-->
 Course Description: [ECE 48300 Digital Control Systems Analysis and Design](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/CourseInfo/courseInfo?courseid=620)
 
 Textbook: [Control Systems Engineering, 7th Edition](https://www.wiley.com/en-us/Control+Systems+Engineering%2C+7th+Edition-p-9781118800638), [pdf](http://libgen.rs/book/index.php?md5=D89FFD2789223FD1B3D1811615D1B3BA)

@@ -41,6 +41,7 @@ categories: []
 # url_pdf: "files/post/Van_der_Pol.pdf"
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
+<!--more-->
 Course Description: [MA 59800 Introduction to Applied Mathematics](https://catalog.pnw.edu/preview_course_nopop.php?catoid=4&coid=13793)
 
 Textbook: [Applied Mathematics, 4th Edition](https://www.wiley.com/en-us/Applied+Mathematics%2C+4th+Edition-p-9781118475805), [pdf](https://eduguidehome.files.wordpress.com/2019/03/applied-mathematics-by-david-logan-4th-edition.pdf)
