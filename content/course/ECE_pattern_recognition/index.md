@@ -69,4 +69,4 @@ Blogs:
 * [distances and metrics](https://zhuanlan.zhihu.com/p/101277851)
 * [statistical distance: f-divergence and KL, reverse KL, Pearson, reverse Pearson, Jensen-Shannon divergences, Hellinger, total variation distances](https://www.zhihu.com/question/39872326/answer/92491155)
 * [Bregman divergence, Bregman distance](https://www.zhihu.com/question/22426561/answer/209594421), [paper1](https://ieeexplore.ieee.org/document/1459065), [paper2](https://www.jmlr.org/papers/volume6/banerjee05b/banerjee05b.pdf)
-* [concentration inequalities: Chernoff bound, Hoeffding's, Pinsker's inequality, Azuma's and McDiarmid's inequality]
+* [concentration inequalities: Chernoff bound, Hoeffding's, Pinsker's inequality, Azuma's and McDiarmid's inequality](https://zhuanlan.zhihu.com/p/424198728)

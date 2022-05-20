@@ -38,8 +38,6 @@ tags:
 
 categories: []
 
-# url_pdf: "files/post/Van_der_Pol.pdf"
-# (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
 <!--more-->
 Course Description: [ECE 64100 Model-Based Image and Signal Processing](https://engineering.purdue.edu/~bouman/ece641/)
@@ -68,6 +66,8 @@ Topics:
 Blogs:
 * [an ADMM based framework for AutoML pipeline configuration](https://arxiv.org/pdf/1905.00424.pdf), [blog](https://www.zhihu.com/question/510170303/answer/2300184152)
 * [applications of ADMM](https://zhuanlan.zhihu.com/p/86826985), [ADMM explanation](https://zhuanlan.zhihu.com/p/448289351), [introduction to ADMM](https://zhuanlan.zhihu.com/p/21112618)
+* [optimization techniques](https://zhuanlan.zhihu.com/p/421560203)
+* [L1, L2 regularizations and Laplace, Gaussian priors](https://zhuanlan.zhihu.com/p/116079663)
 * [MCMC: Metropolis Hastings, Hamiltonian Monte Carlo](https://zhuanlan.zhihu.com/p/463673039), [MCMC explanation](https://zhuanlan.zhihu.com/p/376074545), [MCMC](https://zhuanlan.zhihu.com/p/21112618). [MCMC methods](https://zhuanlan.zhihu.com/p/109978580)
 
 

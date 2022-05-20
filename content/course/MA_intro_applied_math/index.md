@@ -1,9 +1,9 @@
 ---
-title: MA 58800 Introduction to Applied Mathematics
+title: MA 47200 Introduction to Applied Mathematics
 subtitle: 
 
 # Summary for listings and search engines
-abstract: An introduction to the basic ideas and methods of applied mathematics. Topics taken from elementary partial differential equations, separation of variables and Fourier series, Fourier transforms, calculus of variations, applied linear algebra, numerical methods, modeling.
+abstract: ""
 
 summary: ""
 
@@ -38,11 +38,9 @@ tags:
 
 categories: []
 
-# url_pdf: "files/post/Van_der_Pol.pdf"
-# (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
 <!--more-->
-Course Description: [MA 59800 Introduction to Applied Mathematics](https://catalog.pnw.edu/preview_course_nopop.php?catoid=4&coid=13793)
+Course Description: [MA 47200 Introduction to Applied Mathematics](https://catalog.pnw.edu/preview_course_nopop.php?catoid=4&coid=13793)
 
 Textbook: [Applied Mathematics, 4th Edition](https://www.wiley.com/en-us/Applied+Mathematics%2C+4th+Edition-p-9781118475805), [pdf](https://eduguidehome.files.wordpress.com/2019/03/applied-mathematics-by-david-logan-4th-edition.pdf)
 
