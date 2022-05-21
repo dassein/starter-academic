@@ -64,4 +64,5 @@ Blogs:
 * [LU](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_02A_LU.pdf), [Cholesky](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_02B_MD.pdf), [QR](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03B_QR.pdf), [SVD decompositions](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03C_SVD.pdf), [Python implementation](https://zhuanlan.zhihu.com/p/462433659)
 * [Jocobi, Gauss-Seidel, Successive Over Relaxation (SOR), Conjugate Gradient methods to solve a system of linear equations](https://math.ecnu.edu.cn/~jypan/Teaching/MNA/slides_ch06_iter.pdf), [Python implementation](https://zhuanlan.zhihu.com/p/462428215)
 * [Householder, Givens transform](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03A_Transformation.pdf)
-* [tensor decomposition/factorization 1](https://zhuanlan.zhihu.com/p/24798389), [tensor decomposition/factorization 2](https://zhuanlan.zhihu.com/p/24824550), [tensor CP decomposition](https://zhuanlan.zhihu.com/p/383058483)
+* [tensor decomposition/factorization 1](https://zhuanlan.zhihu.com/p/24798389), [2](https://zhuanlan.zhihu.com/p/24824550), [tensor CP decomposition](https://zhuanlan.zhihu.com/p/383058483)
+* [matrix factorization in PyTorch: source codes](https://github.com/EthanRosenthal/torchmf), [blog](https://www.ethanrosenthal.com/2017/06/20/matrix-factorization-in-pytorch/)
