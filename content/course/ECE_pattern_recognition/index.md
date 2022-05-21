@@ -45,6 +45,7 @@ categories: []
 Course Description: [ECE 66200 Pattern Recognition and Decision Making](https://engineering.purdue.edu/~mboutin/ECE662.html)
 
 Textbook: [Introduction to Statistical Pattern Recognition, K. Fukunaga](https://www.elsevier.com/books/introduction-to-statistical-pattern-recognition/fukunaga/978-0-08-047865-4)
+
 Notes: [course notes](https://engineering.purdue.edu/~mboutin/ECE662_files/Lecture_NotesECE662.pdf)
 
 Homeworks:
@@ -61,6 +62,8 @@ Blogs:
 * [statistical distance: f-divergence and KL, reverse KL, Pearson, reverse Pearson, Jensen-Shannon divergences, Hellinger, total variation distances](https://www.zhihu.com/question/39872326/answer/92491155)
 * [Bregman divergence, Bregman distance](https://www.zhihu.com/question/22426561/answer/209594421), [paper1](https://ieeexplore.ieee.org/document/1459065), [paper2](https://www.jmlr.org/papers/volume6/banerjee05b/banerjee05b.pdf)
 * [concentration inequalities: Chernoff bound, Hoeffding's, Pinsker's inequality, Azuma's and McDiarmid's inequality](https://zhuanlan.zhihu.com/p/424198728)
+* [reproducing kernel Hilbert spaces and transfer learning](https://zhuanlan.zhihu.com/p/440595446), [domain adaption](https://zhuanlan.zhihu.com/p/439560708)
+* [notes of Optimal Transport](https://zhuanlan.zhihu.com/p/82424946), [arXiv summary paper](https://arxiv.org/pdf/1803.00567.pdf)
 
 References:
 * [The Elements of Statistical Learning, 2nd Edition](https://hastie.su.domains/Papers/ESLII.pdf)
