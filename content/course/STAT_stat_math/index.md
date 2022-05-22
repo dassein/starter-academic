@@ -37,12 +37,12 @@ tags:
 - machine learning
 
 categories: []
-
+weight: 1
 # url_pdf: "files/post/Van_der_Pol.pdf"
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
 <!--more-->
-Course Description: [STAT 528 Introduction to Mathematical Statistics](https://www.math.purdue.edu/academic/courses/coursepage?subject=MA&course=51100)
+Course Description: [STAT 528 Introduction to Mathematical Statistics](https://catalog.pfw.edu/preview_course_nopop.php?catoid=11&coid=35853)
 
 
 Textbook: 
