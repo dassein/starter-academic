@@ -50,6 +50,7 @@ Textbook:
 
 Notes: 
 * [problems of inference](https://www.stat.purdue.edu/~dasgupta/528-1.pdf)
+* [Exponential family](https://www.stat.purdue.edu/~dasgupta/expfamily.pdf)
 * [statistical models: distributions of Exponential family, heavy tails and kewness](https://www.stat.purdue.edu/~dasgupta/528-2.pdf)
 * [decision theory: evaluating an estimator and risk function, maximum risk and minimaxity](https://www.stat.purdue.edu/~dasgupta/528-3.pdf)
 * [Exponential families, moments and moment generating function](https://www.stat.purdue.edu/~dasgupta/528-4.pdf)
@@ -79,13 +80,12 @@ References:
 * [Statistical Inference notes, Robert L. Wolpert](http://www2.stat.duke.edu/courses/Spring07/sta215/)
     * [course schedule and outline](http://www2.stat.duke.edu/courses/Spring07/sta215/732syl.html)
     * [distributions](http://www2.stat.duke.edu/courses/Spring07/sta215/etc/pdf.pdf), [wk01](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk01.pdf), [wk02](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk01.pdf), [wk03](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk01.pdf), [wk04](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk01.pdf), [wk05](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk01.pdf), [wk07](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk01.pdf), [wk08](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk01.pdf), [wk11](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk01.pdf), [wk12](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk01.pdf), [wk13](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk13.pdf), [wk14](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk14.pdf), [wk15](http://www2.stat.duke.edu/courses/Spring07/sta215/lec/wk15.pdf)
+* [Biostatistics 602, University of Michigan](https://genome.sph.umich.edu/wiki/Biostatistics_602:_Main_Page)
+* [Stat 609: Mathematical Statistics I, University of Wisconsin-Madison](https://pages.stat.wisc.edu/~shao/stat609/)
+* [Statistics IB: University of Cambridge](http://www.statslab.cam.ac.uk/~rrw1/stats/Sa5.pdf)
+    * see page 14-16 for Rao-Blackwell theorem
 * [Mathematical Statistics: Exercises and Solutions](https://link.springer.com/book/10.1007/0-387-28276-9), [pdf](https://link.springer.com/content/pdf/10.1007/0-387-28276-9.pdf)
-* [An Introduction to Probability Theory and Its Applications, Volume 1, William Feller]()
+* [notes for Theoretical Statistics, University of Arizona](https://www.math.arizona.edu/~jwatkins/notests.pdf)
+* [An Introduction to Probability Theory and Its Applications, Volume 1, William Feller](https://www.wiley.com/en-us/An+Introduction+to+Probability+Theory+and+Its+Applications%2C+Volume+1%2C+3rd+Edition-p-9780471257080), [pdf](https://www.gwern.net/docs/statistics/probability/1957-feller-anintroductiontoprobabilitytheoryanditsapplications.pdf)
 * [An Introduction to Probability Theory and Its Applications, Volume 2, William Feller](https://www.wiley.com/en-us/An+Introduction+to+Probability+Theory+and+Its+Applications%2C+Volume+2%2C+2nd+Edition-p-9780471257097)
-
-Blogs:
-* [LU](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_02A_LU.pdf), [Cholesky](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_02B_MD.pdf), [QR](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03B_QR.pdf), [SVD decompositions](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03C_SVD.pdf), [Python implementation](https://zhuanlan.zhihu.com/p/462433659)
-* [Jocobi, Gauss-Seidel, Successive Over Relaxation (SOR), Conjugate Gradient methods to solve a system of linear equations](https://math.ecnu.edu.cn/~jypan/Teaching/MNA/slides_ch06_iter.pdf), [Python implementation](https://zhuanlan.zhihu.com/p/462428215)
-* [Householder, Givens transform](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03A_Transformation.pdf)
-* [tensor decomposition/factorization 1](https://zhuanlan.zhihu.com/p/24798389), [2](https://zhuanlan.zhihu.com/p/24824550), [tensor CP decomposition](https://zhuanlan.zhihu.com/p/383058483)
-* [matrix factorization in PyTorch: source codes](https://github.com/EthanRosenthal/torchmf), [blog](https://www.ethanrosenthal.com/2017/06/20/matrix-factorization-in-pytorch/)
+    * see [note](https://www.math.arizona.edu/~jwatkins/sufficiency.pdf) for sufficient statistic
