@@ -64,8 +64,10 @@ Blogs:
 * [concentration inequalities: Chernoff bound, Hoeffding's, Pinsker's inequality, Azuma's and McDiarmid's inequality](https://zhuanlan.zhihu.com/p/424198728)
 * [reproducing kernel Hilbert spaces and transfer learning](https://zhuanlan.zhihu.com/p/440595446), [domain adaption](https://zhuanlan.zhihu.com/p/439560708)
 * [notes of Optimal Transport](https://zhuanlan.zhihu.com/p/82424946), [arXiv summary paper](https://arxiv.org/pdf/1803.00567.pdf)
+* [deep metric learning: a (long) survey](https://hav4ik.github.io/articles/deep-metric-learning-survey#shopee-price-match), [a summary](https://zhuanlan.zhihu.com/p/145706950)
 
 References:
 * [The Elements of Statistical Learning, 2nd Edition](https://hastie.su.domains/Papers/ESLII.pdf)
 * [Stochastic Processes: Theory for application, by R.G. Gallager](https://www.cambridge.org/td/titles/stochastic-processes-theory-applications), [pdf](http://ce.sharif.edu/courses/97-98/1/ce695-1/resources/root/Resources/Gallager_R.G._Stochastic_Processes_Theory_for_Applications.pdf)
 * [R.G. Gallager’s lecture notes Chap3: detection, decisions, and hypothesis testing](http://web.mit.edu/gallager/www/papers/chap3.pdf)
+* [High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/)
