@@ -40,7 +40,7 @@ experience:
         * Investigated reliable and effective methods for Fine-Grained Visual Classification (FGVC)
         * Re-implemented a hierarchy-based embedding method for encoding of categories to decrease average hierarchical distance at top 1 by 3\%, and that at top 5 by 10\% on our [VIPER-FoodNet](https://lorenz.ecn.purdue.edu/~vfn/) dataset with 82 food categories, 15 thousand images
         * Corrected the incorrect labels and bounding boxes of our VIPER-FoodNet dataset
-	      # * Worked on improving the hierarchical method by incorporating the nutrient and visual information of food
+# * Worked on improving the hierarchical method by incorporating the nutrient and visual information of food
   
   - title: Research Assistant
     company: Center for Innovation through Visualization and Simulation (CIVS), Purdue University Northwest
