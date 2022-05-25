@@ -50,11 +50,12 @@ Textbook:
 * [Pattern Recognition, 4th Edition](https://www.elsevier.com/books/pattern-recognition/koutroumbas/978-1-59749-272-0)
 
 Topics:
-* [Gaussian mixture model](GMM_understand.pdf)
+* [Expectation-Maximization algorithm](EM_algo.html)
+* [Gaussian mixture model](GMM_understand.html)
 By maximizing the probability of the current state with the EM algorithm, we can estimate the parameters of our Gaussian mixture model.
-* [Capsule networks and EM rounting](GMM_em_routing.pdf)
+* [Capsule networks and EM rounting](GMM_em_routing.html)
 By introducing the weight coefficients and rewriting the initial distribution formula, we can derive Hinton's Capsules with EM routing.
-* [hidden Markov model](HMM_understand.pdf)
+* [hidden Markov model](HMM_understand.html)
 By maximizing the probability of the current state with the EM algorithm, we can estimate the parameters of our Hidden Markov Model. To prevent underflow of the estimated parameter values, we introduce intermediate parameters.
 * [backpropagation](backpropagation.pdf), [codes](https://github.com/dassein/backpropagation)
 Derive the backpropagation rule in matrix form, then implement the backpropagation with both MATLAB and python. Furthermore, the backpropagation rule is integrated in the simple Deep Learning Framwork library (see codes).
