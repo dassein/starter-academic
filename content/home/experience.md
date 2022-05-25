@@ -22,15 +22,15 @@ subtitle:
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-
+# * Worked on improving the hierarchical method by incorporating the nutrient and visual information of food
 experience:
 
   - tilte: Teaching Assistant
     company: ECE department, Purdue University West Lafayette
     company_url: https://engineering.purdue.edu/ECE
     location: West Lafayette, IN
-    date_start: '2022-06-13'
-    date_end: '2022-08-06'
+    date_start: '2022-05-22' # '2022-06-13'
+    date_end: '' # 2022-08-06
     description: |2-
         Hold office hours and help sessions, grade homework assignments and compose helpful materials for [ECE20001 Electrical Engineering Fundamentals I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716)
     
@@ -52,7 +52,6 @@ experience:
         * Investigated reliable and effective methods for Fine-Grained Visual Classification (FGVC)
         * Re-implemented a hierarchy-based embedding method for encoding of categories to decrease average hierarchical distance at top 1 by 3\%, and that at top 5 by 10\% on our [VIPER-FoodNet](https://lorenz.ecn.purdue.edu/~vfn/) dataset with 82 food categories, 15 thousand images
         * Corrected the incorrect labels and bounding boxes of our VIPER-FoodNet dataset
-# * Worked on improving the hierarchical method by incorporating the nutrient and visual information of food
   
   - title: Research Assistant
     company: Center for Innovation through Visualization and Simulation (CIVS), Purdue University Northwest
