@@ -28,7 +28,7 @@ experience:
     company: ECE department, Purdue University West Lafayette
     company_url: https://engineering.purdue.edu/ECE
     location: West Lafayette, IN
-    date_start: '2021-06-13'
+    date_start: '2022-06-13'
     date_end: '2022-08-06'
     description: |2-
         Hold office hours and help sessions, grade homework assignments and compose helpful materials for [ECE20001 Electrical Engineering Fundamentals I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716)
