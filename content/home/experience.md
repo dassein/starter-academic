@@ -24,6 +24,7 @@ subtitle:
 
 
 experience:
+
   - tilte: Teaching Assistant
     company: ECE department, Purdue University West Lafayette
     company_url: https://engineering.purdue.edu/ECE
