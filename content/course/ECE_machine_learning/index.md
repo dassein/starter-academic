@@ -51,7 +51,7 @@ Textbook:
 
 Topics:
 * [Expectation-Maximization algorithm](EM_algo.html)
-* [Gaussian mixture model](GMM_understand.html)
+* [Gaussian mixture model](GMM_understandmd.html)
 By maximizing the probability of the current state with the EM algorithm, we can estimate the parameters of our Gaussian mixture model.
 * [Capsule networks and EM rounting](GMM_em_routing.html)
 By introducing the weight coefficients and rewriting the initial distribution formula, we can derive Hinton's Capsules with EM routing.
