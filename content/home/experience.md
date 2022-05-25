@@ -21,21 +21,27 @@ subtitle:
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+	{Teaching Assistant}{West Lafayette, IN}
+	{\href{https://engineering.purdue.edu/ECE}{ECE Department}, Purdue University West Lafayette}{May 2022 -- Present}
+	\resumeItemListStart
+	\resumeItem{Hold office hours and help sessions, grade homework assignments and compose helpful materials for \href{https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716}{ECE20001 Electrical Engineering Fundamentals I}}
+
 experience:
   - title: Research Assistant
     company: Video and Image Processing Laboratory (VIPER), Purdue University West Lafayette
     company_url: 'https://engineering.purdue.edu/~ips/'
     location: West Lafayette, IN
     date_start: '2021-08-23'
-    date_end: ''
+    date_end: '2022-05-31'
     description: |2-
-        Worked on the project ``[Image Based Plant Phenotyping: The PhenoSorg Project](https://engineering.purdue.edu/~sorghum/)''
+        Worked on the project [Image Based Plant Phenotyping: The PhenoSorg Project](https://engineering.purdue.edu/~sorghum/)
 
         * Generated 1 thousand synthetic high-resolution UAV RGB images with panicle labels by using image-to-image translation GANs with a ground truth dataset of 400 real UAV RGB images
         * Improved mean average precision with Intersection over Union from 0.5 to 0.95 (mAP[.5, .95]) for panicle detection task from 72\% to 79\%, and reduced Mean Absolute Percent Error (MAPE) for panicle counting task from 11.6\% to 7.2\%
-        * Created labels for panicles in PhenoRover RGB images to test our approach on data
+        * Created labels for panicles in PhenoRover RGB images to test our approach on PhenoRover data
 
-        Worked on the project ``[Technology Assisted Dietary Assessment (TADA)](http://tadaproject.org/)''
+        Worked on the project [Technology Assisted Dietary Assessment (TADA)](http://tadaproject.org/)
 
         * Investigated reliable and effective methods for Fine-Grained Visual Classification (FGVC)
         * Re-implemented a hierarchy-based embedding method for encoding of categories to decrease average hierarchical distance at top 1 by 3\%, and that at top 5 by 10\% on our [VIPER-FoodNet](https://lorenz.ecn.purdue.edu/~vfn/) dataset with 82 food categories, 15 thousand images
@@ -49,11 +55,10 @@ experience:
     date_start: '2020-02-01'
     date_end: '2021-05-01'
     description: |2-
-        Worked on the project ``[Smart Ladle: Al-Based Tool for Optimizing Casting Temperature](https://www.pnw.edu/civs/2021/05/18/civs-presented-smart-ladle-at-aist-digital-transformation-forum-2021/)''
+        Worked on the project [Smart Ladle: Al-Based Tool for Optimizing Casting Temperature](https://www.pnw.edu/civs/2021/05/18/civs-presented-smart-ladle-at-aist-digital-transformation-forum-2021/)
   
         * Developed a machine learning application using DNN, lightGBM to provide steel casting temperature predictions
         * Reduced Root Mean Square Error (RMSE) of predicted casting temperature to 3 degrees Fahrenheit
         * Collaborated application with SQL database and GUI using Unity (C\#) to display predictions and parameters
-        * Awarded the AIST 2021 Digitalization Applications Technology Best Paper Award
         * Tested and deployed this tool at Steel Dynamics Inc (SDI) Butler Division, awarded [AIST 2022 Hunt-Kelly Outstanding Paper Award -- third place (AIME)](https://www.pnw.edu/civs/2022/03/17/smart-ladle-won-aist-hunt-kelly-outstanding-paper-award/) and [AIST 2021 Digitalization Applications Technology Best Paper Award](https://www.pnw.edu/civs/2020/12/01/civs-paper-selected-for-2021-aistech-best-paper-award/)
 ---
