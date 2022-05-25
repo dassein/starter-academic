@@ -22,10 +22,6 @@ subtitle:
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-	{Teaching Assistant}{West Lafayette, IN}
-	{\href{https://engineering.purdue.edu/ECE}{ECE Department}, Purdue University West Lafayette}{May 2022 -- Present}
-	\resumeItemListStart
-	\resumeItem{}
 
 experience:
   - tilte: Teaching Assistant
