@@ -25,9 +25,18 @@ subtitle:
 	{Teaching Assistant}{West Lafayette, IN}
 	{\href{https://engineering.purdue.edu/ECE}{ECE Department}, Purdue University West Lafayette}{May 2022 -- Present}
 	\resumeItemListStart
-	\resumeItem{Hold office hours and help sessions, grade homework assignments and compose helpful materials for \href{https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716}{ECE20001 Electrical Engineering Fundamentals I}}
+	\resumeItem{}
 
 experience:
+  - tilte: Teaching Assistant
+    company: ECE department, Purdue University West Lafayette
+    company_url: https://engineering.purdue.edu/ECE
+    location: West Lafayette, IN
+    date_start: '2021-06-13'
+    date_end: '2022-08-06'
+    description: |2-
+        Hold office hours and help sessions, grade homework assignments and compose helpful materials for [ECE20001 Electrical Engineering Fundamentals I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716)
+    
   - title: Research Assistant
     company: Video and Image Processing Laboratory (VIPER), Purdue University West Lafayette
     company_url: 'https://engineering.purdue.edu/~ips/'
