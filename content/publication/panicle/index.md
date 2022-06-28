@@ -18,8 +18,8 @@ authors:
 # - "Equal contribution"
 
 date: "2022-06-01T00:00:00Z"
-url_preprint: https://arxiv.org/pdf/2205.03947.pdf
-doi: "https://doi.org/10.48550/arXiv.2205.03947"
+# url_preprint: https://arxiv.org/pdf/2205.03947.pdf
+doi: "https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/html/Cai_High-Resolution_UAV_Image_Generation_for_Sorghum_Panicle_Detection_CVPRW_2022_paper.html" # "https://doi.org/10.48550/arXiv.2205.03947"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -49,14 +49,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'publication/smart_ladle/AISTECH_2020_SmartLadle_Submitted.pdf'
+url_pdf: 'publication/panicle/Zhankun_CVPRW2022.pdf'
 url_code: ''
 url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
 url_project: 'https://engineering.purdue.edu/~sorghum/'
 # url_slides: 'publication/smart_ladle/intro_senior_design.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=nl2x2SE4PnU'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
