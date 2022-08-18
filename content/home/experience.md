@@ -27,6 +27,9 @@ subtitle:
 experience:
 
   - title: Teaching Assitant
+    company: ECE department, Purdue University West Lafayette
+    company_url: https://engineering.purdue.edu/ECE
+    location: West Lafayette, IN
     date_start: '2022-08-23' # '2022-06-13'
     date_end: '' # 2022-08-06
     description: |2-
@@ -41,7 +44,7 @@ experience:
     date_start: '2022-05-22' # '2022-06-13'
     date_end: '2022-08-06' # 2022-08-06
     description: |2-
-        Hold office hours and help sessions, grade homework assignments and compose helpful [materials](content/files/post/ECE_20001_Collection of Practice Problems.pdf) for [ECE20001 Electrical Engineering Fundamentals I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716)
+        Hold office hours and help sessions, grade homework assignments and compose helpful [materials]("content/files/post/ECE_20001_Collection of Practice Problems.pdf") for [ECE20001 Electrical Engineering Fundamentals I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716)
     
   - title: Research Assistant
     company: Video and Image Processing Laboratory (VIPER), Purdue University West Lafayette
