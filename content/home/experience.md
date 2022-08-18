@@ -34,7 +34,7 @@ experience:
     date_end: '' # '2022-08-06' 
     description: |2-
         Hold office hours, grade homework assignments for [ECE69500 Optimization for Deep Learning](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=818), which discusses the optimization algorithms that have been the engine that powered the recent rise of machine learning (ML) and deep learning (DL)
-        Hold office hours and help sessions, grade homework assignments and compose helpful [materials]("content/files/post/ECE_20001_Collection of Practice Problems.pdf") for [ECE20001 Electrical Engineering Fundamentals I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716)
+        Hold office hours and help sessions, grade homework assignments and compose helpful [materials](content/files/post/ECE_20001_Collection_of_Practice_Problems.pdf) for [ECE20001 Electrical Engineering Fundamentals I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716)
 
     
   - title: Research Assistant
