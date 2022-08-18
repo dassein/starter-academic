@@ -2,6 +2,9 @@
 title: Underwater Structured Light
 summary: Derived the formula to compute the coordinates of underwater objects with the triangulation method. Furthermore, we verified that the refracted light didn't form a plane when the structured light plane entered the water and refracts using both formula derivation and experiment results.
 
+authors:
+- Zhankun Luo
+
 tags:
 - Structured light
 date: "2020-12-00T00:00:00Z"
@@ -15,7 +18,7 @@ image:
   preview_only: false
 
 url_code: ""
-url_pdf: "project/underwater_laser/underwater_combine.pdf"
+url_pdf: "post/underwater_laser/underwater_combine.pdf"
 url_dataset: ""
 url_slides: ""
 url_video: ""
