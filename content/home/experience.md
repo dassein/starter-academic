@@ -33,12 +33,12 @@ experience:
     date_start: '2022-05-22' # '2022-08-23'
     date_end: '' # '2022-08-06' #  and help sessions
     description: |2-
-        Teaching Assistant for [ECE69500 Optimization for Deep Learning](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=818) (Fall 2022)
+        TA for [ECE69500 Optimization for Deep Learning](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=818) (Fall 2022)
         * Hold office hours and help sessions, grade homeworks and exams
         * The course discusses the optimization algorithms that have been the engine that powered the recent rise of machine learning (ML) and deep learning (DL)
         
 
-        Teaching Assitant for [ECE20001 Electrical Engineering Fundamentals I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716) (Summer 2022)
+        TA for [ECE20001 Electrical Engineering Fundamentals I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716) (Summer 2022)
         * Hold office hours, grade exams and compose [Collection of Practice Problems](files/post/ECE_20001_Collection_of_Practice_Problems.pdf) of homeworks
         * The course covers the basic concepts of current and voltage, devices, theorems, and applications of direct-current (DC), 1st order, alternating-current (AC) and basic electronic components including diodes and transistors
 
