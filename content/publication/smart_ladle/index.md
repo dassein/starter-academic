@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'publication/smart_ladle/AISTECH_2020_SmartLadle_Submitted.pdf'
-url_code: ''
+url_code: 'https://github.com/dassein/smart_ladle'
 url_dataset: ''
 url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
 url_project: 'https://www.pnw.edu/civs/2021/05/18/civs-presented-smart-ladle-at-aist-digital-transformation-forum-2021/'
