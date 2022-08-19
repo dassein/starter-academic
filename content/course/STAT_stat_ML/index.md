@@ -42,7 +42,7 @@ weight: 1
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
 <!--more-->
-Course Description: [STAT 528 Introduction to Mathematical Statistics](stat598syllabus.pdf)
+Course Description: [STAT 59800 Statistical Machine Learning](stat598syllabus.pdf)
 
 Textbook: 
 [The Elements of Statistical Learning](https://link.springer.com/book/10.1007/978-0-387-84858-7), [pdf](https://hastie.su.domains/Papers/ESLII.pdf)
