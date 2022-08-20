@@ -1,5 +1,5 @@
 ---
-title: STAT 528 Introduction to Mathematical Statistics
+title: STAT 59800 Statistical Machine Learning
 subtitle: 
 
 # Summary for listings and search engines
