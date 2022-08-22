@@ -1,5 +1,5 @@
 ---
-title: STAT 528 Introduction to Mathematical Statistics
+title: STAT 52800 Introduction to Mathematical Statistics
 subtitle: 
 
 # Summary for listings and search engines
