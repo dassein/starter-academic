@@ -48,3 +48,7 @@ Textbook:
 [Probabilistic Machine Learning (a book series), Kevin Murphy](https://probml.github.io/pml-book/), [pdf](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)
 
 
+References:
+* [Deep Learning, Ian Goodfellow](https://www.deeplearningbook.org/)
+* [Pattern Recognition and Machine Learning, Christopher Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* [Information Theory, Inference, and Learning Algorithm, David MacKay](http://www.inference.org.uk/mackay/itila/book.html)
