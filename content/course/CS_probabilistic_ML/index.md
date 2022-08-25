@@ -1,5 +1,5 @@
 ---
-title: STAT 59800 Statistical Machine Learning
+title: CS 59200 Probabilistic Machine Learning
 subtitle: 
 
 # Summary for listings and search engines
@@ -42,9 +42,9 @@ weight: 1
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
 <!--more-->
-Course Description: [STAT 59800 Statistical Machine Learning](stat598syllabus.pdf)
+Course Description: [CS 59200 Probabilistic Machine Learning](https://ruqizhang.github.io/cs59200pml.html)
 
 Textbook: 
-[The Elements of Statistical Learning](https://link.springer.com/book/10.1007/978-0-387-84858-7), [pdf](https://hastie.su.domains/Papers/ESLII.pdf)
+[Probabilistic Machine Learning (a book series), Kevin Murphy](https://probml.github.io/pml-book/), [pdf](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)
 
 
