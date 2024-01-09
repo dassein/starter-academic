@@ -15,7 +15,7 @@ authors:
 
 date: "2024-01-19T00:00:00Z"
 # url_preprint: https://arxiv.org/pdf/2205.03947.pdf
-doi: "https://doi.org/10.1109/CVPRW56347.2022.00174" # "https://doi.org/10.48550/arXiv.2205.03947"
+doi: "" # "https://doi.org/10.1109/CVPRW56347.2022.00174" # "https://doi.org/10.48550/arXiv.2205.03947"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
