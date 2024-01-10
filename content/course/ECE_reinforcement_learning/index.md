@@ -46,8 +46,8 @@ Course Description: [ECE 59500 Reinforcement Learning](https://engineering.purdu
 
 
 References:
-* [Bandit Algorithms, Tor Lattimore](https://tor-lattimore.com/downloads/book/book.pdf)
-* [Foundations of Deep Reinforcement Learning, Laura Graesser](https://slm-lab.gitbook.io/foundations-of-deep-rl/) [code](https://github.com/kengz/SLM-Lab)
-* [A Course in Reinforcement Learning, Dimitri Bertsekas](https://web.mit.edu/dimitrib/www/RLCOURSECOMPLETE.pdf) [website](http://www.mit.edu/~dimitrib/RLbook.html)
-* [Reinforcement Learning: An Introduction, Richard Sutton](http://incompleteideas.net/book/RLbook2020.pdf) [website](http://incompleteideas.net/book/the-book-2nd.html)
-* [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/rltheorybook_AJKS.pdf) [website](https://wensun.github.io/CS6789_fall_2021.html)
+* [Bandit Algorithms, Tor Lattimore](https://banditalgs.com/about/), [pdf](https://tor-lattimore.com/downloads/book/book.pdf)
+* [Foundations of Deep Reinforcement Learning, Laura Graesser](https://slm-lab.gitbook.io/foundations-of-deep-rl/), [code](https://github.com/kengz/SLM-Lab)
+* [A Course in Reinforcement Learning, Dimitri Bertsekas](http://www.mit.edu/~dimitrib/RLbook.html), [pdf](https://web.mit.edu/dimitrib/www/RLCOURSECOMPLETE.pdf)
+* [Reinforcement Learning: An Introduction, Richard Sutton](http://incompleteideas.net/book/the-book-2nd.html), [pdf](http://incompleteideas.net/book/RLbook2020.pdf)
+* [Reinforcement Learning: Theory and Algorithms, Alekh Agarwal](https://wensun.github.io/CS6789_fall_2021.html), [pdf](https://rltheorybook.github.io/rltheorybook_AJKS.pdf)
