@@ -33,6 +33,11 @@ experience:
     date_start: '2022-05-22' # '2022-08-23'
     date_end: '' # '2022-08-06' #  and help sessions
     description: |2-
+        TA for [ECE20002 Electrical Engineering Fundamentals II](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=725) (Spring 2024, Fall 2023, Summer 2023, Spring 2023)
+        * Hold office hours, grade quizzes and coordinate TA group activities
+        * The course addresses mathematical and computational foundations of circuit analysis (differential equations, Laplace Transform techniques) with a focus on application to linear circuits having variable behavior as a function of frequency, with emphasis on filtering
+
+
         TA for [ECE69500 Optimization for Deep Learning](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=818) (Fall 2022)
         * Hold office hours and help sessions, grade homeworks and exams
         * The course discusses the optimization algorithms that have been the engine that powered the recent rise of machine learning (ML) and deep learning (DL)

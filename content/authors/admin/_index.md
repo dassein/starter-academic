@@ -14,11 +14,12 @@ organizations:
   url: https://engineering.purdue.edu/ECE/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, deep learning and applications in image processing and computer vision.
+bio: My research interests include machine learning, statistical learning, and deep learning in image processing and computer vision.
 
 # Interests to show in About widget
 interests:
 - Machine Learning
+- Statistical Learning
 - Deep Learning
 - Computer Vision
 - Image Processing
