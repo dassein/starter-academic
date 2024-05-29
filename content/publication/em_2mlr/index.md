@@ -45,8 +45,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+url_preprint: 'https://arxiv.org/pdf/2405.18237'
 url_pdf: '' # 'publication/panicle/Zhankun_CVPRW2022.pdf'
-url_code: ''
+url_code: 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
 url_project: 'https://icml.cc/virtual/2024/poster/33762' # 'https://engineering.purdue.edu/~sorghum/'
