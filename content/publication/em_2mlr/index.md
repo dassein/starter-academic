@@ -58,7 +58,7 @@ url_video: '' # "https://www.youtube.com/watch?v=nl2x2SE4PnU&list=PLPtQK8rJZ9HzX
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[](publication/panicle/featured.png)' # 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
+  caption: '[](publication/em_2mlr/featured.png)' # 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
   # focal_point: "" # put png on top
   focal_point: Smart # put png on right
   preview_only: false
