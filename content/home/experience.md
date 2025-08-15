@@ -25,20 +25,31 @@ subtitle:
 # * Worked on improving the hierarchical method by incorporating the nutrient and visual information of food
 
 experience:
+  - title: Research Assistant
+    company: Machine Intelligence & Networked Data Science (MINDS) Group, Purdue University West Lafayette
+    company_url: 'https://abolfazlh.github.io/minds/'
+    location: West Lafayette, IN
+    date_start: '2025-08-25'
+    date_end: ''
+    description: |
+        Design efficient algorithms with mathematical guarantees to render practical deployment of learning-based systems possible under a variety of considerations such as limited resources, robustness, and adversarial behaviors. 
+        Recent applications include Federated Learning and and Cyber-Physical Systems.
+
 
   - title: Teaching Assitant
     company: ECE department, Purdue University West Lafayette
     company_url: https://engineering.purdue.edu/ECE
     location: West Lafayette, IN
     date_start: '2022-05-22' # '2022-08-23'
-    date_end: '' # '2022-08-06' #  and help sessions
+    date_end: '2025-08-08' # '2022-08-06' #  and help sessions
     description: |2-
-        TA for [ECE69500 Optimization for Deep Learning](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=818) (Fall 2024, Fall 2022)
+        TA for [ECE69500 Optimization for Deep Learning](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=818) (Fall 2022)
         * Hold office hours and help sessions, grade homeworks and exams
-        * The course discusses the optimization algorithms that have been the engine that powered the recent rise of machine learning (ML) and deep learning (DL)
+        * This course introduces students to the theoretical principles behind stochastic, gradient-based algorithms for DL as well as practical considerations such as adaptivity, generalization, distributed learning, and non-convex loss surfaces typically present in modern DL problems
+        * The [concatenated slides](files/post/OPT4DL_Slides.pdf) are available or download and public use under [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 
-        TA for [ECE20002 Electrical Engineering Fundamentals II](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=725) (Summer 2024, Spring 2024, Fall 2023, Summer 2023, Spring 2023)
+        TA for [ECE20002 Electrical Engineering Fundamentals II](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=725) (Fall 2023, 2024; Spring 2023,2024,2025; Summer 2023,2024,2025)
         * Hold office hours, grade quizzes and coordinate TA group activities
         * The course addresses mathematical and computational foundations of circuit analysis (differential equations, Laplace Transform techniques) with a focus on application to linear circuits having variable behavior as a function of frequency, with emphasis on filtering
 
