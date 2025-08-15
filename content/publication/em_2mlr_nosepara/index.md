@@ -47,8 +47,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_preprint: '' # 'https://arxiv.org/pdf/2405.18237'
-url_pdf: '' # 'publication/panicle/Zhankun_CVPRW2022.pdf'
+url_preprint: 'https://arxiv.org/abs/2508.10154' # 'https://arxiv.org/pdf/2405.18237'
+url_pdf: 'https://arxiv.org/pdf/2508.10154' # 'publication/panicle/Zhankun_CVPRW2022.pdf'
 url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
