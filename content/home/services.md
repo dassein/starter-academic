@@ -1,7 +1,7 @@
 ---
-# An instance of the Markdown widget.
+# An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: markdown
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -12,40 +12,56 @@ weight: 70
 title: Services
 subtitle: Professional Services & Memberships
 
-# Content
-# The content of the page, type "Asciidoc" if you want Asciidoc syntax:
-type: markdown
+content:
+  # Page type to display. E.g. project.
+  page_type: project
 
-# Design
-# Choose how many columns the section has. Valid values: 1 or 2.
-columns: '1'
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
 
-# Background color
-background:
-  # Name of a pre-defined color palette to use (see `assets/scss/palettes/`)
-  color: palette_1
-  # Uncomment to use a custom color, if you have defined it in `assets/scss/palettes/_custom.scss`
-  # color_custom: '#f4f4f4'
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove the toolbar, delete the entire `filter_button` block.
+  
+  # filter_button:
+  # - name: All
+  #   tag: '*'
+  # - name: Deep Learning
+  #   tag: Deep Learning
+  # - name: Other
+  #   tag: Demo
 
-# Text color (true=light or false=dark)
-text_color_light: false
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
 
-# Content
-content: |
-  ## Conference Reviewer
-  * [International Conference on Machine Learning (ICML)](https://icml.cc/)
-  * [Conference on Uncertainty in Artificial Intelligence (UAI)](https://www.auai.org/)
-  * [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/)
-  * [IEEE International Conference on Multimedia and Expo (ICME)](https://www.ieee-icme.org/)
-  * [Annual Conference on Vision and Intelligent Systems (CVIS)](https://uwcvis.github.io/)
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 1
 
-  ## Journal Reviewer
-  * [IEEE Transactions on Signal Processing (TSP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
-  * [Plant Methods](https://plantmethods.biomedcentral.com/) - Online journal for the plant research community
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
+---
 
-  ## Professional Memberships
-  * [IEEE Young Professionals](https://yp.ieee.org/)
-  * [IEEE Signal Processing Society](https://signalprocessingsociety.org/)
-  * [IEEE Computer Society](https://www.computer.org/)
-  * [Association for Iron & Steel Technology (AIST)](https://www.aist.org/) - Former member
-  * [Material Advantage](https://materialadvantage.org/) - Former member 
+## Conference Reviewer
+* [International Conference on Machine Learning (ICML)](https://icml.cc/)
+* [Conference on Uncertainty in Artificial Intelligence (UAI)](https://www.auai.org/)
+* [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/)
+* [IEEE International Conference on Multimedia and Expo (ICME)](https://www.ieee-icme.org/)
+* [Annual Conference on Vision and Intelligent Systems (CVIS)](https://uwcvis.github.io/)
+
+## Journal Reviewer
+* [IEEE Transactions on Signal Processing (TSP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
+* [Plant Methods](https://plantmethods.biomedcentral.com/) - Online journal for the plant research community
+
+## Professional Memberships
+* [IEEE Young Professionals](https://yp.ieee.org/)
+* [IEEE Signal Processing Society](https://signalprocessingsociety.org/)
+* [IEEE Computer Society](https://www.computer.org/)
+* [Association for Iron & Steel Technology (AIST)](https://www.aist.org/) - Former member
+* [Material Advantage](https://materialadvantage.org/) - Former member 
