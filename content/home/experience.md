@@ -33,7 +33,7 @@ experience:
     date_end: ''
     description: |
         Design efficient algorithms with mathematical guarantees to render practical deployment of learning-based systems possible under a variety of considerations such as limited resources, robustness, and adversarial behaviors. 
-        Recent applications include Federated Learning and and Cyber-Physical Systems.
+        Recent applications include Federated Learning and and Cyber-Physical Systems, see [Mission of the project](https://sites.google.com/view/nsf-ccpls/home) for more information.
 
 
   - title: Teaching Assitant
@@ -92,3 +92,7 @@ experience:
         * Collaborated application with SQL database and GUI using Unity (C\#) to display predictions and parameters
         * Tested and deployed this tool at Steel Dynamics Inc (SDI) Butler Division, awarded [AIST 2022 Hunt-Kelly Outstanding Paper Award -- third place (AIME)](https://www.pnw.edu/civs/2022/03/17/smart-ladle-won-aist-hunt-kelly-outstanding-paper-award/) and [AIST 2021 Digitalization Applications Technology Best Paper Award](https://www.pnw.edu/civs/2020/12/01/civs-paper-selected-for-2021-aistech-best-paper-award/)
 ---
+For professional service, Zhankun also serves as a reviewer for the International Conference on Machine Learning (ICML), 
+IEEE Transactions on Signal Processing (TSP), Conference on Uncertainty in Artificial Intelligence (UAI), International Conference on Artificial Intelligence and Statistics (AISTATS), IEEE International Conference on Multimedia and Expo (ICME), Conference on Vision and Intelligent Systems (CVIS), and Plant Methods (online journal for the plant research community).
+ 
+Zhankun is also a member of IEEE Young Professionals, IEEE Signal Processing Society, and IEEE Computer Society, and was a member of the Association for Iron & Steel Technology (AIST) and Material Advantage.
