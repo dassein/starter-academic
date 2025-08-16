@@ -18,10 +18,7 @@
   url = "#projects"
   weight = 30
 
-[[main]]
-  name = "Services"
-  url = "#services"
-  weight = 35
+
 
 [[main]]
   name = "Experience"
@@ -29,15 +26,20 @@
   weight = 40
 
 [[main]]
+  name = "Services"
+  url = "#services"
+  weight = 50
+
+[[main]]
   name = "Posts"
   url = "#posts"
-  weight = 45
+  weight = 60
 
 
 [[main]]
   name = "Courses"
   url = "#courses"
-  weight = 55
+  weight = 70
 # [[main]]
 #   name = "Talks"
 #   url = "#talks"
@@ -46,11 +48,11 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 65
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
    name = "Résumé"
    url = "files/resume/Zhankun_s_Resume.pdf"
-   weight = 75
+   weight = 90
