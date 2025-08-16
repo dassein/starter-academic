@@ -93,11 +93,11 @@ phone = "2192387103"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "610 Purdue Mall, Purdue University West Lafayette", city = "West Lafayette", region = "IN", postcode = "47907", country = "United States", country_code = "US"}
+address = {street = "Max W & Maileen Brown Family Hall, Purdue University West Lafayette", city = "West Lafayette", region = "IN", postcode = "47907", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.428165", longitude = "-86.914429"}
+# coordinates = {latitude = "40.428165", longitude = "-86.914429"}
 
 # Directions for visitors to locate you.
 directions = false # "Enter Building 1 and take the stairs to Office 200 on Floor 2"
