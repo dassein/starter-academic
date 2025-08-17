@@ -1,7 +1,7 @@
 ---
-# An instance of the Portfolio widget.
+# An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: notes
+widget: blank
 
 # This file represents a page section.
 headless: true
