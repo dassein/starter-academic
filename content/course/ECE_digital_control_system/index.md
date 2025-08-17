@@ -58,4 +58,9 @@ Topics:
 
 Homeworks: [problem numbers in textbook](Digital%20Control%20System%20Fall-2019-%20Homework.pdf)
 
-References: [Modern Control Theory, Prentice Hall, 3rd Edition](https://www.pearson.com/us/higher-education/program/Brogan-Modern-Control-Theory-3rd-Edition/PGM135781.html), [pdf](http://docs.znu.ac.ir/members/pirmohamadi_ali/Control/Brogan(BookZZ.org).pdf)
+References: 
+* [Modern Control Theory, Prentice Hall, 3rd Edition](https://www.pearson.com/us/higher-education/program/Brogan-Modern-Control-Theory-3rd-Edition/PGM135781.html), [pdf](http://docs.znu.ac.ir/members/pirmohamadi_ali/Control/Brogan(BookZZ.org).pdf)
+* [Linear System Theory and Design](https://www.mathworks.com/academia/books/linear-system-theory-and-design-chen.html), [pdf](https://mrce.in/ebooks/Linear%20System%20Theory%20&%20Design%203rd%20Ed.pdf)
+* [A Linear Systems Primer](https://link.springer.com/book/10.1007/978-0-8176-4661-5), [pdf](https://link.springer.com/content/pdf/10.1007/978-0-8176-4661-5.pdf)
+* [System and Control](https://global.oup.com/ushe/product/systems-and-control-9780195150117?cc=us&lang=en&), [pdf](https://www.researchgate.net/profile/Ali-Arshad-6/post/How-do-time-domain-control-techniques-SMC-account-for-transient-response-specifications/attachment/59d6270379197b80779854ee/AS%253A324276094210049%25401454324853865/download/Systems_and_Control.pdf&ved=2ahUKEwjbu9D0kJGPAxUlm4kEHe_sKcUQFnoECBkQAQ&usg=AOvVaw0ksKMpCNVx9WLcxRwYA52y), [LaTeX](https://engineering.purdue.edu/~zak/Second_ed/Root.tex.sav)
+* [An Introduction to Optimization](https://www.engr.colostate.edu/~echong/book5/), [pdf](https://www.gipsa-lab.grenoble-inp.fr/~ahmad.hably/Documents/IntroOptimization.pdf)

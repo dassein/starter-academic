@@ -37,32 +37,25 @@ tags:
 - machine learning
 
 categories: []
+weight: 1
 
 # url_pdf: "files/post/Van_der_Pol.pdf"
 # (course/MA_intro_applied_math/Zhankun Luo_homework01.pdf)
 ---
 <!--more-->
-Course Description: [MA 51100 Linear Algebra With Applications](https://www.math.purdue.edu/academic/courses/coursepage?subject=MA&course=51100)
+Course Description: [MA 50400 Real Analysis](https://www.math.purdue.edu/academic/courses/coursepage?subject=MA&course=50400)
 
 
 Textbook: 
-[Linear Algebra and Its Applications, 4th Edition](https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676), [pdf](https://ia802906.us.archive.org/18/items/StrangG.LinearAlgebraAndItsApplications45881001/%5BStrang_G.%5D_Linear_algebra_and_its_applications%284%29%5B5881001%5D.pdf)
+[Principles of Mathematical Analysis (baby Rudin), 3rd Edition](https://www.amazon.com/dp/0070856133?_ga=2.223298840.2062030776.1755407250-203880676.1754190101), [pdf](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf)
 
-Notes: 
-* [Prof. Gilbert Strang's notes](https://math.mit.edu/~gs/LectureNotes/)
-* [notes for Summer 2021](https://www.alanshawn.com/media/2021/ma511-note.pdf)
+Notes and Solutions: 
+* [notes of introduction to analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.html)
+* [notes of Theory of Probability, Parts I and II](https://web.ma.utexas.edu/users/gordanz/lecture_notes_page.html)
+* [Solutions Manual to baby Rudin](https://minds.wisconsin.edu/handle/1793/67009)
+* [A Complete Solution Guide to Principles of Mathematical Analysis](https://www.amazon.com/Complete-Solution-Principles-Mathematical-Analysis/dp/9887879711)
 
 References: 
-* [Linear Algebra Done Right, 3rd Edition](https://linear.axler.net/), [pdf](http://ce.sharif.edu/courses/97-98/1/ce425-1/resources/root/Books/Linear%20Algebra%20Done%20Right.pdf)
-* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-* [lecture notes of Matrix Computations](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/mc.pdf)
-* [numberical analysis](https://math.ecnu.edu.cn/~jypan/Teaching/NA/)
-* [Matrix Computations, 4th edition](https://my.siam.org/Store/Product/viewproduct/?ProductId=23915573), [website](https://www.cs.cornell.edu/cv/cvl_home/books/)
-* [Tensor Decompositions and Applications](https://www.kolda.net/publication/TensorReview.pdf)
-
-Blogs:
-* [LU](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_02A_LU.pdf), [Cholesky](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_02B_MD.pdf), [QR](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03B_QR.pdf), [SVD decompositions](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03C_SVD.pdf), [Python implementation](https://zhuanlan.zhihu.com/p/462433659)
-* [Jocobi, Gauss-Seidel, Successive Over Relaxation (SOR), Conjugate Gradient methods to solve a system of linear equations](https://math.ecnu.edu.cn/~jypan/Teaching/MNA/slides_ch06_iter.pdf), [Python implementation](https://zhuanlan.zhihu.com/p/462428215)
-* [Householder, Givens transform](https://math.ecnu.edu.cn/~jypan/Teaching/NA/slides_03A_Transformation.pdf)
-* [tensor decomposition/factorization 1](https://zhuanlan.zhihu.com/p/24798389), [2](https://zhuanlan.zhihu.com/p/24824550), [tensor CP decomposition](https://zhuanlan.zhihu.com/p/383058483)
-* [matrix factorization in PyTorch: source codes](https://github.com/EthanRosenthal/torchmf), [blog](https://www.ethanrosenthal.com/2017/06/20/matrix-factorization-in-pytorch/)
+* [Probability: Theory and Examples](https://www.cambridge.org/core/books/probability/DD9A1907F810BB14CCFF022CDFC5677A), [pdf](https://sites.math.duke.edu/~rtd/PTE/PTE5_011119.pdf)
+* [Probabilities and Potential (part 1)](https://www.sciencedirect.com/bookseries/north-holland-mathematics-studies/vol/29/)
+* [Probabilities and Potential (part 2)](https://www.sciencedirect.com/bookseries/north-holland-mathematics-studies/vol/72/)
