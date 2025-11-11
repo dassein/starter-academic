@@ -13,7 +13,7 @@
 #   title = "Facebook"
 #   icon_pack = "fab"
 #   icon = "facebook"
-#   enable = true
+#   enable = false
 
 # [[buttons]]
 #   id = "email"
@@ -21,7 +21,7 @@
 #   title = "Email"
 #   icon_pack = "fas"
 #   icon = "envelope"
-#   enable = true
+#   enable = false
 
 # [[buttons]]
 #   id = "linkedin"
@@ -29,7 +29,7 @@
 #   title = "LinkedIn"
 #   icon_pack = "fab"
 #   icon = "linkedin-in"
-#   enable = true
+#   enable = false
 
 # [[buttons]]
 #   id = "whatsapp"
@@ -37,7 +37,7 @@
 #   title = "WhatsApp"
 #   icon_pack = "fab"
 #   icon = "whatsapp"
-#   enable = true
+#   enable = false
 
 # [[buttons]]
 #   id = "reddit"
@@ -69,7 +69,7 @@
 #   title = "Tumblr"
 #   icon_pack = "fab"
 #   icon = "tumblr"
-#   enable = falserue
+#   enable = false
 
 # [[buttons]]
 #   id = "facebook"
@@ -77,7 +77,7 @@
 #   title = "Facebook"
 #   icon_pack = "fab"
 #   icon = "facebook"
-#   enable = true
+#   enable = false
 
 # [[buttons]]
 #   id = "email"
@@ -85,7 +85,7 @@
 #   title = "Email"
 #   icon_pack = "fas"
 #   icon = "envelope"
-#   enable = true
+#   enable = false
 
 # [[buttons]]
 #   id = "linkedin"
@@ -93,7 +93,7 @@
 #   title = "LinkedIn"
 #   icon_pack = "fab"
 #   icon = "linkedin-in"
-#   enable = true
+#   enable = false
 
 # [[buttons]]
 #   id = "whatsapp"
@@ -101,7 +101,7 @@
 #   title = "WhatsApp"
 #   icon_pack = "fab"
 #   icon = "whatsapp"
-#   enable = true
+#   enable = false
 
 # [[buttons]]
 #   id = "reddit"
