@@ -1,5 +1,5 @@
 ---
-title: "Characterizing Evolution in Expectation-Maximization Estimates for Overspecified Mixed Linear Regression "
+title: "Characterizing Evolution in Expectation-Maximization Estimates for Overspecified Mixed Linear Regression"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
