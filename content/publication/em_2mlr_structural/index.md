@@ -42,18 +42,18 @@ abstract: |
 
 
 # Summary. An optional shortened abstract.
+  # In this paper, we derive explicit expressions for the EM updates in the two-component Mixed Linear Regression (2MLR) model
+  # with unknown mixing weights and regression parameters across all SNR regimes.
+  # We then characterize the properties of EM updates based on the explicit expressions, establishing their structural behavior and boundedness, 
+  # and showing that in the noiseless setting, they follow a cycloid trajectory derived via a recurrence relation for the sub-optimality angle.
+  # In finite high-SNR regimes, we further bound the deviation of the EM updates from this cycloid trajectory.
+  # At the population level, the trajectory-based analysis reveals the order of convergence: linear convergence when the EM estimate is nearly orthogonal to the ground truth regression parameters, 
+  # and quadratic convergence when the angle between the estimate and the ground truth is small.
+  # Furthermore, our work provides a novel trajectory-based framework that establishes non-asymptotic guarantees by tightening bounds of the statistical errors between the finite-sample and population EM updates, 
+  # revealing the connection between EM's statistical accuracy and the sub-optimality angle, 
+  # and establishing convergence guarantees with arbitrary initialization at the finite-sample level.
 summary: | 
-  In this paper, we derive explicit expressions for the EM updates in the two-component Mixed Linear Regression (2MLR) model
-  with unknown mixing weights and regression parameters across all SNR regimes.
-  We then characterize the properties of EM updates based on the explicit expressions, establishing their structural behavior and boundedness, 
-  and showing that in the noiseless setting, they follow a cycloid trajectory derived via a recurrence relation for the sub-optimality angle.
-  In finite high-SNR regimes, we further bound the deviation of the EM updates from this cycloid trajectory.
-  At the population level, the trajectory-based analysis reveals the order of convergence: linear convergence when the EM estimate is nearly orthogonal to the ground truth regression parameters, 
-  and quadratic convergence when the angle between the estimate and the ground truth is small.
-  Furthermore, our work provides a novel trajectory-based framework that establishes non-asymptotic guarantees by tightening bounds of the statistical errors between the finite-sample and population EM updates, 
-  revealing the connection between EM's statistical accuracy and the sub-optimality angle, 
-  and establishing convergence guarantees with arbitrary initialization at the finite-sample level.
-
+  We derive explicit EM updates for the 2MLR model across all SNR regimes and characterize their properties. We show the updates follow a cycloid trajectory in the noiseless setting and bound the deviation from this trajectory in finite high-SNR regimes. This trajectory-based analysis reveals the population-level convergence orders: linear when near-orthogonal and quadratic when the angle is small. Our novel framework provides non-asymptotic guarantees by tightening statistical error bounds between finite-sample and population updates, linking statistical accuracy to the sub-optimality angle and establishing finite-sample convergence from arbitrary initialization.
 
 tags: []
 
@@ -67,7 +67,7 @@ featured: true
 
 url_preprint: 'https://arxiv.org/abs/2511.04937' # 'https://arxiv.org/pdf/2405.18237'
 url_pdf: 'https://arxiv.org/pdf/2511.04937' # 'publication/panicle/Zhankun_CVPRW2022.pdf'
-url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
+url_code: 'https://github.com/dassein/cycloid_em_tit' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
 url_project: '' # 'https://icml.cc/virtual/2024/poster/33762' # 'https://engineering.purdue.edu/~sorghum/'
