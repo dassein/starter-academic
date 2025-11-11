@@ -20,6 +20,8 @@ bio: My research interests include machine learning, statistical learning, and d
 interests:
 - Machine Learning
 - Statistical Learning
+- Federated Learning 
+- Large-scale Optimization
 - Deep Learning
 - Computer Vision
 - Image Processing
@@ -72,7 +74,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I joined the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University West Lafayette](https://www.purdue.edu/) as a Ph.D. student in Fall 2021. Prior to that, I obtained my MS degree in the Department of Electrical and Computer Engineering at [PNW](https://www.pnw.edu/) in 2021. Before that I received my BS degree in Telecommunication Engineering from [Beijing Institute of Technology](http://english.bit.edu.cn/) in 2019. My research interests include machine learning, computer vision and image processing.
+I joined the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University West Lafayette](https://www.purdue.edu/) as a Ph.D. student in Fall 2021. Prior to that, I obtained my MS degree in the Department of Electrical and Computer Engineering at [PNW](https://www.pnw.edu/) in 2021. Before that I received my BS degree in Telecommunication Engineering from [Beijing Institute of Technology](http://english.bit.edu.cn/) in 2019. My research interests include statistical learning, machine learning, federated learning, large-scale optimization, computer vision and image processing.
 <!---
 I work as a research assistant at the [Video and Image Processing Laboratory (VIPER)](https://engineering.purdue.edu/~ips/) advised by [Prof. Edward J. Delp](https://engineering.purdue.edu/~ace/). 
 --->
