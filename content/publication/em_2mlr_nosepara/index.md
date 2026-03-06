@@ -24,11 +24,11 @@ publishDate: "2025-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *Transactions on Machine Learning Research (TMLR)*
-publication_short: Submitted to *TMLR*
+publication: Accepted by *Transactions on Machine Learning Research (TMLR)*
+publication_short: Accepted by *TMLR*
 
 abstract: | 
   Estimating data distributions using parametric families is crucial in many learning setups, serving both as a standalone problem and an intermediate objective for downstream tasks. Mixture models, in particular, have attracted significant attention due to their practical effectiveness and comprehensive theoretical foundations. A persisting challenge is model misspecification, which occurs when the model to be fitted has more mixture components than those in the data distribution. In this paper, we develop a theoretical understanding of the Expectation-Maximization (EM) algorithm's behavior in the context of targeted model misspecification for overspecified two-component Mixed Linear Regression (2MLR) with unknown regression parameters and mixing weights. We rigorously characterize the evolution of EM estimates for both regression parameters and mixing weights of overspecified MLR models by providing approximate dynamic equations  for EM update rules and establishing convergence guarantees for final accuracy, time complexity, and sample complexity at population and finite-sample levels, respectively. We further extend our analysis in the overspecified setting to the finite low SNR regime, providing approximate dynamic equations that characterize the EM algorithm's behavior in this challenging case. Our new findings not only expand the scope of theoretical convergence but also improve the bounds for statistical error, time complexity, and sample complexity, and rigorously characterize the evolution of EM estimates.
@@ -48,11 +48,11 @@ featured: true
 #   url: http://example.org
 
 url_preprint: 'https://arxiv.org/abs/2508.10154' # 'https://arxiv.org/pdf/2405.18237'
-url_pdf: 'https://arxiv.org/pdf/2508.10154' # 'publication/panicle/Zhankun_CVPRW2022.pdf'
-url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
+url_pdf: 'https://openreview.net/pdf?id=mFdHMNFtrT' # 'publication/panicle/Zhankun_CVPRW2022.pdf'
+url_code: 'https://github.com/dassein/em_overspecified_mlr' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
-url_project: '' # 'https://icml.cc/virtual/2024/poster/33762' # 'https://engineering.purdue.edu/~sorghum/'
+url_project: 'https://openreview.net/forum?id=mFdHMNFtrT' # 'https://icml.cc/virtual/2024/poster/33762' # 'https://engineering.purdue.edu/~sorghum/'
 # url_slides: 'publication/smart_ladle/intro_senior_design.pdf'
 url_source: '' # 'https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/html/Cai_High-Resolution_UAV_Image_Generation_for_Sorghum_Panicle_Detection_CVPRW_2022_paper.html'
 url_video: '' # "https://www.youtube.com/watch?v=nl2x2SE4PnU&list=PLPtQK8rJZ9HzX9kzDPRf2mc0L7NcOsNzP&index=10" # 'https://www.youtube.com/watch?v=nl2x2SE4PnU'

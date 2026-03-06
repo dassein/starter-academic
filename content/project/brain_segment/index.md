@@ -19,7 +19,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: "https://drive.google.com/drive/folders/1f1iC33vHfp5kOG3d038dV1LS9FCiGDRL?usp=sharing"
-url_pdf: "http://indexsmart.mirasmart.com/ISMRM2019/PDFfiles/4797.html"
+url_pdf: "https://cds.ismrm.org/protected/19MProceedings/PDFfiles/4797.html" #"http://indexsmart.mirasmart.com/ISMRM2019/PDFfiles/4797.html"
 url_dataset: ""
 url_slides: ""
 url_video: ""
