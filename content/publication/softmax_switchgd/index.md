@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_preprint: '' # 'https://arxiv.org/pdf/2405.18237'
+url_preprint: 'https://arxiv.org/abs/2603.05774' # 'https://arxiv.org/pdf/2405.18237'
 url_pdf: 'publication/softmax_switchgd/arxiv_softmax_switchgd.pdf'
 url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
