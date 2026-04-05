@@ -37,11 +37,11 @@ publication_short: In preparation
 # Submitted to *NeurIPS*
 
 abstract: | 
-  This work establishes a generalized theoretical framework for analyzing the convergence of variance-reduced optimization methods, providing tight, high-probability bounds across multiple algorithmic variants.
+  
 
 # Summary. An optional shortened abstract.
 summary: | 
-  
+  This work establishes a generalized theoretical framework for analyzing the convergence of variance-reduced optimization methods, providing tight, high-probability bounds across multiple algorithmic variants.
 tags: []
 
 # Display this page in the Featured widget?
