@@ -17,12 +17,12 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2026-05-01T00:00:00Z"
+date: "2026-04-01T00:00:00Z"
 # url_preprint: https://arxiv.org/pdf/2205.03947.pdf
 doi: "" # "https://doi.org/10.1109/CVPRW56347.2022.00174" # "https://doi.org/10.48550/arXiv.2205.03947"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-05-01T00:00:00Z"
+publishDate: "2026-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
