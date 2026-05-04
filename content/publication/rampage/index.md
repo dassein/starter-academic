@@ -1,15 +1,14 @@
 ---
-title: "Unified High-Probability Analysis of Stochastic Variance-Reduced Estimation"
+title: "RAMPAGE: RAndomized Mid-Point for debiAsed Gradient Extrapolation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Zhankun Luo
-- Antesh Upadhyay
 - Mehmet Berk Sahin
-- Sang Bin Moon
-- Anuran Makur
+- Antesh Upadhyay
+- Behzad Sharif
 - Abolfazl Hashemi
 
 # Author notes (optional)
@@ -37,12 +36,12 @@ publication_short: In preparation
 # Submitted to *NeurIPS*
 
 abstract: | 
-  Stochastic estimators are fundamental to large-scale optimization, where population quantities must be inferred from noisy oracle observations. Although influential methods such as momentum, SPIDER, STORM, and PAGE have been highly successful, their analyses are largely estimator-specific and expectation-based, obscuring the structural tradeoffs that determine reliability. In this paper, we develop a unified framework for stochastic variance-reduced estimation based on a recursion with three components: memory retention, reset probability, and a correction term for iterate movement. This framework recovers several classical estimators, motivates new second-order variants, and yields a bias-variance decomposition of estimation error. Our main result is a unified high-probability bound proved using a new dimension-free vector-valued Freedman inequality, valid for smooth normed spaces involving random sums of vector martingales. The result applies in both Euclidean and non-Euclidean settings, including the analysis of mirror-descent-based methods in Banach spaces. As applications, we obtain high-probability oracle complexities for unconstrained optimization with mirror descent, establishing the logarithmic dependence on the confidence level. We also derive the first $\tilde{\mathcal{O}}(\varepsilon^{-3})$ oracle-complexity bounds for stochastic optimization with expectation constraints, improving upon the existing $\mathcal{O}(\varepsilon^{-4})$ complexity by leveraging variance-reduced estimation for the first time in this setting.
+  A celebrated method for Variational Inequalities (VIs) is Extragradient (EG), which can be viewed as a standard discrete-time integration scheme. With this view in mind, in this paper we show that EG may suffer from discretization bias when applied to non-linear vector fields, conservative or otherwise. To resolve this discretization shortcoming, we introduce RAndomized Mid-Point for debiAsed Gradient Extrapolation (RAMPAGE) and its variance-reduced counterpart, RAMPAGE+, which leverages antithetic sampling. In contrast with EG, both methods are unbiased. Furthermore, leveraging negative correlation, RAMPAGE+ acts as an unbiased, geometric path-integrator that completely removes internal first-order terms from the variance, provably improving upon RAMPAGE. We further demonstrate that both methods enjoy provable $\mathcal{O}(1/k)$ convergence guarantees for a range of problems including root finding under co-coercive, co-hypomonotone, and generalized Lipschitzness regimes. Furthermore, we introduce symmetrically scaled variants to extend our results to constrained VIs. Finally, we provide convergence guarantees of both methods for stochastic and deterministic smooth convex-concave games. Somewhat interestingly, despite being a randomized method, RAMPAGE+ attains purely deterministic bounds for a number of the studied settings.
+
 
 # Summary. An optional shortened abstract.
 summary: | 
-  We present a unified variance-reduction framework and a novel Freedman inequality that establishes sharp logarithmic confidence dependence for unconstrained optimization with mirror descent in Banach spaces.
-  We also improve the oracle complexity from $\mathcal{O}(\varepsilon^{-4})$ to $\tilde{\mathcal{O}}(\varepsilon^{-3})$ by integrating variance reduction into the expectation-constrained setting.
+  To resolve the discretization bias of the Extragradient method in non-linear vector fields, this paper introduces RAMPAGE and its variance-reduced counterpart RAMPAGE+, establishing $\mathcal{O}(1/k)$ convergence for a broad range of variational inequalities and convex-concave games through an unbiased, randomized mid-point framework.
 tags: []
 
 # Display this page in the Featured widget?
@@ -53,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_preprint: '' #'https://arxiv.org/abs/2603.05774'
+url_preprint: 'https://arxiv.org/abs/2603.22155' #'https://arxiv.org/abs/2603.05774'
 url_pdf: '' # 'publication/softmax_switchgd/arxiv_softmax_switchgd.pdf'
 url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
