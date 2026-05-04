@@ -31,11 +31,10 @@ publishDate: "2026-04-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In preparation
-# Submitted to *Conference on Neural Information Processing Systems (NeurIPS)*
-publication_short: In preparation
-# Submitted to *NeurIPS*
-
+publication: Submitted to *Conference on Neural Information Processing Systems (NeurIPS)*
+# In preparation
+publication_short: Submitted to *NeurIPS*
+# In preparation
 abstract: | 
   Stochastic estimators are fundamental to large-scale optimization, where population quantities must be inferred from noisy oracle observations. Although influential methods such as momentum, SPIDER, STORM, and PAGE have been highly successful, their analyses are largely estimator-specific and expectation-based, obscuring the structural tradeoffs that determine reliability. In this paper, we develop a unified framework for stochastic variance-reduced estimation based on a recursion with three components: memory retention, reset probability, and a correction term for iterate movement. This framework recovers several classical estimators, motivates new second-order variants, and yields a bias-variance decomposition of estimation error. Our main result is a unified high-probability bound proved using a new dimension-free vector-valued Freedman inequality, valid for smooth normed spaces involving random sums of vector martingales. The result applies in both Euclidean and non-Euclidean settings, including the analysis of mirror-descent-based methods in Banach spaces. As applications, we obtain high-probability oracle complexities for unconstrained optimization with mirror descent, establishing the logarithmic dependence on the confidence level. We also derive the first $\tilde{\mathcal{O}}(\varepsilon^{-3})$ oracle-complexity bounds for stochastic optimization with expectation constraints, improving upon the existing $\mathcal{O}(\varepsilon^{-4})$ complexity by leveraging variance-reduced estimation for the first time in this setting.
 
