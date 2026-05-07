@@ -41,7 +41,7 @@ abstract: |
 # Summary. An optional shortened abstract.
 summary: | 
   We present a unified variance-reduction framework and a novel Freedman inequality that establishes sharp logarithmic confidence dependence for unconstrained optimization with mirror descent in Banach spaces.
-  We also improve the oracle complexity from $\mathcal{O}(\varepsilon^{-4})$ to $\tilde{\mathcal{O}}(\varepsilon^{-3})$ by integrating variance reduction into the expectation-constrained setting.
+  We also improve the oracle complexity from $\tilde{\mathcal{O}}(\varepsilon^{-4})$ to $\tilde{\mathcal{O}}(\varepsilon^{-3})$ by integrating variance reduction into the expectation-constrained setting.
 tags: []
 
 # Display this page in the Featured widget?
