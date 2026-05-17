@@ -52,7 +52,7 @@ featured: true
 #   url: http://example.org
 
 url_preprint: 'https://arxiv.org/abs/2603.22155' #'https://arxiv.org/abs/2603.05774'
-url_pdf: '' # 'publication/softmax_switchgd/arxiv_softmax_switchgd.pdf'
+url_pdf: 'publication/rampage/arxiv_rampage.pdf' 
 url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
