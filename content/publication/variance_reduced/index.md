@@ -52,8 +52,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_preprint: '' #'https://arxiv.org/abs/2603.05774'
-url_pdf: '' # 'publication/softmax_switchgd/arxiv_softmax_switchgd.pdf'
+url_preprint: 'https://arxiv.org/abs/2605.15388' #'https://arxiv.org/abs/2603.05774'
+url_pdf: 'publication/variance_reduced/arxiv_variance_reduced.pdf'
 url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
