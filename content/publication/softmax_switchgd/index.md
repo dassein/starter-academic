@@ -29,8 +29,8 @@ publishDate: "2026-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *Conference on Uncertainty in Artificial Intelligence (UAI)*
-publication_short: Submitted to *UAI*
+publication: Accepted by *Conference on Uncertainty in Artificial Intelligence (UAI)*
+publication_short: Accepted by *UAI*
 
 abstract: | 
   This paper addresses the distributed stochastic minimax optimization problem subject to stochastic constraints. We propose a novel first-order Softmax-Weighted Switching Gradient method tailored for federated learning. Under full client participation, our algorithm achieves the standard oracle complexity to satisfy a unified bound for both the optimality gap and feasibility tolerance. We extend our theoretical analysis to the practical partial participation regime by quantifying client sampling noise through a stochastic superiority assumption. Furthermore, by relaxing standard boundedness assumptions on the objective functions, we establish a strictly tighter lower bound for the softmax hyperparameter. We provide a unified error decomposition and establish a sharp high-probability convergence guarantee. Ultimately, our framework demonstrates that a single-loop primal-only switching mechanism provides a stable alternative for optimizing worst-case client performance, effectively bypassing the hyperparameter sensitivity and convergence oscillations often encountered in traditional primal-dual or penalty-based approaches. We verify the efficacy of our algorithm via experiment on the Neyman-Pearson (NP) classification and fair classification tasks.
@@ -53,7 +53,7 @@ url_pdf: 'publication/softmax_switchgd/arxiv_softmax_switchgd.pdf'
 url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
-url_project: '' # 'https://icml.cc/virtual/2024/poster/33762' # 'https://engineering.purdue.edu/~sorghum/'
+url_project: 'https://openreview.net/forum?id=0lUrVA3y2w' # 'https://icml.cc/virtual/2024/poster/33762' # 'https://engineering.purdue.edu/~sorghum/'
 # url_slides: 'publication/smart_ladle/intro_senior_design.pdf'
 url_source: '' # 'https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/html/Cai_High-Resolution_UAV_Image_Generation_for_Sorghum_Panicle_Detection_CVPRW_2022_paper.html'
 url_video: '' # "https://www.youtube.com/watch?v=nl2x2SE4PnU&list=PLPtQK8rJZ9HzX9kzDPRf2mc0L7NcOsNzP&index=10" # 'https://www.youtube.com/watch?v=nl2x2SE4PnU'
