@@ -39,6 +39,7 @@ design:
 
 ## Journal Reviewer
 * [IEEE Transactions on Signal Processing (TSP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
+* [Stochastic Systems](https://pubsonline.informs.org/journal/stsy)
 * [Plant Methods](https://plantmethods.biomedcentral.com/) - Online journal for the plant research community
 
 ## Professional Memberships
