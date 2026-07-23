@@ -33,6 +33,7 @@ design:
 * [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
 * [Conference on Uncertainty in Artificial Intelligence (UAI)](https://www.auai.org/)
 * [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/)
+* [AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/)
 * [IEEE International Symposium on Information Theory (ISIT)](https://www.itsoc.org/conferences/isit)
 * [IEEE International Conference on Multimedia and Expo (ICME)](https://2022.ieeeicme.org/)
 * [Conference on Vision and Intelligent Systems (CVIS)](https://cvis2021.weebly.com/)
