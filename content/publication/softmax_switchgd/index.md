@@ -52,7 +52,7 @@ url_preprint: 'https://arxiv.org/abs/2603.05774' # 'https://arxiv.org/pdf/2405.1
 url_pdf: 'publication/softmax_switchgd/arxiv_softmax_switchgd.pdf'
 url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
-# url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
+url_poster: 'publication/softmax_switchgd/poster_UAI26_softmaxgd.pdf'
 url_project: 'https://openreview.net/forum?id=0lUrVA3y2w' # 'https://icml.cc/virtual/2024/poster/33762' # 'https://engineering.purdue.edu/~sorghum/'
 # url_slides: 'publication/smart_ladle/intro_senior_design.pdf'
 url_source: '' # 'https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/html/Cai_High-Resolution_UAV_Image_Generation_for_Sorghum_Panicle_Detection_CVPRW_2022_paper.html'
