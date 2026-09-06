@@ -52,6 +52,7 @@ url_pdf: 'https://openreview.net/pdf?id=mFdHMNFtrT' # 'publication/panicle/Zhank
 url_code: 'https://github.com/dassein/em_overspecified_mlr' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
+url_project_label: "OpenReview"
 url_project: 'https://openreview.net/forum?id=mFdHMNFtrT' # 'https://icml.cc/virtual/2024/poster/33762' # 'https://engineering.purdue.edu/~sorghum/'
 # url_slides: 'publication/smart_ladle/intro_senior_design.pdf'
 url_source: '' # 'https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/html/Cai_High-Resolution_UAV_Image_Generation_for_Sorghum_Panicle_Detection_CVPRW_2022_paper.html'
@@ -60,7 +61,7 @@ url_video: '' # "https://www.youtube.com/watch?v=nl2x2SE4PnU&list=PLPtQK8rJZ9HzX
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[](publication/em_2MLR_nosepara/featured.png)' # 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
+  caption: '[Figure](/publication/em_2mlr_nosepara/featured.png)' # 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
   # focal_point: "" # put png on top
   focal_point: Smart # put png on right
   preview_only: false
@@ -79,3 +80,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+## My contribution
+
+I analyzed how jointly estimated mixing weights and regression parameters affect EM convergence and finite-sample accuracy under model overspecification.

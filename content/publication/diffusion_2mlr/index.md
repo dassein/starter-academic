@@ -36,7 +36,7 @@ abstract: |
 
 # Summary. An optional shortened abstract.
 summary: | 
-  We connect score matching, maximum likelihood, and expectation-maximization in mixed linear regression with unknown mixing weights. Score matching integrated over the diffusion path consistently recovers model parameters matches the asymptotic distribution of maximum likelihood. At a fixed noise level, exact decompositions relate the loss and its gradients to EM operators and latent variance. We further characterize optimization dynamics in the high-noise limit and establish pointwise blindness to mixing imbalance as the ground-truth signal grows along a fixed direction. Numerical experiments illustrate our theoretical findings.
+  We connect score matching, maximum likelihood, and expectation-maximization in mixed linear regression with unknown mixing weights. Score matching integrated over the diffusion path consistently recovers model parameters and matches the asymptotic distribution of maximum likelihood. At a fixed noise level, exact decompositions relate the loss and its gradients to EM operators and latent variance. We further characterize optimization dynamics in the high-noise limit and establish pointwise blindness to mixing imbalance as the ground-truth signal grows along a fixed direction. Numerical experiments illustrate our theoretical findings.
 tags: []
 
 # Display this page in the Featured widget?
@@ -79,3 +79,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+## My contribution
+
+I analyzed consistency and asymptotic normality of path-integrated score matching and derived identities connecting fixed-noise objectives to EM.

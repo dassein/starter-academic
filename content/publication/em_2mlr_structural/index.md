@@ -78,7 +78,7 @@ url_video: '' # "https://www.youtube.com/watch?v=nl2x2SE4PnU&list=PLPtQK8rJZ9HzX
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[](publication/em_2MLR_structural/featured.png)' # 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
+  caption: '[Figure](/publication/em_2mlr_structural/featured.png)' # 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
   # focal_point: "" # put png on top
   focal_point: Smart # put png on right
   preview_only: false
@@ -97,3 +97,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+## My contribution
+
+I extended the trajectory analysis to jointly unknown regression parameters and mixing weights, including population convergence and finite-sample guarantees.

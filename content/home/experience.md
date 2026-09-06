@@ -33,10 +33,10 @@ experience:
     date_end: ''
     description: |
         Design efficient algorithms with mathematical guarantees to render practical deployment of learning-based systems possible under a variety of considerations such as limited resources, robustness, and adversarial behaviors. 
-        Recent applications include Federated Learning and and Cyber-Physical Systems, see [Mission of the project](https://sites.google.com/view/nsf-ccpls/home) for more information.
+        Recent applications include Federated Learning and Cyber-Physical Systems, see [Mission of the project](https://sites.google.com/view/nsf-ccpls/home) for more information.
 
 
-  - title: Teaching Assitant
+  - title: Teaching Assistant
     company: ECE department, Purdue University West Lafayette
     company_url: https://engineering.purdue.edu/ECE
     location: West Lafayette, IN
@@ -44,18 +44,18 @@ experience:
     date_end: '2025-08-08' # '2022-08-06' #  and help sessions
     description: |2-
         TA for [ECE69500 Optimization for Deep Learning](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=818) (Fall 2022) · [YouTube videos](https://www.youtube.com/@opt4xl/videos)
-        * Hold office hours and help sessions, grade homeworks and exams
+        * Held office hours and help sessions, graded homework and exams
         * This course introduces students to the theoretical principles behind stochastic, gradient-based algorithms for DL as well as practical considerations such as adaptivity, generalization, distributed learning, and non-convex loss surfaces typically present in modern DL problems
-        * The [concatenated slides](files/post/OPT4DL_Slides.pdf) are available or download and public use under [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+        * The [concatenated slides](files/post/OPT4DL_Slides.pdf) are available for download and public use under [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 
         TA for [ECE20002 Electrical Engineering Fundamentals II](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=725) (Fall 2023, 2024; Spring 2023,2024,2025; Summer 2023,2024,2025) · [YouTube playlist](https://www.youtube.com/playlist?list=PLMeut30HexE8WDLBZfLI50kNk3AsyczgU)
-        * Hold office hours, grade quizzes and coordinate TA group activities
+        * Held office hours, graded quizzes and coordinated TA group activities
         * The course addresses mathematical and computational foundations of circuit analysis (differential equations, Laplace Transform techniques) with a focus on application to linear circuits having variable behavior as a function of frequency, with emphasis on filtering
 
 
         TA for [ECE20001 Electrical Engineering Fundamentals I](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo/UGO?courseid=716) (Summer 2022)
-        * Hold office hours, grade exams and compose [Collection of Practice Problems](files/post/ECE_20001_Collection_of_Practice_Problems.pdf) of homeworks
+        * Held office hours, graded exams and compiled a [Collection of Practice Problems](files/post/ECE_20001_Collection_of_Practice_Problems.pdf) for homework practice
         * The course covers the basic concepts of current and voltage, devices, theorems, and applications of direct-current (DC), 1st order, alternating-current (AC) and basic electronic components including diodes and transistors
 
     
@@ -85,12 +85,12 @@ experience:
     date_start: '2020-02-01'
     date_end: '2021-05-01'
     description: |2-
-        Worked on the project [Smart Ladle: Al-Based Tool for Optimizing Casting Temperature](https://www.pnw.edu/civs/2021/05/18/civs-presented-smart-ladle-at-aist-digital-transformation-forum-2021/)
+        Worked on the project [Smart Ladle: AI-Based Tool for Optimizing Casting Temperature](https://www.pnw.edu/civs/2021/05/18/civs-presented-smart-ladle-at-aist-digital-transformation-forum-2021/)
   
-        * Developed a machine learning application using DNN, lightGBM to provide steel casting temperature predictions
+        * Developed a machine learning application using DNN and LightGBM to provide steel casting temperature predictions
         * Reduced Root Mean Square Error (RMSE) of predicted casting temperature to 3 degrees Fahrenheit
-        * Collaborated application with SQL database and GUI using Unity (C\#) to display predictions and parameters
-        * Tested and deployed this tool at Steel Dynamics Inc (SDI) Butler Division, awarded [AIST 2022 Hunt-Kelly Outstanding Paper Award -- third place (AIME)](https://www.pnw.edu/civs/2022/03/17/smart-ladle-won-aist-hunt-kelly-outstanding-paper-award/) and [AIST 2021 Digitalization Applications Technology Best Paper Award](https://www.pnw.edu/civs/2020/12/01/civs-paper-selected-for-2021-aistech-best-paper-award/)
+        * Integrated the application with a SQL database and a Unity (C\#) GUI to display predictions and parameters
+        * Tested and deployed this tool at Steel Dynamics Inc. (SDI), Butler Division. The Smart Ladle paper received [AIST 2022 Hunt-Kelly Outstanding Paper Award -- third place (AIME)](https://www.pnw.edu/civs/2022/03/17/smart-ladle-won-aist-hunt-kelly-outstanding-paper-award/) and [AIST 2021 Digitalization Applications Technology Best Paper Award](https://www.pnw.edu/civs/2020/12/01/civs-paper-selected-for-2021-aistech-best-paper-award/)
 ---
 <!-- For professional service, Zhankun also serves as a reviewer for the International Conference on Machine Learning ([ICML](https://icml.cc/Conferences/2025)), Conference on Uncertainty in Artificial Intelligence ([UAI](https://www.auai.org/uai2025/)), International Conference on Artificial Intelligence and Statistics ([AISTATS](https://2022.ieeeicme.org/)), 
 IEEE Transactions on Signal Processing ([TSP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)), IEEE International Conference on Multimedia and Expo ([ICME](https://2022.ieeeicme.org/)), Annual Conference on Vision and Intelligent Systems ([CVIS](https://uwcvis.github.io/cvis2021/)), and online journal for the plant research community ([Plant Methods](https://plantmethods.biomedcentral.com/)).

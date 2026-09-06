@@ -41,15 +41,18 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Explanation
+  url: /publication/em_2mlr/#the-geometry-behind-em
+- name: Proceedings
+  url: https://proceedings.mlr.press/v235/luo24c.html
 
 url_preprint: 'https://arxiv.org/pdf/2405.18237'
-url_pdf: '' # 'publication/panicle/Zhankun_CVPRW2022.pdf'
+url_pdf: 'https://proceedings.mlr.press/v235/luo24c/luo24c.pdf'
 url_code: 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
-# url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
+url_poster: 'https://icml.cc/media/PosterPDFs/ICML%202024/33762.png'
+url_project_label: "Conference page"
 url_project: 'https://icml.cc/virtual/2024/poster/33762' # 'https://engineering.purdue.edu/~sorghum/'
 # url_slides: 'publication/smart_ladle/intro_senior_design.pdf'
 url_source: '' # 'https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/html/Cai_High-Resolution_UAV_Image_Generation_for_Sorghum_Panicle_Detection_CVPRW_2022_paper.html'
@@ -58,7 +61,7 @@ url_video: '' # "https://www.youtube.com/watch?v=nl2x2SE4PnU&list=PLPtQK8rJZ9HzX
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[](publication/em_2mlr/featured.png)' # 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
+  caption: '[Figure](/publication/em_2mlr/featured.png)' # 'Image credit: [**Unsplash**](publication/multi_ransac1/featured.png)'
   # focal_point: "" # put png on top
   focal_point: Smart # put png on right
   preview_only: false
@@ -77,3 +80,26 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+## The geometry behind EM
+
+How does an iterative learning algorithm move toward the right answer? In mixed linear regression, observations come from different regression models, but their assignments are hidden. EM repeatedly estimates these assignments and updates the regression parameters.
+
+Our ICML 2024 result exposes a geometric structure in those nonlinear updates: **in the noiseless population setting, the regression estimates lie on a cycloid after the first update**. This is for a two-component model with opposite regression vectors and standard Gaussian covariates; the mixture weights need not be equal.
+
+<figure class="research-figure">
+<img src="cycloid-explained.svg" width="760" height="710" loading="lazy" alt="Five exact noiseless population EM updates on a blue cycloid branch approach the true parameter. Both coordinates are normalized by the true parameter norm and plotted on equal scales.">
+<figcaption>The blue curve is the exact locus of population updates; the numbered points are discrete EM iterations from one nonorthogonal initial direction. The horizontal coordinate follows the true regression vector, and the vertical coordinate is orthogonal to it. Source: Propositions 4.3–4.4 of our ICML 2024 paper.</figcaption>
+</figure>
+
+**Why it matters.** The geometry reduces the convergence analysis to an angle. It explains how estimates from a nonorthogonal initialization eventually enter a quadratic convergence regime, and supports an analysis of statistical error when only finite data are available.
+
+**Scope.** The exact curve describes noiseless population EM. Noisy or finite-sample iterates need not lie exactly on it. The later [structural-properties manuscript](/publication/em_2mlr_structural/) studies extensions and non-asymptotic guarantees.
+
+[Read the official paper](https://proceedings.mlr.press/v235/luo24c.html) · [Run the experiments](https://github.com/dassein/cycloid_em_mlr) · [View the poster](https://icml.cc/media/PosterPDFs/ICML%202024/33762.png) · [Research overview](/research/)
+
+
+## My contribution
+
+I derived explicit population EM updates and co-developed the cycloid-based analysis of convergence and statistical error.

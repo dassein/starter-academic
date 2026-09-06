@@ -73,3 +73,31 @@
   #featured .publication-section-note,
   #publications .publication-section-note { text-align: center; }
 }
+
+
+/* Research overview and supporting evidence; preserve the original theme. */
+#about .biography-contact { font-size: .9rem; line-height: 1.6; }
+#featured .publication-group-title { font-size: 1.15rem; margin: 2rem 0 1.2rem; }
+#featured .publication-group-title:first-child { margin-top: 0; }
+#featured .publication-list-link { display: block; margin-bottom: .45rem; }
+#featured .publication-contribution, #publications .publication-contribution { font-size: .9rem; margin: .65rem 0; line-height: 1.65; }
+#featured .publication-review-ratings, #publications .publication-review-ratings { font-size: .8rem; margin: .5rem 0; }
+#publications .publication-recognition { color: #1565c0; font-size: .85rem; margin: .4rem 0; line-height: 1.6; }
+.equal-contribution-note { display: block; font-size: .8rem; margin-top: .25rem; }
+#news .news-upcoming { border-top: 1px solid #d9e0e7; margin: 1rem 0 0; padding-top: .8rem; font-size: .85rem; }
+#news .news-upcoming time { font-size: inherit; opacity: 1; }
+#presentations { padding: 55px 0; background: #fff; }
+#presentations .research-presentations-list { list-style: none; padding: 0; margin: 0; }
+#presentations .research-presentations-list li { margin: 0 0 1.25rem; font-size: .95rem; line-height: 1.6; }
+#presentations .research-presentations-list li:last-child { margin-bottom: 0; }
+#presentations .research-presentations-list p { margin: .2rem 0 0; font-size: .85rem; }
+#presentations .presentation-kind { display: block; font-size: .8rem; color: #555; margin-bottom: .15rem; }
+#projects.home-section, #services.home-section, #courses.home-section { background: #fff; }
+#experience.home-section, #posts.home-section, #contact.home-section { background: #f7f7f7; }
+.dark #projects.home-section, .dark #services.home-section, .dark #courses.home-section, .dark #presentations { background: #272935; }
+.dark #experience.home-section, .dark #posts.home-section, .dark #contact.home-section { background: #23252f; }
+.dark #publications .publication-recognition { color: #bbdefb; }
+.dark #presentations .presentation-kind { color: #ccc; }
+.research-figure { margin: 1.5rem 0; }
+.research-figure img { display: block; width: 100%; height: auto; }
+.research-figure figcaption { font-size: .85rem; line-height: 1.6; margin-top: .6rem; }

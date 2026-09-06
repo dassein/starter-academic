@@ -77,3 +77,10 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+## From research to deployment
+
+I developed a machine-learning application for predicting steel casting temperature and integrated it with a SQL database and a Unity interface. The tool was tested and deployed at Steel Dynamics Inc., Butler Division; the reported prediction RMSE was 3 degrees Fahrenheit.
+
+**Paper recognition.** The Smart Ladle paper received the [AIST 2021 Digitalization Applications Technology Best Paper Award](https://www.pnw.edu/civs/2020/12/01/civs-paper-selected-for-2021-aistech-best-paper-award/) and [third place in the 2022 AIST Hunt-Kelly Outstanding Paper Award](https://www.pnw.edu/civs/2022/03/17/smart-ladle-won-aist-hunt-kelly-outstanding-paper-award/).

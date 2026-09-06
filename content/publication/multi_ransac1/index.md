@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[](publication/multi_ransac1/featured.png)'
+  caption: '[Figure](/publication/multi_ransac1/featured.png)'
   focal_point: ""
   preview_only: false
 

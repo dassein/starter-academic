@@ -19,25 +19,29 @@
     {{ with $meta.status }}
     <div class="publication-status">
       <span class="publication-venue">{{ . }}</span>
-      {{ with $meta.ratings }}<span class="publication-review-ratings">{{ . }}</span>{{ end }}
     </div>
     {{ end }}
     <div class="section-subheading article-title mb-0 mt-0"><a href="{{ $link }}">{{ $title }}</a></div>
     {{ if not .compact }}
       {{ with $meta.takeaway }}<p class="publication-takeaway">{{ . }}</p>{{ end }}
       <details class="publication-details">
-        <summary>Full summary</summary>
+        <summary>Summary &amp; my contribution</summary>
         <a class="summary-link" href="{{ $link }}"><div class="article-style">{{ $summary }}</div></a>
+        {{ with $meta.contribution }}<p class="publication-contribution"><strong>My contribution.</strong> {{ . }}</p>{{ end }}
+        {{ with $meta.ratings }}<p class="publication-review-ratings">{{ . }}</p>{{ end }}
       </details>
     {{ end }}
     <div class="stream-meta article-metadata"><div>
-      {{ if $meta.authors }}{{ delimit $meta.authors ", " }}{{ else }}{{ partial "page_metadata_authors" $item }}{{ end }}
+      {{ if $meta.authors }}{{ range $i, $author := $meta.authors }}{{ if $i }}, {{ end }}{{ if eq $author "Zhankun Luo" }}<strong>{{ $author }}</strong>{{ else }}{{ $author }}{{ end }}{{ end }}{{ else }}{{ partial "page_metadata_authors" $item }}{{ end }}
     </div></div>
+    {{ with $meta.recognition }}<p class="publication-recognition">{{ . }}</p>{{ end }}
     {{ if .compact }}
       <details class="publication-details">
         <summary>Summary &amp; resources</summary>
         {{ with $meta.takeaway }}<p class="publication-takeaway">{{ . }}</p>{{ end }}
         <a class="summary-link" href="{{ $link }}"><div class="article-style">{{ $summary }}</div></a>
+        {{ with $meta.contribution }}<p class="publication-contribution"><strong>My contribution.</strong> {{ . }}</p>{{ end }}
+        {{ with $meta.ratings }}<p class="publication-review-ratings">{{ . }}</p>{{ end }}
         {{ partial "research/publication-resources" . }}
         {{ partial "research/publication-image" . }}
       </details>

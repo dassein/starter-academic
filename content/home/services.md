@@ -48,4 +48,8 @@ design:
 * [IEEE Signal Processing Society](https://signalprocessingsociety.org/)
 * [IEEE Computer Society](https://www.computer.org/)
 * [Association for Iron & Steel Technology (AIST)](https://www.aist.org/) - Former member
-* [Material Advantage](https://materialadvantage.org/) - Former member 
+* [Material Advantage](https://materialadvantage.org/) - Former member
+
+## Mentoring
+
+**Graduate Student Mentor, [English Training in Engineering (ETIE)](https://www.pnw.edu/college-of-engineering-sciences/english-training-in-engineering/):** Designed machine-learning and computer-vision project frameworks and mentored undergraduate research in sequential prediction and 3D reconstruction.

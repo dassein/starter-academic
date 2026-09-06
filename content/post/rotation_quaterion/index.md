@@ -1,5 +1,5 @@
 ---
-title: Rotation matrix and Quaterion
+title: Rotation matrix and Quaternion
 subtitle: 
 
 # Summary for listings and search engines

@@ -1,6 +1,6 @@
 ---
 title: Comparison of Capsule Networks and Other Networks for Object Segmentation Tasks
-summary: A new architecture was introduced by Hinton, named Capsule Networks. A capsule is a group of neurons whose activity vectorsrepresent the parameters of an entity. Hinton uses the length of the activity vector to represent the probability of an entity's existence, and uses its direction to represent the parameters. The first-level active capsule predicts the higher-level capsule through the parameters of the transformation matrix pair. The objective of this study is to compare Capsule networks with conventional networks, i.e. U-Net and DenseNet for object segmentation Tasks. Using PyTorch library, a python program is implemented to achievethese goals. These models ware tested on Drive dataset.
+summary: A new architecture was introduced by Hinton, named Capsule Networks. A capsule is a group of neurons whose activity vectors represent the parameters of an entity. Hinton uses the length of the activity vector to represent the probability of an entity's existence, and uses its direction to represent the parameters. The first-level active capsule predicts the higher-level capsule through the parameters of the transformation matrix pair. The objective of this study is to compare Capsule networks with conventional networks, i.e. U-Net and DenseNet for object segmentation tasks. Using the PyTorch library, a Python program is implemented to achieve these goals. These models were tested on the DRIVE dataset.
 tags:
 - Segmentation
 date: "2020-12-00T00:00:00Z"

@@ -34,3 +34,10 @@ slides: ""
 ---
 
 
+
+
+**Current manuscript in preparation:** Generalized Antithetic Variance Reduction: an Optimal Transport Approach, with **Zhankun Luo**, Dongmin Lee, Abolfazl Hashemi, and Anuran Makur.
+
+## My contribution
+
+I formulated distribution-preserving antithetic maps and indices and studied their connection to optimal transport.
