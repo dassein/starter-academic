@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 url_preprint: 'https://arxiv.org/abs/2605.15388' #'https://arxiv.org/abs/2603.05774'
-url_pdf: 'publication/diffusion/TMLR_diffusion_2MLR_arxiv.pdf'
+url_pdf: 'publication/diffusion_2mlr/TMLR_diffusion_2MLR_arxiv.pdf'
 url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'

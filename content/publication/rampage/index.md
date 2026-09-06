@@ -30,9 +30,9 @@ publishDate: "2026-04-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *Conference on Neural Information Processing Systems (NeurIPS)*
+publication: Submitted to *International Conference on Artificial Intelligence and Statistics (AISTATS)*
 # In preparation
-publication_short: Submitted to *NeurIPS*
+publication_short: Submitted to *AISTATS*
 # In preparation
 abstract: | 
   A celebrated method for Variational Inequalities (VIs) is Extragradient (EG), which can be viewed as a standard discrete-time integration scheme. With this view in mind, in this paper we show that EG may suffer from discretization bias when applied to non-linear vector fields, conservative or otherwise. To resolve this discretization shortcoming, we introduce RAndomized Mid-Point for debiAsed Gradient Extrapolation (RAMPAGE) and its variance-reduced counterpart, RAMPAGE+, which leverages antithetic sampling. In contrast with EG, both methods are unbiased. Furthermore, leveraging negative correlation, RAMPAGE+ acts as an unbiased, geometric path-integrator that completely removes internal first-order terms from the variance, provably improving upon RAMPAGE. We further demonstrate that both methods enjoy provable $\mathcal{O}(1/k)$ convergence guarantees for a range of problems including root finding under co-coercive, co-hypomonotone, and generalized Lipschitzness regimes. Furthermore, we introduce symmetrically scaled variants to extend our results to constrained VIs. Finally, we provide convergence guarantees of both methods for stochastic and deterministic smooth convex-concave games. Somewhat interestingly, despite being a randomized method, RAMPAGE+ attains purely deterministic bounds for a number of the studied settings.
