@@ -11,13 +11,6 @@ authors:
 - Behzad Sharif
 - Abolfazl Hashemi
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- ""
-- ""
 
 date: "2026-05-01T00:00:00Z"
 # url_preprint: https://arxiv.org/pdf/2205.03947.pdf

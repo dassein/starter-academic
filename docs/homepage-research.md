@@ -9,8 +9,8 @@ manuscript statuses instead of publishing the older application statement PDF.
 takeaways, personal contributions, reviewer-rating disclosures and paper recognition.
 All Publications includes every native publication plus the antithetic project.
 Authors, summaries, abstracts, images, and resources remain in native content pages.
-Confirmed equal-contribution notes are in RAMPAGE and variance_reduced front matter;
-the author partial highlights Zhankun and explains the asterisk on each relevant list.
+Author lists retain their original order and highlight Zhankun. The website omits
+equal-contribution markers at the owner's request; original paper PDFs remain intact.
 The page_links partial adds an optional `url_project_label` without changing URLs.
 
 News is in `content/home/news.md`, with upcoming travel kept separate from completed

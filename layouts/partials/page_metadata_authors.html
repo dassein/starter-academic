@@ -17,10 +17,9 @@
     </span>
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
-        {{ if eq . "Equal contribution" }}<sup class="author-notes" title="Equal contribution" aria-label="Equal contribution">*</sup>{{ else }}<i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>{{ end }}
+        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
       {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
 
-{{ if in (.Params.author_notes | default slice) "Equal contribution" }}<span class="equal-contribution-note">* Equal contribution</span>{{ end }}
