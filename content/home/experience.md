@@ -43,13 +43,13 @@ experience:
     date_start: '2022-05-22' # '2022-08-23'
     date_end: '2025-08-08' # '2022-08-06' #  and help sessions
     description: |2-
-        TA for [ECE69500 Optimization for Deep Learning](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=818) (Fall 2022)
+        TA for [ECE69500 Optimization for Deep Learning](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=818) (Fall 2022) · [YouTube videos](https://www.youtube.com/@opt4xl/videos)
         * Hold office hours and help sessions, grade homeworks and exams
         * This course introduces students to the theoretical principles behind stochastic, gradient-based algorithms for DL as well as practical considerations such as adaptivity, generalization, distributed learning, and non-convex loss surfaces typically present in modern DL problems
         * The [concatenated slides](files/post/OPT4DL_Slides.pdf) are available or download and public use under [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 
-        TA for [ECE20002 Electrical Engineering Fundamentals II](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=725) (Fall 2023, 2024; Spring 2023,2024,2025; Summer 2023,2024,2025)
+        TA for [ECE20002 Electrical Engineering Fundamentals II](https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/courseInfo?courseid=725) (Fall 2023, 2024; Spring 2023,2024,2025; Summer 2023,2024,2025) · [YouTube playlist](https://www.youtube.com/playlist?list=PLMeut30HexE8WDLBZfLI50kNk3AsyczgU)
         * Hold office hours, grade quizzes and coordinate TA group activities
         * The course addresses mathematical and computational foundations of circuit analysis (differential equations, Laplace Transform techniques) with a focus on application to linear circuits having variable behavior as a function of frequency, with emphasis on filtering
 

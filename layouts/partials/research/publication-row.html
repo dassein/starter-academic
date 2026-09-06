@@ -1,0 +1,49 @@
+{{ $item := .item }}
+{{ $meta := .meta }}
+{{ $title := $meta.title | default $item.Title }}
+{{ $link := $item.RelPermalink }}
+{{ $summary := "" }}
+{{ if $meta.summary }}
+  {{ $summary = $meta.summary | markdownify | emojify }}
+{{ else if $item.Params.summary }}
+  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ else if $item.Params.abstract }}
+  {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+{{ else }}
+  {{ $summary = $item.Summary }}
+{{ end }}
+{{ $prefix := "paper-" }}
+{{ if .compact }}{{ $prefix = "all-paper-" }}{{ end }}
+<div class="media stream-item" id="{{ $prefix }}{{ .id }}">
+  <div class="media-body">
+    {{ with $meta.status }}
+    <div class="publication-status">
+      <span class="publication-venue">{{ . }}</span>
+      {{ with $meta.ratings }}<span class="publication-review-ratings">{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+    <div class="section-subheading article-title mb-0 mt-0"><a href="{{ $link }}">{{ $title }}</a></div>
+    {{ if not .compact }}
+      {{ with $meta.takeaway }}<p class="publication-takeaway">{{ . }}</p>{{ end }}
+      <details class="publication-details">
+        <summary>Full summary</summary>
+        <a class="summary-link" href="{{ $link }}"><div class="article-style">{{ $summary }}</div></a>
+      </details>
+    {{ end }}
+    <div class="stream-meta article-metadata"><div>
+      {{ if $meta.authors }}{{ delimit $meta.authors ", " }}{{ else }}{{ partial "page_metadata_authors" $item }}{{ end }}
+    </div></div>
+    {{ if .compact }}
+      <details class="publication-details">
+        <summary>Summary &amp; resources</summary>
+        {{ with $meta.takeaway }}<p class="publication-takeaway">{{ . }}</p>{{ end }}
+        <a class="summary-link" href="{{ $link }}"><div class="article-style">{{ $summary }}</div></a>
+        {{ partial "research/publication-resources" . }}
+        {{ partial "research/publication-image" . }}
+      </details>
+    {{ else }}
+      {{ partial "research/publication-resources" . }}
+    {{ end }}
+  </div>
+  {{ if not .compact }}{{ partial "research/publication-image" . }}{{ end }}
+</div>

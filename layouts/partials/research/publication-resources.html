@@ -1,0 +1,6 @@
+{{ if or (partial "functions/has_attachments" .item) .meta.add_project_link }}
+<div class="btn-links">
+  {{ partial "page_links" (dict "page" .item "is_list" 1) }}
+  {{ if .meta.add_project_link }}<a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ .item.RelPermalink }}">Project</a>{{ end }}
+</div>
+{{ end }}

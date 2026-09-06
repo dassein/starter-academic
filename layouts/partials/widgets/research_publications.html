@@ -1,0 +1,30 @@
+{{/* Homepage-only publication widget; other Wowchemy listings stay unchanged. */}}
+{{ $st := .page }}
+{{ $data := site.Data.research_publications }}
+{{ $compact := eq $st.Params.mode "all" }}
+{{ $ids := $data.selected }}
+{{ if $compact }}
+  {{ $ids = slice "antithetic" }}
+  {{ range sort (where site.RegularPages "Type" "publication") "Date" "desc" }}
+    {{ $ids = $ids | append .File.ContentBaseName }}
+  {{ end }}
+{{ end }}
+<div class="row">
+  <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+    <h1 class="mb-0">{{ $st.Title }}</h1>
+    <p class="publication-section-note">{{ $st.Params.note }}</p>
+    {{ if not $compact }}<a class="publication-list-link" href="#publications">View all publications ↓</a>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ range $ids }}
+      {{ $meta := index $data.items . | default dict }}
+      {{ $path := $meta.path | default (printf "publication/%s" .) }}
+      {{ $item := site.GetPage $path }}
+      {{ if $item }}
+        {{ partial "research/publication-row" (dict "item" $item "meta" $meta "id" . "compact" $compact) }}
+      {{ else }}
+        {{ errorf "Research publication page not found: %s" $path }}
+      {{ end }}
+    {{ end }}
+  </div>
+</div>

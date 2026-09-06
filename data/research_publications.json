@@ -1,0 +1,88 @@
+{
+  "selected": [
+    "softmax_switchgd",
+    "em_2mlr_nosepara",
+    "em_2mlr",
+    "em_2mlr_structural",
+    "antithetic",
+    "diffusion_2mlr",
+    "variance_reduced"
+  ],
+  "items": {
+    "em_2mlr": {
+      "path": "publication/em_2mlr",
+      "status": "ICML 2024",
+      "takeaway": "Noiseless population EM iterates trace a cycloid in two-component mixed linear regression, revealing their superlinear convergence."
+    },
+    "softmax_switchgd": {
+      "path": "publication/softmax_switchgd",
+      "status": "UAI 2026",
+      "takeaway": "A single-loop, primal-only method for distributed minimax optimization with stochastic constraints, covering full and partial client participation."
+    },
+    "em_2mlr_nosepara": {
+      "path": "publication/em_2mlr_nosepara",
+      "status": "TMLR 2026",
+      "takeaway": "How mixing-weight initialization shapes EM convergence in overspecified mixed linear regression, with population and finite-sample guarantees."
+    },
+    "diffusion_2mlr": {
+      "path": "publication/diffusion_2mlr",
+      "status": "Submitted to TMLR",
+      "takeaway": "Connecting score matching, maximum likelihood, and EM in mixed linear regression with unknown mixing weights."
+    },
+    "rampage": {
+      "path": "publication/rampage",
+      "status": "Submitted to AISTATS",
+      "takeaway": "Randomized midpoint estimators remove discretization bias in gradient extrapolation under the analyzed operator and game assumptions."
+    },
+    "variance_reduced": {
+      "path": "publication/variance_reduced",
+      "status": "NeurIPS submission",
+      "takeaway": "A unified high-probability framework for variance-reduced estimation, with improved oracle complexity for expectation-constrained optimization.",
+      "ratings": "Reviewer ratings at decision: 5, 5, 4"
+    },
+    "em_2mlr_structural": {
+      "path": "publication/em_2mlr_structural",
+      "status": "Revised manuscript · IEEE TIT R&R",
+      "takeaway": "A trajectory-based analysis of EM, with explicit updates, finite-sample guarantees, and convergence from arbitrary initialization."
+    },
+    "panicle": {
+      "path": "publication/panicle",
+      "status": "CVPR Workshops 2022",
+      "takeaway": "GAN-generated UAV imagery augments training data to improve sorghum panicle detection and counting."
+    },
+    "extract_laser": {
+      "path": "publication/extract_laser",
+      "status": "M.S. thesis · 2021",
+      "takeaway": "Robust laser-stripe segmentation for multi-camera structured-light measurement and 3D reconstruction."
+    },
+    "smart_ladle": {
+      "path": "publication/smart_ladle",
+      "status": "AISTech 2021",
+      "takeaway": "Machine learning for steel casting-temperature prediction, tested and deployed at Steel Dynamics’ Butler Division."
+    },
+    "multi_ransac1": {
+      "path": "publication/multi_ransac1",
+      "status": "IEEE UEMCON 2020",
+      "takeaway": "A multi-level RANSAC approach for multi-camera, multi-laser structured-light vision."
+    },
+    "multi_ransac2": {
+      "path": "publication/multi_ransac2",
+      "status": "IEEE EIT 2020",
+      "takeaway": "Evaluating multi-level RANSAC against time-division and color-division approaches for structured-light vision."
+    },
+    "antithetic": {
+      "path": "project/antithetic",
+      "title": "Generalized Antithetic Variance Reduction: an Optimal Transport Approach",
+      "authors": [
+        "Zhankun Luo",
+        "Dongmin Lee",
+        "Abolfazl Hashemi",
+        "Anuran Makur"
+      ],
+      "status": "Manuscript in preparation",
+      "takeaway": "Designing distribution-preserving antithetic maps through optimal transport to reduce variance in Monte Carlo and stochastic optimization.",
+      "summary": "Ongoing work on strong antithetic maps and indices that maximize negative dependence while preserving a target distribution, connecting antithetic coupling with geometric optimal transport for Monte Carlo integration, approximation, and stochastic optimization.",
+      "add_project_link": true
+    }
+  }
+}

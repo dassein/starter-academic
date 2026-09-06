@@ -1,0 +1,9 @@
+{{ $item := .item }}
+{{ $title := .meta.title | default $item.Title }}
+<div class="ml-3">
+  {{ with ($item.Resources.ByType "image").GetMatch "*featured*" }}
+    {{ $image := .Resize "150x" }}
+    {{ $image_lq := (.Resize "150x q1").Filter (slice (images.GaussianBlur 21) (images.Pixelate 8)) }}
+    <a href="{{ $item.RelPermalink }}"><img src="{{ $image_lq.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ $title }}" class="lazyload"></a>
+  {{ end }}
+</div>

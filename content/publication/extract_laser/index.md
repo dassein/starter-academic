@@ -4,7 +4,7 @@ authors:
 - Zhankun Luo
 
 date: "2021-05-04T00:00:00Z"
-doi: "https://doi.org/10.25394/PGS.14536011.v1"
+doi: "10.25394/PGS.14536011.v1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-05-04T00:00:00Z"

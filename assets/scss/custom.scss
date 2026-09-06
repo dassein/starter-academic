@@ -1,0 +1,75 @@
+/* Scoped additions to the original Wowchemy design. Original fonts, primary
+   blue, navigation, and the sections from Projects onward remain unchanged. */
+#about .biography-research-links { font-size: .9rem; margin-bottom: .85rem; }
+#about .biography-background { margin: .75rem 0 1.15rem; }
+#about .biography-background[open] > p { margin-top: .75rem; }
+#about .biography-background > summary,
+#news .earlier-news > summary,
+#featured .publication-details > summary,
+#publications .publication-details > summary {
+  color: #1565c0;
+  cursor: pointer;
+  font-size: .85rem;
+  width: fit-content;
+  padding: .3rem 0;
+}
+#about .biography-background > summary:hover,
+#news .earlier-news > summary:hover,
+#featured .publication-details > summary:hover,
+#publications .publication-details > summary:hover { text-decoration: underline; }
+#about .biography-background > summary:focus-visible,
+#news .earlier-news > summary:focus-visible,
+#featured .publication-details > summary:focus-visible,
+#publications .publication-details > summary:focus-visible {
+  outline: 2px solid #1565c0;
+  outline-offset: 4px;
+}
+#news { padding: 55px 0; }
+#news .research-news-list { padding: 0; margin: 0; list-style: none; }
+#news .research-news-list li {
+  display: grid;
+  grid-template-columns: 5.7rem minmax(0, 1fr);
+  gap: 1rem;
+  margin-bottom: .65rem;
+  font-size: .9rem;
+  line-height: 1.65;
+}
+#news time, #news .news-date { font-size: .8rem; padding-top: .08rem; opacity: .8; }
+#news .news-planned { color: #1565c0; font-size: .75rem; font-weight: 700; margin-right: .3rem; }
+#news .earlier-news { margin-top: .5rem; }
+#news .earlier-news[open] > summary { margin-bottom: .65rem; }
+#featured .publication-section-note,
+#publications .publication-section-note { font-size: .85rem; margin: .8rem 0; line-height: 1.6; }
+#featured .publication-list-link { font-size: .8rem; }
+#featured .publication-status,
+#publications .publication-status { display: flex; align-items: center; flex-wrap: wrap; gap: .4rem .6rem; margin-bottom: .45rem; }
+#featured .publication-venue,
+#publications .publication-venue { color: #1565c0; border: 1px solid currentColor; border-radius: .2rem; font-size: .75rem; font-weight: 700; padding: .1rem .4rem; }
+#featured .publication-review-ratings,
+#publications .publication-review-ratings { font-size: .75rem; opacity: .8; }
+#featured .publication-takeaway,
+#publications .publication-takeaway { margin: .6rem 0 .4rem; font-size: 1rem; line-height: 1.65; }
+#featured .publication-details,
+#publications .publication-details { margin: .2rem 0 .5rem; }
+#featured .publication-details[open] > summary,
+#publications .publication-details[open] > summary { margin-bottom: .45rem; }
+#featured .publication-details .article-style,
+#publications .publication-details .article-style { font-size: 1rem; }
+#featured .stream-item,
+#publications .stream-item { scroll-margin-top: 90px; }
+#publications .stream-item { margin-bottom: 1.4rem; }
+#publications .article-title { font-size: 1.05rem; line-height: 1.5; }
+#publications .publication-details .ml-3 { margin: .8rem 0 0 !important; }
+#publications .publication-details .btn-links { margin-top: .6rem; }
+.dark #about .biography-background > summary,
+.dark #news .earlier-news > summary,
+.dark #news .news-planned,
+.dark #featured .publication-venue,
+.dark #featured .publication-details > summary,
+.dark #publications .publication-venue,
+.dark #publications .publication-details > summary { color: #bbdefb; }
+@media (max-width: 575.98px) {
+  #news .research-news-list li { grid-template-columns: 4.6rem minmax(0, 1fr); gap: .6rem; }
+  #featured .publication-section-note,
+  #publications .publication-section-note { text-align: center; }
+}

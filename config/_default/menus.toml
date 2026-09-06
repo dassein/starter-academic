@@ -56,3 +56,8 @@
    name = "Résumé"
    url = "files/resume/Zhankun_s_Resume.pdf"
    weight = 90
+
+[[main]]
+  name = "CV"
+  url = "Zhankun_Luo_Academic_CV.pdf"
+  weight = 85
