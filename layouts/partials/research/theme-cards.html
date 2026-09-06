@@ -1,0 +1,21 @@
+<div class="research-themes" aria-labelledby="research-themes-heading">
+  <h2 id="research-themes-heading" class="research-themes-heading">Research directions</h2>
+  <div class="research-theme-grid">
+    {{ range site.Data.research_themes }}
+    <article class="research-theme-card" aria-labelledby="theme-{{ .id }}">
+      <h3 id="theme-{{ .id }}"><a href="{{ .overview | relURL }}">{{ .title }}</a></h3>
+      <p>{{ .question }}</p>
+      <ul aria-label="Related papers">
+        {{ range .papers }}
+          {{ $meta := index site.Data.research_publications.items .id }}
+          {{ $paper := site.GetPage $meta.path }}
+          {{ if not $paper }}{{ errorf "Missing theme paper: %s" .id }}{{ end }}
+          {{ $prefix := "all-paper-" }}
+          {{ if in site.Data.research_publications.selected .id }}{{ $prefix = "paper-" }}{{ end }}
+          <li><a href="{{ printf "/#%s%s" $prefix .id | relURL }}" title="{{ $paper.Title }}">{{ .label }}</a></li>
+        {{ end }}
+      </ul>
+    </article>
+    {{ end }}
+  </div>
+</div>

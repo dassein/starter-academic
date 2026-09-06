@@ -1,0 +1,45 @@
+{{ $archive := .archive }}
+{{ $posts := where site.RegularPages "Type" "post" }}
+{{ $research := sort (where $posts "Params.writing_kind" "research") "Date" "desc" }}
+{{ if not $archive }}{{ $research = first 3 $research }}{{ end }}
+{{ $earlier := where $posts "Params.writing_kind" "!=" "research" }}
+{{ $earlierEntries := slice }}
+{{ range $earlier }}
+  {{ $meta := index site.Data.writing.items .File.ContentBaseName | default dict }}
+  {{ $sortDate := $meta.datetime | default (.Date.Format "2006-01-02") }}
+  {{ $earlierEntries = $earlierEntries | append (dict "page" . "sortDate" $sortDate) }}
+{{ end }}
+{{ $courses := sort (where site.RegularPages "Type" "course") "Title" "asc" }}
+<div class="writing-collection">
+  <div class="writing-group" {{ if $archive }}id="research-notes"{{ end }}>
+    <h2>Research notes</h2>
+    <ul class="writing-entry-list">
+      {{ range $research }}{{ partial "research/writing-entry" (dict "page" .) }}{{ end }}
+    </ul>
+  </div>
+  <div class="writing-group" {{ if $archive }}id="course-notes"{{ end }}>
+    <h2>Course notes &amp; resources</h2>
+    <p class="writing-group-description">Study notes, worked examples, and references collected by course. Sources are linked within each collection.</p>
+    <ul class="writing-course-list">
+    {{ if $archive }}
+      {{ range $courses }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+    {{ else }}
+      {{ range site.Data.writing.featured_courses }}
+        {{ $course := site.GetPage . }}
+        {{ if not $course }}{{ errorf "Missing writing course: %s" . }}{{ end }}
+        <li><a href="{{ $course.RelPermalink }}">{{ $course.Title }}</a></li>
+      {{ end }}
+    {{ end }}
+    </ul>
+    {{ if not $archive }}<a class="writing-archive-link" href="{{ "/notes/#course-notes" | relURL }}">All {{ len $courses }} course collections →</a>{{ end }}
+  </div>
+  {{ if not $archive }}<details class="earlier-writing"><summary>Earlier writing &amp; technical projects</summary>{{ end }}
+  <div class="writing-group" {{ if $archive }}id="earlier-writing"{{ end }}>
+    {{ if $archive }}<h2>Earlier writing</h2>{{ end }}
+    <ul class="writing-entry-list">
+      {{ range sort $earlierEntries "sortDate" "desc" }}{{ partial "research/writing-entry" (dict "page" .page) }}{{ end }}
+    </ul>
+    <p class="earlier-blog-link"><a href="{{ site.Data.writing.earlier_blog }}">Earlier personal blog</a> · Programming and machine-learning study notes, mainly in Chinese.</p>
+  </div>
+  {{ if not $archive }}</details>{{ end }}
+</div>

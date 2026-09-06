@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+
+[Browse notes by topic, including course collections and earlier writing](/notes/).

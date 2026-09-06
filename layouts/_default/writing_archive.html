@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="article writing-archive">
+  {{ partial "page_header" . }}
+  <div class="article-container">
+    <div class="article-style">{{ .Content }}</div>
+    <nav class="writing-category-nav" aria-label="Writing categories">
+      <a href="#research-notes">Research notes</a><a href="#course-notes">Course notes</a><a href="#earlier-writing">Earlier writing</a>
+    </nav>
+    {{ partial "research/writing-collection" (dict "archive" true) }}
+  </div>
+</article>
+{{ end }}

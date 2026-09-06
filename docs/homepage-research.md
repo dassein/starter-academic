@@ -34,3 +34,31 @@ Google must recrawl the homepage and favicon before its search result can refres
 deployment does not control the search cache. No robots restrictions are added.
 
 Netlify continues using the pinned Hugo 0.80 build and the existing master branch.
+
+
+## Research cards and notes
+
+Three compact cards in the biography use `data/research_themes.json` and the
+`research-themes` shortcode. They link to actual selected/all-publication anchors;
+the existing bibliography remains in rows. No JavaScript fetch is needed.
+
+The Posts navigation anchor is unchanged. Its `research_notes` widget presents
+research explanations, selected course collections, and expandable earlier writing.
+`/notes/` is the complete categorized archive; `/post/` and all old post URLs remain.
+All 14 original course pages and four original posts are retained. Course collections
+include third-party references with their existing attribution; they are not relabeled
+as original research. Earlier month-only dates are displayed without inventing a day.
+
+To publish a research note, add `content/post/<slug>/index.md` with a real publication
+date, `writing_kind: research`, title, short summary, author, and topic tags. The note
+automatically appears in the archive; the homepage shows the latest three research notes. Keep the distinction between
+an illustrative example and a reported result, and link the source paper.
+
+Set `url_note` on the related publication or project to show its Research note button.
+It may point to a local article or a public external note such as a Notion page.
+Only existing notes get buttons. The ICML note is transcluded into its existing paper
+explanation via `research-note-content`, preserving the old anchor and one content source.
+
+The two new mechanism notes cover randomized midpoint/antithetic sampling and UAI
+softmax-weighted switching. Their dates record when the notes were written, not the
+publication dates of the underlying research.

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "latent-variable-learning",
+    "title": "EM & latent-variable learning",
+    "question": "How do geometry and initialization shape convergence and statistical accuracy?",
+    "overview": "/research/#understanding-the-dynamics-of-latent-variable-learning",
+    "papers": [
+      {
+        "id": "em_2mlr",
+        "label": "Cycloid EM · ICML"
+      },
+      {
+        "id": "em_2mlr_nosepara",
+        "label": "Overspecified EM · TMLR"
+      },
+      {
+        "id": "diffusion_2mlr",
+        "label": "Score matching & EM"
+      }
+    ]
+  },
+  {
+    "id": "stochastic-estimation",
+    "title": "Stochastic estimation & variance reduction",
+    "question": "How can we design randomness to control bias, variance, and uncertainty?",
+    "overview": "/research/#designing-stochastic-estimators-with-controlled-bias-and-variance",
+    "papers": [
+      {
+        "id": "rampage",
+        "label": "RAMPAGE"
+      },
+      {
+        "id": "variance_reduced",
+        "label": "High-probability analysis"
+      },
+      {
+        "id": "antithetic",
+        "label": "Antithetic maps"
+      }
+    ]
+  },
+  {
+    "id": "constrained-learning",
+    "title": "Constrained & distributed optimization",
+    "question": "How can shared models improve client performance while respecting constraints?",
+    "overview": "/research/#optimizing-under-distributed-and-stochastic-constraints",
+    "papers": [
+      {
+        "id": "softmax_switchgd",
+        "label": "Softmax switching · UAI"
+      },
+      {
+        "id": "variance_reduced",
+        "label": "Expectation constraints"
+      }
+    ]
+  }
+]

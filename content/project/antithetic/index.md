@@ -19,6 +19,7 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
+url_note: "/post/randomized-midpoint-antithetic/"
 url_code: ""
 url_pdf: "" #"http://indexsmart.mirasmart.com/ISMRM2019/PDFfiles/4797.html"
 url_dataset: ""

@@ -1,0 +1,3 @@
+{{ $note := site.GetPage (printf "post/%s" (.Get 0)) }}
+{{ if not $note }}{{ errorf "Missing embedded research note: %s" (.Get 0) }}{{ end }}
+{{ $note.Content }}
