@@ -36,27 +36,18 @@ deployment does not control the search cache. No robots restrictions are added.
 Netlify continues using the pinned Hugo 0.80 build and the existing master branch.
 
 
-## Research cards and notes
+## Research cards and posts
 
 Three compact cards in the biography use `data/research_themes.json` and the
 `research-themes` shortcode. They link to actual selected/all-publication anchors;
 the existing bibliography remains in rows. No JavaScript fetch is needed.
 
-The Posts navigation anchor is unchanged. Its `research_notes` widget presents
-selected course collections and expandable earlier writing. Research-note headings
-appear only when research notes are present.
-`/notes/` is the complete categorized archive; `/post/` and all old post URLs remain.
-All 14 original course pages and four original posts are retained. Course collections
-include third-party references with their existing attribution; they are not relabeled
-as original research. Earlier month-only dates are displayed without inventing a day.
+The original Posts pages widget, compact listing, and navigation anchor are restored.
+All four original posts remain in the homepage section and at `/post/`, which also
+links to the earlier personal blog. `/notes/` redirects to `/post/` for existing links.
+Course material appears in the existing Courses section; all 14 collections and their
+original references remain unchanged.
 
-To publish a research note, add `content/post/<slug>/index.md` with a real publication
-date, `writing_kind: research`, title, short summary, author, and topic tags. The note
-automatically appears in the archive; the homepage shows the latest three research notes. Keep the distinction between
-an illustrative example and a reported result, and link the source paper.
-
-Set `url_note` on the related publication or project to show its Research note button.
-It may point to a local article or a public external note such as a Notion page.
-Only existing notes get buttons. The three standalone research notes were removed
-at the owner's request. The original ICML explanation and figure remain directly
-on the publication page, preserving its existing anchor.
+Optional `url_note` links remain supported on publications and projects, but none are
+currently set. The three standalone research notes were removed at the owner's request.
+The original ICML explanation and figure remain directly on the publication page.

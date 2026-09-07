@@ -1,5 +1,7 @@
 ---
 title: Posts
+aliases:
+- /notes/
 cms_exclude: true
 
 # View.
@@ -14,4 +16,4 @@ header:
   image: ""
 ---
 
-[Browse notes by topic, including course collections and earlier writing](/notes/).
+[Earlier personal blog](https://dassein.github.io/).
