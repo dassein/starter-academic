@@ -43,7 +43,8 @@ Three compact cards in the biography use `data/research_themes.json` and the
 the existing bibliography remains in rows. No JavaScript fetch is needed.
 
 The Posts navigation anchor is unchanged. Its `research_notes` widget presents
-research explanations, selected course collections, and expandable earlier writing.
+selected course collections and expandable earlier writing. Research-note headings
+appear only when research notes are present.
 `/notes/` is the complete categorized archive; `/post/` and all old post URLs remain.
 All 14 original course pages and four original posts are retained. Course collections
 include third-party references with their existing attribution; they are not relabeled
@@ -56,9 +57,6 @@ an illustrative example and a reported result, and link the source paper.
 
 Set `url_note` on the related publication or project to show its Research note button.
 It may point to a local article or a public external note such as a Notion page.
-Only existing notes get buttons. The ICML note is transcluded into its existing paper
-explanation via `research-note-content`, preserving the old anchor and one content source.
-
-The two new mechanism notes cover randomized midpoint/antithetic sampling and UAI
-softmax-weighted switching. Their dates record when the notes were written, not the
-publication dates of the underlying research.
+Only existing notes get buttons. The three standalone research notes were removed
+at the owner's request. The original ICML explanation and figure remain directly
+on the publication page, preserving its existing anchor.

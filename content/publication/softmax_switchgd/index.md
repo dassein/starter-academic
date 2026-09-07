@@ -50,7 +50,6 @@ links:
 
 url_preprint: 'https://arxiv.org/abs/2603.05774' # 'https://arxiv.org/pdf/2405.18237'
 url_pdf: 'publication/softmax_switchgd/arxiv_softmax_switchgd.pdf'
-url_note: "/post/constrained-worst-client-learning/"
 url_code: 'https://github.com/sangbinM/SoftmaxSGM'
 url_dataset: ''
 url_poster: 'publication/softmax_switchgd/poster_UAI26_softmaxgd.pdf'

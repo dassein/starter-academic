@@ -11,12 +11,14 @@
 {{ end }}
 {{ $courses := sort (where site.RegularPages "Type" "course") "Title" "asc" }}
 <div class="writing-collection">
+  {{ if $research }}
   <div class="writing-group" {{ if $archive }}id="research-notes"{{ end }}>
     <h2>Research notes</h2>
     <ul class="writing-entry-list">
       {{ range $research }}{{ partial "research/writing-entry" (dict "page" .) }}{{ end }}
     </ul>
   </div>
+  {{ end }}
   <div class="writing-group" {{ if $archive }}id="course-notes"{{ end }}>
     <h2>Course notes &amp; resources</h2>
     <p class="writing-group-description">Study notes, worked examples, and references collected by course. Sources are linked within each collection.</p>

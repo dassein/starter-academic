@@ -4,7 +4,7 @@
   <div class="article-container">
     <div class="article-style">{{ .Content }}</div>
     <nav class="writing-category-nav" aria-label="Writing categories">
-      <a href="#research-notes">Research notes</a><a href="#course-notes">Course notes</a><a href="#earlier-writing">Earlier writing</a>
+      {{ if where (where site.RegularPages "Type" "post") "Params.writing_kind" "research" }}<a href="#research-notes">Research notes</a>{{ end }}<a href="#course-notes">Course notes</a><a href="#earlier-writing">Earlier writing</a>
     </nav>
     {{ partial "research/writing-collection" (dict "archive" true) }}
   </div>
