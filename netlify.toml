@@ -14,3 +14,9 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+# Preserve previously shared resume links after renaming the download.
+[[redirects]]
+  from = "/files/resume/Zhankun_s_Resume.pdf"
+  to = "/files/resume/Zhankun_Luo_Resume.pdf"
+  status = 301
