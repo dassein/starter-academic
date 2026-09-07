@@ -44,10 +44,10 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+# Custom links
+links:
+- name: Proceedings
+  url: 'https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/html/Cai_High-Resolution_UAV_Image_Generation_for_Sorghum_Panicle_Detection_CVPRW_2022_paper.html'
 
 url_pdf: 'publication/panicle/Zhankun_CVPRW2022.pdf'
 url_code: ''
@@ -55,7 +55,6 @@ url_dataset: ''
 # url_poster: 'publication/smart_ladle/Poster_Zhankun_Luo.pdf'
 url_project: 'https://engineering.purdue.edu/~sorghum/'
 # url_slides: 'publication/smart_ladle/intro_senior_design.pdf'
-url_source: 'https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/html/Cai_High-Resolution_UAV_Image_Generation_for_Sorghum_Panicle_Detection_CVPRW_2022_paper.html'
 url_video: "https://www.youtube.com/watch?v=nl2x2SE4PnU&list=PLPtQK8rJZ9HzX9kzDPRf2mc0L7NcOsNzP&index=10" # 'https://www.youtube.com/watch?v=nl2x2SE4PnU'
 
 # Featured image
