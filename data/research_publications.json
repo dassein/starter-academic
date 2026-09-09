@@ -45,7 +45,7 @@
     },
     "variance_reduced": {
       "path": "publication/variance_reduced",
-      "status": "NeurIPS submission: rating 5, 5, 4",
+      "status": "NeurIPS submission: ratings 5, 5, 4",
       "takeaway": "A unified high-probability framework for variance-reduced estimation, with improved oracle complexity for expectation-constrained optimization.",
       "contribution": "I co-developed the high-probability analysis of variance-reduced estimators and its applications to mirror descent and expectation-constrained optimization.",
       "group": "Current manuscripts"
