@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_preprint: 'publication/diffusion_2mlr/TMLR_diffusion_2MLR_arxiv.pdf'
+url_preprint: 'https://arxiv.org/abs/2609.05688'
 url_pdf: 'publication/diffusion_2mlr/TMLR_diffusion_2MLR_arxiv.pdf'
 url_code: '' # 'https://github.com/dassein/cycloid_em_mlr'
 url_dataset: ''

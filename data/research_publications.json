@@ -3,10 +3,10 @@
     "softmax_switchgd",
     "em_2mlr_nosepara",
     "em_2mlr",
+    "variance_reduced",
     "em_2mlr_structural",
-    "antithetic",
     "diffusion_2mlr",
-    "variance_reduced"
+    "antithetic"
   ],
   "items": {
     "em_2mlr": {
@@ -45,9 +45,8 @@
     },
     "variance_reduced": {
       "path": "publication/variance_reduced",
-      "status": "NeurIPS submission",
+      "status": "NeurIPS submission: rating 5, 5, 4",
       "takeaway": "A unified high-probability framework for variance-reduced estimation, with improved oracle complexity for expectation-constrained optimization.",
-      "ratings": "Reviewer ratings at decision: 5, 5, 4",
       "contribution": "I co-developed the high-probability analysis of variance-reduced estimators and its applications to mirror descent and expectation-constrained optimization.",
       "group": "Current manuscripts"
     },
