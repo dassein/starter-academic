@@ -21,21 +21,25 @@
   },
   {
     "id": "stochastic-estimation",
-    "title": "Stochastic estimation & variance reduction",
-    "question": "How can we design randomness to control bias, variance, and uncertainty?",
-    "overview": "/research/#designing-stochastic-estimators-with-controlled-bias-and-variance",
+    "title": "Variance reduction & stochastic optimization",
+    "question": "How do noise structure and estimator design shape convergence and oracle complexity?",
+    "overview": "/research/#variance-reduction-and-stochastic-optimization",
     "papers": [
       {
         "id": "variance_reduced",
-        "label": "High-probability analysis"
+        "label": "High-probability variance reduction"
       },
       {
         "id": "rampage",
-        "label": "RAMPAGE"
+        "label": "Randomized midpoint methods"
       },
       {
         "id": "antithetic",
         "label": "Antithetic maps"
+      },
+      {
+        "id": "heavy_tail",
+        "label": "State-dependent heavy-tailed noise"
       }
     ]
   },

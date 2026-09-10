@@ -24,7 +24,9 @@ Our [TMLR 2026 paper on overspecified mixed linear regression](/publication/em_2
 
 **Next questions.** Which low-dimensional variables explain the dynamics of more complex latent models? How can these descriptions guide initialization, stopping rules, and inference methods when symmetry or misspecification changes the geometry?
 
-## Designing stochastic estimators with controlled bias and variance
+<span id="designing-stochastic-estimators-with-controlled-bias-and-variance"></span>
+
+## Variance reduction and stochastic optimization
 
 Randomness can reduce computation, but it also introduces error. I study how the distribution and dependence of random queries can be designed together with an algorithm, and how to obtain guarantees that hold with high probability.
 
@@ -33,6 +35,8 @@ In [RAMPAGE](/publication/rampage/), a **preprint submitted to AISTATS**, we vie
 Our [Unified High-Probability Analysis of Stochastic Variance-Reduced Estimation](/publication/variance_reduced/) is a **preprint** that organizes estimators through memory retention, resets, and corrections for iterate movement. A dimension-free, vector-valued Freedman inequality supports analysis in Euclidean and non-Euclidean settings. For expectation-constrained stochastic optimization, one application improves the high-probability oracle-complexity bound from $\widetilde O(\varepsilon^{-4})$ to $\widetilde O(\varepsilon^{-3})$ for target accuracy $\varepsilon$, under the paper's assumptions. Here, $\widetilde O$ suppresses logarithmic factors.
 
 My ongoing work, [Generalized Antithetic Variance Reduction: an Optimal Transport Approach](/publication/antithetic/), is a **manuscript in preparation**. It studies how to pair samples while preserving their target distribution, using connections between negative dependence and optimal transport. [Earlier project slides](https://zhankunluo.com/publication/antithetic/Zhankun_GroupMeet_251118.pdf) introduce the antithetic-map perspective.
+
+My [ongoing work on state-dependent heavy-tailed noise](/publication/heavy_tail/) investigates lower and upper oracle-complexity bounds for nonconvex optimization under heavy-tailed gradient noise whose moment bounds depend on distance from initialization or objective suboptimality.
 
 **Next questions.** When can a coupling cancel an estimator's leading error without adding bias? How can concentration guarantees remain useful when an algorithm adapts its sampling or stopping decisions to the data?
 

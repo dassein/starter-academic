@@ -45,6 +45,12 @@ Three compact cards in the biography use `data/research_themes.json` and the
 `research-themes` shortcode. They link to actual selected/all-publication anchors;
 the existing bibliography remains in rows. No JavaScript fetch is needed.
 
+The middle card groups variance reduction and stochastic optimization, including
+state-dependent heavy-tailed noise. Its related-work labels omit manuscript-status
+suffixes; publication listings and pages retain their status labels. The research
+overview describes the heavy-tailed work as ongoing and preserves its section's
+previous anchor for shared links.
+
 The original Posts pages widget, compact listing, and navigation anchor are restored.
 All four original posts remain in the homepage section and at `/post/`, which also
 links to the earlier personal blog. `/notes/` redirects to `/post/` for existing links.
