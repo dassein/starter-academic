@@ -26,3 +26,15 @@
   from = "/project/antithetic/*"
   to = "/publication/antithetic/:splat"
   status = 301
+
+# Preserve previously shared academic CV links after moving the download.
+[[redirects]]
+  from = "/Zhankun_Luo_Academic_CV.pdf"
+  to = "/files/CV/Zhankun_Luo_Academic_CV.pdf"
+  status = 301
+
+# Preserve previously shared slides links after moving the download.
+[[redirects]]
+  from = "/files/project/Zhankun_GroupMeet_251118.pdf"
+  to = "/publication/antithetic/Zhankun_GroupMeet_251118.pdf"
+  status = 301

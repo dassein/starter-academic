@@ -97,6 +97,12 @@
       "summary": "Ongoing work on strong antithetic maps and indices that maximize negative dependence while preserving a target distribution, connecting antithetic coupling with geometric optimal transport for Monte Carlo integration, approximation, and stochastic optimization.",
       "contribution": "I formulated distribution-preserving antithetic maps and indices and studied their connection to optimal transport.",
       "group": "Current manuscripts"
+    },
+    "heavy_tail": {
+      "path": "publication/heavy_tail",
+      "status": "Manuscript in preparation",
+      "contribution": "Developing upper and lower oracle complexity bounds for stochastic nonconvex optimization under generalized noise moment growth, and identifying how tail heaviness and dependence on distance or suboptimality affect the achievable rates.",
+      "group": "Current manuscripts"
     }
   }
 }

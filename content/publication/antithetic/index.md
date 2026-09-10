@@ -28,8 +28,8 @@ tags:
 featured: true
 
 # Keep previously shared project links working.
-aliases:
-- /project/antithetic/
+# aliases:
+# - /project/antithetic/
 
 url_preprint: ""
 url_pdf: ""
@@ -37,7 +37,7 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: "/files/project/Zhankun_GroupMeet_251118.pdf"
+url_slides: "/publication/antithetic/Zhankun_GroupMeet_251118.pdf"
 url_source: ""
 url_video: ""
 
