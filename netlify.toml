@@ -20,3 +20,9 @@
   from = "/files/resume/Zhankun_s_Resume.pdf"
   to = "/files/resume/Zhankun_Luo_Resume.pdf"
   status = 301
+
+# Preserve old antithetic project and image URLs after moving the page bundle.
+[[redirects]]
+  from = "/project/antithetic/*"
+  to = "/publication/antithetic/:splat"
+  status = 301

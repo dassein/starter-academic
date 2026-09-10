@@ -7,7 +7,10 @@ manuscript statuses instead of publishing the older application statement PDF.
 
 `data/research_publications.json` controls selected order, published/manuscript groups,
 takeaways, personal contributions, reviewer-rating disclosures and paper recognition.
-All Publications includes every native publication plus the antithetic project.
+All Publications includes every native publication, including the antithetic
+manuscript at `content/publication/antithetic/`. Its former project URL redirects
+to the publication page; its existing slides URL remains unchanged. The listing
+date is page metadata, while the publication status remains "Manuscript in preparation".
 Authors, summaries, abstracts, images, and resources remain in native content pages.
 Author lists retain their original order and highlight Zhankun. The website omits
 equal-contribution markers at the owner's request; original paper PDFs remain intact.

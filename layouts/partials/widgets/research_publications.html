@@ -4,7 +4,7 @@
 {{ $compact := eq $st.Params.mode "all" }}
 {{ $ids := $data.selected }}
 {{ if $compact }}
-  {{ $ids = slice "antithetic" }}
+  {{ $ids = slice }}
   {{ range sort (where site.RegularPages "Type" "publication") "Date" "desc" }}
     {{ $ids = $ids | append .File.ContentBaseName }}
   {{ end }}

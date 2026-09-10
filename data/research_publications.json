@@ -84,7 +84,7 @@
       "takeaway": "Evaluating multi-level RANSAC against time-division and color-division approaches for structured-light vision."
     },
     "antithetic": {
-      "path": "project/antithetic",
+      "path": "publication/antithetic",
       "title": "Generalized Antithetic Variance Reduction: an Optimal Transport Approach",
       "authors": [
         "Zhankun Luo",
@@ -95,7 +95,6 @@
       "status": "Manuscript in preparation",
       "takeaway": "Designing distribution-preserving antithetic maps through optimal transport to reduce variance in Monte Carlo and stochastic optimization.",
       "summary": "Ongoing work on strong antithetic maps and indices that maximize negative dependence while preserving a target distribution, connecting antithetic coupling with geometric optimal transport for Monte Carlo integration, approximation, and stochastic optimization.",
-      "add_project_link": true,
       "contribution": "I formulated distribution-preserving antithetic maps and indices and studied their connection to optimal transport.",
       "group": "Current manuscripts"
     }
