@@ -22,16 +22,16 @@
   {
     "id": "stochastic-estimation",
     "title": "Variance reduction & stochastic optimization",
-    "question": "How do noise structure and estimator design shape convergence and oracle complexity?",
+    "question": "How do noise and estimator design shape oracle complexity?",
     "overview": "/research/#variance-reduction-and-stochastic-optimization",
     "papers": [
       {
         "id": "variance_reduced",
-        "label": "High-probability variance reduction"
+        "label": "High-prob. analysis"
       },
       {
         "id": "rampage",
-        "label": "Randomized midpoint methods"
+        "label": "Randomized midpoints"
       },
       {
         "id": "antithetic",
@@ -39,7 +39,7 @@
       },
       {
         "id": "heavy_tail",
-        "label": "State-dependent heavy-tailed noise"
+        "label": "Heavy-tailed noise"
       }
     ]
   },

@@ -3,6 +3,11 @@ title: "Stochastic Nonconvex Optimization with Heavy-Tailed Noise: Distance and 
 
 authors:
 - Zhankun Luo
+- Arda Fazla
+- Antesh Upadhyay
+- Sang Bin Moon
+- Boonam Shin
+- Abolfazl Hashemi
 
 # Listing date for this in-preparation manuscript, not a publication date.
 date: "2026-09-09T00:00:00Z"
