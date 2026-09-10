@@ -6,7 +6,8 @@
     "variance_reduced",
     "em_2mlr_structural",
     "diffusion_2mlr",
-    "antithetic"
+    "antithetic",
+    "heavy_tail"
   ],
   "items": {
     "em_2mlr": {
