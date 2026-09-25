@@ -3,9 +3,8 @@ title: "Generalized Antithetic Variance Reduction: an Optimal Transport Approach
 
 authors:
 - Zhankun Luo
-- Dongmin Lee
-- Abolfazl Hashemi
 - Anuran Makur
+- Abolfazl Hashemi
 
 # Listing date for this in-preparation manuscript, not a publication date.
 date: "2026-09-09T00:00:00Z"
