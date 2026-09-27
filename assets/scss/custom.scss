@@ -111,6 +111,7 @@
 .research-theme-card p { font-size: .9rem; line-height: 1.55; margin: 0 0 .7rem; }
 .research-theme-card ul { list-style: none; padding: 0; margin: 0; }
 .research-theme-card li { font-size: .8rem; line-height: 1.5; margin: .35rem 0 0; }
+.research-theme-card[aria-labelledby="theme-stochastic-estimation"] a[href$="#paper-variance_reduced"] { white-space: nowrap; }
 .research-theme-card a:focus-visible { outline: 2px solid #1565c0; outline-offset: 3px; }
 .research-theme-card:focus-within { border-color: #1565c0; }
 .dark .research-theme-card { background: #272935; border-color: #526477; border-top-color: #bbdefb; }
