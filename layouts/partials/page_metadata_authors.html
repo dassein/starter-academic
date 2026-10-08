@@ -21,4 +21,7 @@
       {{- end -}}
     {{- end -}}
   {{- end -}}
+  {{- with .Params.author_order_note -}}
+    <div class="author-order-note">{{ . }}</div>
+  {{- end -}}
 {{- end -}}

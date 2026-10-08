@@ -27,8 +27,8 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *IEEE Transactions on Information Theory (IT)*
-publication_short: Submitted to *IT*
+publication: "Revised manuscript submitted to IEEE TIT following a revise-and-resubmit decision"
+publication_short: "IEEE TIT R&R; revised manuscript submitted"
 
 abstract: | 
   This work investigates the structural properties, cycloid trajectories, and non-asymptotic convergence guarantees of the Expectation-Maximization (EM) algorithm for two-component Mixed Linear Regression (2MLR) with unknown mixing weights and regression parameters.

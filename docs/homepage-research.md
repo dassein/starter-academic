@@ -10,11 +10,27 @@ takeaways, personal contributions, reviewer-rating disclosures and paper recogni
 All Publications includes every native publication, including the antithetic
 manuscript at `content/publication/antithetic/`. Its former project URL redirects
 to the publication page; its existing slides URL remains unchanged. The listing
-date is page metadata, while the publication status remains "Manuscript in preparation".
+date is page metadata, while the publication status is "Submitted to AISTATS".
+Submission labels use venue abbreviations without a conference year or a redundant
+preprint year. Published papers retain their venue years; the IEEE TIT manuscript
+retains its revised-after-R&R status, and work in preparation is labeled separately.
 Authors, summaries, abstracts, images, and resources remain in native content pages.
 Author lists retain their original order and highlight Zhankun. The website omits
 equal-contribution markers at the owner's request; original paper PDFs remain intact.
+The antithetic paper's native title and author list are also used in the homepage
+listings. Its `author_order_note` is shown beneath the authors on listings and the
+publication page to explain the alphabetical-by-surname convention, without implying
+equal contribution or contribution-ranked authorship.
 The page_links partial adds an optional `url_project_label` without changing URLs.
+
+Each manuscript uses a native publication folder under `content/publication/`.
+The `distributed_alm/` and `federated_switch_vr/` folders each contain `index.md`
+with full ordered authors, submission status, abstract, and summary, plus `cite.bib`
+with an unpublished-manuscript citation. Their titles in Selected and All Publications
+link to individual publication pages, where the full abstracts and Cite buttons appear.
+Summaries describe the work without assigning unconfirmed personal contributions.
+Private OpenReview URLs are omitted, and resource fields remain empty until public
+manuscripts or code are available. No placeholder PDFs or figures are published.
 
 News is in `content/home/news.md`, with upcoming travel kept separate from completed
 events. UAI June 2026 and CVPRW April 2022 acceptance months use the linked official

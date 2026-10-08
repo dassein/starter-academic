@@ -5,7 +5,8 @@
 {{ $ids := $data.selected }}
 {{ if $compact }}
   {{ $ids = slice }}
-  {{ range sort (where site.RegularPages "Type" "publication") "Date" "desc" }}
+  {{ $allPages := where site.RegularPages "Type" "publication" }}
+  {{ range sort $allPages "Date" "desc" }}
     {{ $ids = $ids | append .File.ContentBaseName }}
   {{ end }}
 {{ end }}

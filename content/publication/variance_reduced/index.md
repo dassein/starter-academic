@@ -43,10 +43,12 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+# Official conference page; retain the preprint and downloadable resources below.
+links:
+- name: NeurIPS 2026
+  url: https://neurips.cc/virtual/2026/loc/atlanta/poster/150668
+  icon_pack: fas
+  icon: external-link-alt
 
 url_preprint: 'https://arxiv.org/abs/2605.15388' #'https://arxiv.org/abs/2603.05774'
 url_pdf: 'publication/variance_reduced/arxiv_variance_reduced.pdf'

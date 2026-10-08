@@ -1,20 +1,21 @@
 ---
-title: "Generalized Antithetic Variance Reduction: an Optimal Transport Approach"
+title: "What Constitutes a Multivariate Antithetic Pair? Representation and Learning via Optimal Transport"
 
 authors:
+- Abolfazl Hashemi
 - Zhankun Luo
 - Anuran Makur
-- Abolfazl Hashemi
+author_order_note: "Authors listed alphabetically by surname."
 
-# Listing date for this in-preparation manuscript, not a publication date.
+# Listing date for this unpublished manuscript, not a publication date.
 date: "2026-09-09T00:00:00Z"
 publishDate: "2026-09-09T00:00:00Z"
 doi: ""
 
 # 3 = Preprint / Working Paper. The status below distinguishes unpublished work.
 publication_types: ["3"]
-publication: "Manuscript in preparation"
-publication_short: "In preparation"
+publication: "Submitted to AISTATS"
+publication_short: "Submitted to AISTATS"
 
 abstract: |
   We study distribution-preserving antithetic maps and indices for variance reduction. The work connects negative dependence and antithetic coupling with geometric optimal transport, with applications to Monte Carlo integration, function approximation, and stochastic optimization.
