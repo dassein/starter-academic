@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Nonconvex Optimization with Heavy-Tailed Noise: Distance and Suboptimality Dependence"
+title: "Stochastic Nonconvex Optimization with Heavy-Tailed Noise: Distance and Objective Variation"
 
 authors:
 - Zhankun Luo
