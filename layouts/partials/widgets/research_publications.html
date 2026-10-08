@@ -4,10 +4,12 @@
 {{ $compact := eq $st.Params.mode "all" }}
 {{ $ids := $data.selected }}
 {{ if $compact }}
-  {{ $ids = slice }}
+  {{ $ids = $data.all_first | default (slice) }}
   {{ $allPages := where site.RegularPages "Type" "publication" }}
   {{ range sort $allPages "Date" "desc" }}
-    {{ $ids = $ids | append .File.ContentBaseName }}
+    {{ if not (in $ids .File.ContentBaseName) }}
+      {{ $ids = $ids | append .File.ContentBaseName }}
+    {{ end }}
   {{ end }}
 {{ end }}
 <div class="row">

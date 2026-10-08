@@ -7,6 +7,9 @@ manuscript statuses instead of publishing the older application statement PDF.
 
 `data/research_publications.json` controls selected order, published/manuscript groups,
 takeaways, personal contributions, reviewer-rating disclosures and paper recognition.
+Its `all_first` list places the heavy-tailed-noise manuscript first in All Publications;
+the remaining entries stay in descending date order, without duplicates. This does
+not change manuscript dates or the order of Selected Publications.
 All Publications includes every native publication, including the antithetic
 manuscript at `content/publication/antithetic/`. Its former project URL redirects
 to the publication page; its existing slides URL remains unchanged. The listing

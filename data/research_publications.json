@@ -1,4 +1,5 @@
 {
+  "all_first": ["heavy_tail"],
   "selected": [
     "variance_reduced",
     "softmax_switchgd",
